@@ -1,0 +1,7317 @@
+job_id,skill
+train-0,communication
+train-3,python
+train-3,sql
+train-3,javascript
+train-3,machine learning
+train-5,communication
+train-10,machine learning
+train-12,data analysis
+train-13,sql
+train-13,machine learning
+train-15,python
+train-15,java
+train-15,javascript
+train-16,sql
+train-27,excel
+train-28,python
+train-28,javascript
+train-30,machine learning
+train-31,java
+train-31,javascript
+train-40,communication
+train-42,docker
+train-42,kubernetes
+train-42,machine learning
+train-43,sql
+train-45,javascript
+train-46,python
+train-46,machine learning
+train-48,java
+train-48,project management
+train-50,git
+train-56,sql
+train-57,project management
+train-62,python
+train-62,aws
+train-62,azure
+train-63,python
+train-65,sql
+train-65,machine learning
+train-66,sql
+train-66,data analysis
+train-68,sql
+train-68,excel
+train-69,java
+train-73,python
+train-73,project management
+train-76,communication
+train-78,communication
+train-79,react
+train-80,sql
+train-80,machine learning
+train-83,project management
+train-84,python
+train-84,sql
+train-84,excel
+train-84,data analysis
+train-89,java
+train-90,sql
+train-91,python
+train-91,java
+train-91,machine learning
+train-95,machine learning
+train-98,python
+train-103,java
+train-107,communication
+train-108,project management
+train-109,java
+train-110,project management
+train-112,data analysis
+train-115,sql
+train-121,sql
+train-121,excel
+train-121,data analysis
+train-123,python
+train-125,python
+train-125,machine learning
+train-126,python
+train-126,machine learning
+train-128,communication
+train-133,sql
+train-133,excel
+train-135,java
+train-136,sql
+train-136,excel
+train-141,project management
+train-144,sql
+train-144,data analysis
+train-150,machine learning
+train-152,data analysis
+train-155,excel
+train-158,project management
+train-159,sql
+train-164,data analysis
+train-165,project management
+train-167,communication
+train-167,project management
+train-172,python
+train-172,machine learning
+train-173,python
+train-173,sql
+train-173,excel
+train-173,machine learning
+train-175,azure
+train-175,project management
+train-176,tableau
+train-183,communication
+train-186,python
+train-186,sql
+train-186,tableau
+train-186,machine learning
+train-189,excel
+train-194,python
+train-194,machine learning
+train-198,python
+train-199,communication
+train-199,project management
+train-200,machine learning
+train-201,project management
+train-203,excel
+train-203,data analysis
+train-221,project management
+train-227,sql
+train-239,python
+train-239,javascript
+train-239,django
+train-249,project management
+train-251,machine learning
+train-252,python
+train-252,sql
+train-252,java
+train-257,project management
+train-269,sql
+train-275,project management
+train-277,java
+train-277,javascript
+train-277,git
+train-278,java
+train-286,python
+train-286,java
+train-286,machine learning
+train-286,data analysis
+train-291,python
+train-291,java
+train-291,aws
+train-291,git
+train-296,javascript
+train-301,sql
+train-302,git
+train-304,communication
+train-310,communication
+train-312,machine learning
+train-316,java
+train-319,communication
+train-322,project management
+train-325,python
+train-325,sql
+train-325,excel
+train-325,tableau
+train-325,data analysis
+train-326,java
+train-331,java
+train-333,sql
+train-336,python
+train-336,sql
+train-336,azure
+train-336,machine learning
+train-340,java
+train-340,javascript
+train-345,python
+train-345,machine learning
+train-349,java
+train-349,javascript
+train-349,node.js
+train-350,python
+train-350,sql
+train-350,tableau
+train-350,machine learning
+train-355,communication
+train-363,machine learning
+train-367,sql
+train-370,excel
+train-371,sql
+train-371,excel
+train-375,excel
+train-378,data analysis
+train-379,sql
+train-381,sql
+train-381,power bi
+train-386,sql
+train-386,azure
+train-387,project management
+train-388,project management
+train-389,excel
+train-391,project management
+train-392,sql
+train-403,project management
+train-406,java
+train-408,java
+train-410,sql
+train-413,python
+train-413,java
+train-413,javascript
+train-413,node.js
+train-413,docker
+train-413,git
+train-415,python
+train-415,javascript
+train-415,docker
+train-415,aws
+train-415,azure
+train-416,excel
+train-417,python
+train-418,sql
+train-422,python
+train-422,machine learning
+train-422,communication
+train-423,sql
+train-423,java
+train-423,aws
+train-424,project management
+train-425,python
+train-427,python
+train-427,data analysis
+train-431,communication
+train-432,communication
+train-434,sql
+train-435,java
+train-436,python
+train-436,sql
+train-436,excel
+train-436,machine learning
+train-438,machine learning
+train-442,sql
+train-442,excel
+train-442,data analysis
+train-448,java
+train-448,javascript
+train-450,aws
+train-453,communication
+train-461,sql
+train-462,python
+train-464,sql
+train-464,excel
+train-464,data analysis
+train-466,sql
+train-466,java
+train-467,python
+train-467,sql
+train-467,java
+train-467,machine learning
+train-469,java
+train-470,project management
+train-471,data analysis
+train-472,java
+train-478,data analysis
+train-481,excel
+train-481,tableau
+train-482,excel
+train-488,java
+train-491,machine learning
+train-494,communication
+train-496,java
+train-498,excel
+train-503,project management
+train-510,python
+train-510,java
+train-510,machine learning
+train-516,communication
+train-517,sql
+train-518,excel
+train-524,sql
+train-526,java
+train-535,data analysis
+train-539,project management
+train-540,sql
+train-541,java
+train-543,python
+train-543,power bi
+train-544,excel
+train-546,java
+train-558,sql
+train-559,excel
+train-566,communication
+train-569,javascript
+train-569,node.js
+train-573,communication
+train-575,sql
+train-575,tableau
+train-576,data analysis
+train-576,project management
+train-578,sql
+train-580,sql
+train-584,python
+train-584,sql
+train-584,java
+train-586,aws
+train-587,python
+train-587,sql
+train-589,communication
+train-594,communication
+train-595,sql
+train-596,project management
+train-601,data analysis
+train-602,python
+train-605,communication
+train-606,machine learning
+train-614,python
+train-629,python
+train-629,machine learning
+train-631,communication
+train-639,python
+train-639,sql
+train-639,machine learning
+train-639,data analysis
+train-642,project management
+train-645,project management
+train-648,sql
+train-648,java
+train-648,javascript
+train-650,java
+train-652,sql
+train-652,machine learning
+train-653,project management
+train-656,machine learning
+train-663,python
+train-663,django
+train-663,git
+train-666,javascript
+train-666,aws
+train-666,git
+train-672,sql
+train-675,git
+train-680,data analysis
+train-683,excel
+train-684,python
+train-689,machine learning
+train-691,sql
+train-691,tableau
+train-693,sql
+train-693,azure
+train-697,power bi
+train-697,tableau
+train-700,python
+train-700,java
+train-700,azure
+train-706,java
+train-706,javascript
+train-713,python
+train-713,machine learning
+train-718,java
+train-718,node.js
+train-718,aws
+train-718,azure
+train-718,machine learning
+train-721,sql
+train-721,data analysis
+train-727,tableau
+train-729,communication
+train-731,python
+train-731,sql
+train-733,data analysis
+train-733,communication
+train-738,communication
+train-740,sql
+train-745,project management
+train-750,communication
+train-751,python
+train-753,python
+train-753,machine learning
+train-756,sql
+train-756,excel
+train-756,data analysis
+train-759,sql
+train-759,excel
+train-763,excel
+train-763,data analysis
+train-767,sql
+train-767,communication
+train-774,python
+train-774,aws
+train-774,azure
+train-776,sql
+train-776,communication
+train-776,project management
+train-777,sql
+train-777,java
+train-780,communication
+train-784,aws
+train-784,azure
+train-788,java
+train-788,docker
+train-788,aws
+train-790,communication
+train-791,communication
+train-792,sql
+train-798,python
+train-799,sql
+train-800,java
+train-802,machine learning
+train-803,machine learning
+train-807,java
+train-808,data analysis
+train-811,sql
+train-811,java
+train-811,kubernetes
+train-811,azure
+train-817,python
+train-817,aws
+train-817,azure
+train-818,python
+train-818,excel
+train-819,javascript
+train-819,react
+train-820,machine learning
+train-824,excel
+train-832,java
+train-832,machine learning
+train-832,communication
+train-838,python
+train-838,tableau
+train-842,sql
+train-842,excel
+train-842,javascript
+train-842,data analysis
+train-850,java
+train-850,azure
+train-852,machine learning
+train-853,sql
+train-853,machine learning
+train-858,python
+train-858,machine learning
+train-860,machine learning
+train-868,python
+train-868,sql
+train-868,machine learning
+train-870,python
+train-870,machine learning
+train-872,excel
+train-873,python
+train-873,azure
+train-878,python
+train-878,java
+train-881,excel
+train-884,sql
+train-890,project management
+train-894,excel
+train-896,sql
+train-896,project management
+train-897,tableau
+train-903,project management
+train-904,data analysis
+train-907,communication
+train-909,sql
+train-910,excel
+train-911,excel
+train-914,sql
+train-914,data analysis
+train-917,python
+train-917,machine learning
+train-917,data analysis
+train-919,project management
+train-925,project management
+train-929,sql
+train-930,machine learning
+train-934,tableau
+train-934,data analysis
+train-937,javascript
+train-941,sql
+train-941,azure
+train-942,python
+train-942,machine learning
+train-947,javascript
+train-949,machine learning
+train-951,sql
+train-951,java
+train-952,communication
+train-954,project management
+train-956,sql
+train-959,java
+train-960,java
+train-960,git
+train-963,javascript
+train-966,power bi
+train-968,python
+train-968,java
+train-968,machine learning
+train-977,java
+train-980,sql
+train-981,sql
+train-981,azure
+train-982,project management
+train-984,sql
+train-985,data analysis
+train-987,java
+train-989,sql
+train-989,java
+train-991,sql
+train-991,machine learning
+train-992,excel
+train-993,sql
+train-999,data analysis
+train-1003,sql
+train-1005,sql
+train-1005,data analysis
+train-1007,python
+train-1007,machine learning
+train-1007,numpy
+train-1014,data analysis
+train-1015,java
+train-1015,javascript
+train-1015,react
+train-1017,project management
+train-1020,project management
+train-1022,python
+train-1022,node.js
+train-1022,django
+train-1023,communication
+train-1025,javascript
+train-1026,machine learning
+train-1027,java
+train-1029,node.js
+train-1029,git
+train-1031,communication
+train-1032,excel
+train-1040,data analysis
+train-1044,java
+train-1047,project management
+train-1048,sql
+train-1048,tableau
+train-1048,data analysis
+train-1050,python
+train-1053,sql
+train-1053,communication
+train-1056,sql
+train-1056,excel
+train-1056,tableau
+train-1066,machine learning
+train-1068,communication
+train-1069,python
+train-1071,java
+train-1073,data analysis
+train-1075,java
+train-1075,javascript
+train-1075,git
+train-1078,python
+train-1078,sql
+train-1078,aws
+train-1078,machine learning
+train-1087,machine learning
+train-1090,sql
+train-1093,sql
+train-1094,javascript
+train-1094,node.js
+train-1094,azure
+train-1094,git
+train-1098,sql
+train-1099,java
+train-1099,node.js
+train-1100,python
+train-1100,machine learning
+train-1101,python
+train-1101,sql
+train-1101,java
+train-1101,django
+train-1101,machine learning
+train-1105,communication
+train-1106,python
+train-1108,aws
+train-1108,azure
+train-1112,communication
+train-1115,java
+train-1119,machine learning
+train-1122,machine learning
+train-1126,excel
+train-1126,communication
+train-1126,project management
+train-1129,project management
+train-1131,java
+train-1136,java
+train-1136,docker
+train-1137,excel
+train-1145,machine learning
+train-1148,java
+train-1149,java
+train-1153,communication
+train-1159,java
+train-1161,excel
+train-1161,machine learning
+train-1165,communication
+train-1166,sql
+train-1166,azure
+train-1169,communication
+train-1171,python
+train-1171,machine learning
+train-1174,python
+train-1174,java
+train-1175,python
+train-1175,data analysis
+train-1178,python
+train-1178,sql
+train-1178,excel
+train-1180,python
+train-1180,java
+train-1182,sql
+train-1185,machine learning
+train-1188,python
+train-1188,data analysis
+train-1200,communication
+train-1205,java
+train-1208,javascript
+train-1208,react
+train-1209,sql
+train-1209,excel
+train-1209,data analysis
+train-1210,excel
+train-1210,data analysis
+train-1212,python
+train-1216,communication
+train-1217,aws
+train-1219,communication
+train-1237,excel
+train-1237,communication
+train-1243,excel
+train-1243,data analysis
+train-1246,java
+train-1248,sql
+train-1248,azure
+train-1249,project management
+train-1250,git
+train-1251,project management
+train-1252,project management
+train-1253,python
+train-1253,machine learning
+train-1259,java
+train-1260,python
+train-1275,java
+train-1275,communication
+train-1278,python
+train-1278,java
+train-1278,machine learning
+train-1287,java
+train-1290,javascript
+train-1291,project management
+train-1298,data analysis
+train-1301,communication
+train-1303,tableau
+train-1304,communication
+train-1305,sql
+train-1309,communication
+train-1316,sql
+train-1318,sql
+train-1318,communication
+train-1321,communication
+train-1325,power bi
+train-1327,excel
+train-1327,communication
+train-1330,java
+train-1334,sql
+train-1337,sql
+train-1337,communication
+train-1351,python
+train-1351,sql
+train-1351,machine learning
+train-1357,project management
+train-1358,python
+train-1361,communication
+train-1363,java
+train-1364,project management
+train-1372,java
+train-1381,java
+train-1381,javascript
+train-1382,communication
+train-1384,sql
+train-1384,power bi
+train-1384,tableau
+train-1387,python
+train-1387,sql
+train-1387,machine learning
+train-1389,machine learning
+train-1391,java
+train-1391,javascript
+train-1392,python
+train-1392,machine learning
+train-1393,java
+train-1394,sql
+train-1399,python
+train-1399,machine learning
+train-1400,project management
+train-1401,project management
+train-1403,javascript
+train-1404,sql
+train-1404,data analysis
+train-1406,communication
+train-1407,project management
+train-1411,python
+train-1411,sql
+train-1411,machine learning
+train-1414,python
+train-1414,sql
+train-1414,communication
+train-1421,sql
+train-1423,python
+train-1429,sql
+train-1429,java
+train-1429,javascript
+train-1434,java
+train-1434,javascript
+train-1434,git
+train-1435,sql
+train-1435,azure
+train-1437,sql
+train-1437,data analysis
+train-1440,python
+train-1440,sql
+train-1440,java
+train-1440,javascript
+train-1442,machine learning
+train-1445,communication
+train-1447,sql
+train-1450,python
+train-1455,node.js
+train-1457,excel
+train-1457,machine learning
+train-1457,data analysis
+train-1458,python
+train-1462,python
+train-1462,machine learning
+train-1462,pandas
+train-1462,numpy
+train-1463,python
+train-1466,project management
+train-1474,javascript
+train-1474,react
+train-1479,sql
+train-1485,python
+train-1485,sql
+train-1485,tableau
+train-1488,sql
+train-1489,excel
+train-1493,python
+train-1493,machine learning
+train-1496,sql
+train-1499,machine learning
+train-1502,communication
+train-1504,communication
+train-1506,communication
+train-1509,python
+train-1514,sql
+train-1514,excel
+train-1514,java
+train-1521,sql
+train-1529,java
+train-1534,machine learning
+train-1537,python
+train-1537,aws
+train-1537,azure
+train-1543,python
+train-1543,sql
+train-1544,java
+train-1546,communication
+train-1552,python
+train-1552,machine learning
+train-1554,project management
+train-1557,machine learning
+train-1558,communication
+train-1560,machine learning
+train-1567,communication
+train-1569,sql
+train-1569,java
+train-1569,node.js
+train-1578,excel
+train-1579,python
+train-1579,java
+train-1579,machine learning
+train-1580,java
+train-1581,sql
+train-1581,power bi
+train-1583,excel
+train-1584,data analysis
+train-1586,sql
+train-1586,java
+train-1589,project management
+train-1590,python
+train-1590,machine learning
+train-1594,sql
+train-1594,excel
+train-1594,tableau
+train-1603,sql
+train-1603,excel
+train-1605,sql
+train-1612,sql
+train-1612,javascript
+train-1612,node.js
+train-1612,azure
+train-1618,sql
+train-1620,sql
+train-1622,project management
+train-1627,java
+train-1627,docker
+train-1628,data analysis
+train-1638,java
+train-1640,tableau
+train-1640,project management
+train-1647,sql
+train-1651,communication
+train-1654,communication
+train-1656,sql
+train-1663,sql
+train-1664,sql
+train-1664,data analysis
+train-1667,python
+train-1667,machine learning
+train-1668,sql
+train-1668,excel
+train-1668,tableau
+train-1668,project management
+train-1669,sql
+train-1671,python
+train-1671,java
+train-1671,machine learning
+train-1673,java
+train-1676,machine learning
+train-1678,python
+train-1679,javascript
+train-1679,react
+train-1679,git
+train-1682,sql
+train-1682,javascript
+train-1683,java
+train-1686,excel
+train-1686,data analysis
+train-1689,python
+train-1692,communication
+train-1693,javascript
+train-1694,communication
+train-1697,project management
+train-1704,python
+train-1704,javascript
+train-1704,react
+train-1704,django
+train-1704,pandas
+train-1704,numpy
+train-1706,python
+train-1706,machine learning
+train-1709,sql
+train-1710,azure
+train-1716,communication
+train-1725,machine learning
+train-1727,communication
+train-1734,machine learning
+train-1735,excel
+train-1735,communication
+train-1738,data analysis
+train-1739,java
+train-1739,javascript
+train-1739,node.js
+train-1744,sql
+train-1745,java
+train-1745,node.js
+train-1745,aws
+train-1745,azure
+train-1745,machine learning
+train-1746,excel
+train-1746,communication
+train-1748,python
+train-1755,project management
+train-1761,python
+train-1761,sql
+train-1764,python
+train-1765,project management
+train-1769,sql
+train-1769,excel
+train-1769,data analysis
+train-1773,sql
+train-1773,machine learning
+train-1779,data analysis
+train-1788,sql
+train-1788,machine learning
+train-1796,data analysis
+train-1798,sql
+train-1798,excel
+train-1802,python
+train-1802,sql
+train-1802,tableau
+train-1806,java
+train-1806,javascript
+train-1808,python
+train-1808,java
+train-1808,node.js
+train-1809,sql
+train-1809,java
+train-1812,project management
+train-1819,python
+train-1819,machine learning
+train-1820,data analysis
+train-1820,communication
+train-1824,data analysis
+train-1830,machine learning
+train-1833,sql
+train-1836,python
+train-1836,machine learning
+train-1837,python
+train-1837,sql
+train-1837,excel
+train-1842,javascript
+train-1844,python
+train-1844,machine learning
+train-1845,sql
+train-1846,communication
+train-1847,java
+train-1847,javascript
+train-1847,node.js
+train-1851,python
+train-1851,machine learning
+train-1852,sql
+train-1852,azure
+train-1853,python
+train-1853,communication
+train-1853,project management
+train-1857,excel
+train-1859,javascript
+train-1864,sql
+train-1865,python
+train-1866,tableau
+train-1869,project management
+train-1876,python
+train-1876,machine learning
+train-1876,data analysis
+train-1878,communication
+train-1881,java
+train-1881,javascript
+train-1885,project management
+train-1890,java
+train-1891,java
+train-1892,machine learning
+train-1893,python
+train-1899,excel
+train-1899,data analysis
+train-1905,python
+train-1905,sql
+train-1915,azure
+train-1915,project management
+train-1917,python
+train-1917,machine learning
+train-1922,tableau
+train-1923,project management
+train-1925,machine learning
+train-1937,communication
+train-1942,python
+train-1944,sql
+train-1950,sql
+train-1950,project management
+train-1951,python
+train-1951,java
+train-1951,machine learning
+train-1958,data analysis
+train-1959,git
+train-1962,python
+train-1962,java
+train-1966,java
+train-1970,excel
+train-1971,communication
+train-1972,communication
+train-1973,python
+train-1973,aws
+train-1982,sql
+train-1984,sql
+train-1989,data analysis
+train-1992,communication
+train-1993,java
+train-1993,machine learning
+train-1994,communication
+train-1996,sql
+train-1996,project management
+train-1997,sql
+train-2001,python
+train-2001,java
+train-2001,machine learning
+train-2006,python
+train-2006,sql
+train-2006,machine learning
+train-2007,python
+train-2007,javascript
+train-2007,django
+train-2015,machine learning
+train-2018,python
+train-2018,java
+train-2020,sql
+train-2020,excel
+train-2022,python
+train-2022,sql
+train-2022,java
+train-2022,machine learning
+train-2024,azure
+train-2028,sql
+train-2028,java
+train-2031,data analysis
+train-2034,java
+train-2034,javascript
+train-2035,machine learning
+train-2039,python
+train-2039,excel
+train-2039,tableau
+train-2039,data analysis
+train-2042,java
+train-2043,project management
+train-2057,javascript
+train-2063,python
+train-2063,machine learning
+train-2065,data analysis
+train-2069,python
+train-2069,sql
+train-2069,machine learning
+train-2070,sql
+train-2075,project management
+train-2077,git
+train-2081,sql
+train-2081,azure
+train-2083,python
+train-2083,machine learning
+train-2083,data analysis
+train-2084,data analysis
+train-2085,sql
+train-2088,python
+train-2088,javascript
+train-2088,node.js
+train-2088,git
+train-2096,java
+train-2096,javascript
+train-2096,aws
+train-2097,python
+train-2097,sql
+train-2097,machine learning
+train-2098,sql
+train-2099,java
+train-2106,sql
+train-2114,communication
+train-2123,python
+train-2124,excel
+train-2134,java
+train-2139,java
+train-2142,project management
+train-2145,excel
+train-2145,project management
+train-2148,communication
+train-2153,sql
+train-2153,java
+train-2153,javascript
+train-2155,machine learning
+train-2156,sql
+train-2157,javascript
+train-2157,data analysis
+train-2159,project management
+train-2161,java
+train-2171,sql
+train-2171,excel
+train-2176,sql
+train-2176,javascript
+train-2180,sql
+train-2180,java
+train-2193,communication
+train-2194,machine learning
+train-2198,javascript
+train-2199,sql
+train-2199,data analysis
+train-2202,data analysis
+train-2204,python
+train-2204,machine learning
+train-2205,sql
+train-2205,excel
+train-2211,python
+train-2211,sql
+train-2211,machine learning
+train-2227,sql
+train-2227,data analysis
+train-2239,project management
+train-2240,sql
+train-2241,excel
+train-2242,sql
+train-2246,communication
+train-2255,excel
+train-2257,sql
+train-2257,excel
+train-2257,data analysis
+train-2263,sql
+train-2264,project management
+train-2267,sql
+train-2270,python
+train-2270,sql
+train-2270,azure
+train-2270,machine learning
+train-2271,java
+train-2271,machine learning
+train-2280,sql
+train-2280,excel
+train-2281,excel
+train-2283,python
+train-2283,java
+train-2290,sql
+train-2290,java
+train-2290,javascript
+train-2290,data analysis
+train-2291,sql
+train-2292,javascript
+train-2294,project management
+train-2295,java
+train-2296,sql
+train-2297,project management
+train-2298,excel
+train-2298,communication
+train-2300,excel
+train-2303,data analysis
+train-2303,communication
+train-2306,data analysis
+train-2306,communication
+train-2307,sql
+train-2310,sql
+train-2314,python
+train-2314,numpy
+train-2317,communication
+train-2323,communication
+train-2329,sql
+train-2329,tableau
+train-2335,project management
+train-2336,javascript
+train-2336,node.js
+train-2340,communication
+train-2345,data analysis
+train-2347,machine learning
+train-2347,communication
+train-2351,excel
+train-2353,project management
+train-2354,sql
+train-2354,azure
+train-2356,sql
+train-2356,data analysis
+train-2357,sql
+train-2367,python
+train-2367,django
+train-2367,docker
+train-2369,project management
+train-2373,power bi
+train-2388,sql
+train-2388,azure
+train-2391,project management
+train-2396,python
+train-2396,machine learning
+train-2401,data analysis
+train-2402,sql
+train-2405,data analysis
+train-2408,communication
+train-2409,communication
+train-2409,project management
+train-2410,javascript
+train-2417,machine learning
+train-2417,data analysis
+train-2417,communication
+train-2418,sql
+train-2418,tableau
+train-2418,data analysis
+train-2422,excel
+train-2424,aws
+train-2424,azure
+train-2426,sql
+train-2428,sql
+train-2432,java
+train-2446,project management
+train-2454,python
+train-2454,java
+train-2454,machine learning
+train-2459,python
+train-2459,django
+train-2470,python
+train-2470,docker
+train-2470,aws
+train-2471,communication
+train-2475,sql
+train-2475,power bi
+train-2485,sql
+train-2486,java
+train-2493,data analysis
+train-2494,java
+train-2500,python
+train-2500,sql
+train-2500,numpy
+train-2505,react
+train-2505,node.js
+train-2510,machine learning
+train-2515,azure
+train-2518,python
+train-2518,machine learning
+train-2522,sql
+train-2524,java
+train-2524,communication
+train-2526,data analysis
+train-2528,java
+train-2528,project management
+train-2529,machine learning
+train-2529,numpy
+train-2539,java
+train-2547,sql
+train-2550,javascript
+train-2561,sql
+train-2562,java
+train-2562,javascript
+train-2564,excel
+train-2566,excel
+train-2566,data analysis
+train-2584,excel
+train-2595,java
+train-2601,sql
+train-2601,excel
+train-2601,data analysis
+train-2602,machine learning
+train-2609,machine learning
+train-2621,sql
+train-2622,javascript
+train-2624,data analysis
+train-2627,sql
+train-2627,tableau
+train-2628,python
+train-2628,machine learning
+train-2629,sql
+train-2635,aws
+train-2636,sql
+train-2636,excel
+train-2636,tableau
+train-2636,data analysis
+train-2646,project management
+train-2647,excel
+train-2653,sql
+train-2653,excel
+train-2655,communication
+train-2656,excel
+train-2660,sql
+train-2660,communication
+train-2661,python
+train-2661,sql
+train-2661,java
+train-2661,machine learning
+train-2673,sql
+train-2673,communication
+train-2675,javascript
+train-2678,java
+train-2679,python
+train-2679,sql
+train-2679,java
+train-2679,azure
+train-2680,python
+train-2680,sql
+train-2691,sql
+train-2691,project management
+train-2693,java
+train-2697,sql
+train-2697,tableau
+train-2699,machine learning
+train-2699,data analysis
+train-2700,java
+train-2704,python
+train-2704,sql
+train-2704,excel
+train-2704,data analysis
+train-2705,java
+train-2705,javascript
+train-2709,sql
+train-2709,java
+train-2709,javascript
+train-2709,data analysis
+train-2715,sql
+train-2715,excel
+train-2727,sql
+train-2727,machine learning
+train-2729,excel
+train-2729,data analysis
+train-2729,communication
+train-2732,communication
+train-2735,python
+train-2735,java
+train-2735,machine learning
+train-2738,machine learning
+train-2740,python
+train-2742,machine learning
+train-2745,java
+train-2746,data analysis
+train-2747,communication
+train-2750,project management
+train-2759,sql
+train-2759,data analysis
+train-2762,communication
+train-2768,sql
+train-2768,machine learning
+train-2770,communication
+train-2773,sql
+train-2773,java
+train-2775,communication
+train-2776,project management
+train-2780,sql
+train-2780,machine learning
+train-2781,sql
+train-2781,power bi
+train-2781,data analysis
+train-2786,sql
+train-2786,java
+train-2788,excel
+train-2790,project management
+train-2793,java
+train-2793,aws
+train-2800,excel
+train-2800,data analysis
+train-2800,communication
+train-2801,data analysis
+train-2805,project management
+train-2807,excel
+train-2807,communication
+train-2809,communication
+train-2811,sql
+train-2811,data analysis
+train-2815,sql
+train-2818,excel
+train-2819,project management
+train-2820,project management
+train-2826,excel
+train-2827,javascript
+train-2829,excel
+train-2831,sql
+train-2831,java
+train-2835,sql
+train-2835,java
+train-2842,communication
+train-2852,machine learning
+train-2853,communication
+train-2856,javascript
+train-2856,node.js
+train-2863,java
+train-2864,machine learning
+train-2868,sql
+train-2868,excel
+train-2868,communication
+train-2872,communication
+train-2875,java
+train-2875,node.js
+train-2878,sql
+train-2878,project management
+train-2880,java
+train-2885,java
+train-2896,javascript
+train-2898,excel
+train-2904,data analysis
+train-2910,sql
+train-2916,java
+train-2916,git
+train-2917,python
+train-2917,sql
+train-2919,project management
+train-2921,project management
+train-2922,javascript
+train-2922,react
+train-2922,node.js
+train-2924,power bi
+train-2924,data analysis
+train-2934,project management
+train-2937,sql
+train-2938,java
+train-2945,javascript
+train-2945,node.js
+train-2950,project management
+train-2954,sql
+train-2954,java
+train-2955,java
+train-2956,python
+train-2956,java
+train-2956,javascript
+train-2956,azure
+train-2956,git
+train-2956,machine learning
+train-2961,project management
+train-2965,java
+train-2967,sql
+train-2967,communication
+train-2969,sql
+train-2969,javascript
+train-2970,python
+train-2970,machine learning
+train-2971,machine learning
+train-2971,data analysis
+train-2981,java
+train-2984,java
+train-2986,communication
+train-2990,java
+train-2990,javascript
+train-2997,python
+train-2997,java
+train-2997,javascript
+train-2999,python
+train-2999,machine learning
+train-3003,react
+train-3004,sql
+train-3004,excel
+train-3006,data analysis
+train-3010,communication
+train-3010,project management
+train-3012,data analysis
+train-3017,python
+train-3017,machine learning
+train-3017,data analysis
+train-3022,project management
+train-3023,sql
+train-3023,excel
+train-3023,data analysis
+train-3023,project management
+train-3025,sql
+train-3037,excel
+train-3037,project management
+train-3040,machine learning
+train-3040,data analysis
+train-3048,project management
+train-3049,aws
+train-3049,communication
+train-3050,project management
+train-3054,project management
+train-3056,python
+train-3056,java
+train-3056,javascript
+train-3057,machine learning
+train-3057,data analysis
+train-3059,communication
+train-3059,project management
+train-3063,java
+train-3065,java
+train-3065,project management
+train-3066,java
+train-3066,javascript
+train-3066,aws
+train-3067,python
+train-3067,machine learning
+train-3067,data analysis
+train-3083,sql
+train-3083,power bi
+train-3084,data analysis
+train-3089,sql
+train-3089,machine learning
+train-3092,data analysis
+train-3093,excel
+train-3093,communication
+train-3094,python
+train-3094,java
+train-3094,machine learning
+train-3100,sql
+train-3100,machine learning
+train-3101,tableau
+train-3109,machine learning
+train-3119,sql
+train-3119,excel
+train-3123,python
+train-3123,communication
+train-3123,project management
+train-3125,machine learning
+train-3134,sql
+train-3134,power bi
+train-3134,communication
+train-3138,sql
+train-3138,javascript
+train-3140,java
+train-3142,python
+train-3142,machine learning
+train-3145,communication
+train-3150,sql
+train-3152,project management
+train-3158,python
+train-3158,excel
+train-3161,python
+train-3161,java
+train-3163,communication
+train-3165,sql
+train-3167,python
+train-3167,communication
+train-3171,java
+train-3171,aws
+train-3172,machine learning
+train-3186,java
+train-3191,java
+train-3191,communication
+train-3192,communication
+train-3193,sql
+train-3195,data analysis
+train-3217,project management
+train-3220,python
+train-3220,sql
+train-3220,java
+train-3220,aws
+train-3222,communication
+train-3228,communication
+train-3232,sql
+train-3232,excel
+train-3232,tableau
+train-3234,python
+train-3234,machine learning
+train-3237,python
+train-3237,machine learning
+train-3238,azure
+train-3245,python
+train-3245,java
+train-3248,sql
+train-3250,machine learning
+train-3252,machine learning
+train-3254,data analysis
+train-3256,excel
+train-3273,python
+train-3273,machine learning
+train-3284,python
+train-3284,sql
+train-3284,machine learning
+train-3284,data analysis
+train-3286,data analysis
+train-3294,sql
+train-3302,java
+train-3302,javascript
+train-3305,java
+train-3305,javascript
+train-3305,communication
+train-3313,sql
+train-3317,communication
+train-3328,python
+train-3328,machine learning
+train-3333,sql
+train-3334,java
+train-3336,project management
+train-3337,project management
+train-3340,communication
+train-3341,java
+train-3341,javascript
+train-3347,sql
+train-3347,data analysis
+train-3350,python
+train-3350,sql
+train-3353,javascript
+train-3355,javascript
+train-3357,python
+train-3357,java
+train-3357,javascript
+train-3357,azure
+train-3361,project management
+train-3362,machine learning
+train-3368,power bi
+train-3369,python
+train-3369,java
+train-3373,java
+train-3374,machine learning
+train-3374,data analysis
+train-3383,machine learning
+train-3384,python
+train-3384,java
+train-3384,machine learning
+train-3386,machine learning
+train-3392,project management
+train-3395,python
+train-3395,django
+train-3397,sql
+train-3402,excel
+train-3409,communication
+train-3420,azure
+train-3424,sql
+train-3424,excel
+train-3424,tableau
+train-3425,excel
+train-3425,data analysis
+train-3429,excel
+train-3432,sql
+train-3432,data analysis
+train-3446,machine learning
+train-3450,java
+train-3461,communication
+train-3465,sql
+train-3465,java
+train-3465,javascript
+train-3468,javascript
+train-3468,git
+train-3470,project management
+train-3477,sql
+train-3477,java
+train-3479,javascript
+train-3487,java
+train-3490,data analysis
+train-3499,python
+train-3499,azure
+train-3499,machine learning
+train-3500,sql
+train-3500,excel
+train-3500,data analysis
+train-3501,python
+train-3501,java
+train-3501,node.js
+train-3501,aws
+train-3503,data analysis
+train-3503,project management
+train-3511,javascript
+train-3514,sql
+train-3514,excel
+train-3514,data analysis
+train-3518,tableau
+train-3518,azure
+train-3518,machine learning
+train-3523,sql
+train-3524,sql
+train-3524,java
+train-3524,javascript
+train-3525,tableau
+train-3526,java
+train-3531,project management
+train-3532,communication
+train-3533,communication
+train-3535,python
+train-3555,sql
+train-3555,communication
+train-3558,data analysis
+train-3559,sql
+train-3560,excel
+train-3563,machine learning
+train-3566,java
+train-3567,sql
+train-3567,excel
+train-3567,data analysis
+train-3571,project management
+train-3576,python
+train-3576,communication
+train-3576,project management
+train-3578,communication
+train-3581,python
+train-3586,javascript
+train-3600,javascript
+train-3603,machine learning
+train-3615,sql
+train-3626,python
+train-3632,sql
+train-3632,excel
+train-3632,java
+train-3634,sql
+train-3644,data analysis
+train-3648,data analysis
+train-3649,sql
+train-3654,sql
+train-3654,java
+train-3656,sql
+train-3656,machine learning
+train-3674,sql
+train-3674,communication
+train-3675,excel
+train-3676,sql
+train-3676,data analysis
+train-3677,excel
+train-3683,excel
+train-3700,python
+train-3705,python
+train-3716,python
+train-3716,sql
+train-3716,java
+train-3716,machine learning
+train-3718,node.js
+train-3718,aws
+train-3726,sql
+train-3730,python
+train-3736,sql
+train-3736,power bi
+train-3736,tableau
+train-3737,machine learning
+train-3738,sql
+train-3738,java
+train-3738,javascript
+train-3747,aws
+train-3747,project management
+train-3753,python
+train-3753,sql
+train-3753,java
+train-3758,communication
+train-3762,sql
+train-3762,javascript
+train-3767,communication
+train-3770,java
+train-3770,javascript
+train-3772,communication
+train-3773,python
+train-3775,python
+train-3778,excel
+train-3784,communication
+train-3787,sql
+train-3791,communication
+train-3793,python
+train-3793,java
+train-3793,machine learning
+train-3795,sql
+train-3797,communication
+train-3800,communication
+train-3806,python
+train-3806,sql
+train-3811,excel
+train-3816,communication
+train-3816,project management
+train-3819,javascript
+train-3827,java
+train-3827,javascript
+train-3828,java
+train-3834,project management
+train-3837,sql
+train-3837,excel
+train-3837,power bi
+train-3843,sql
+train-3843,excel
+train-3845,project management
+train-3846,python
+train-3846,sql
+train-3846,tableau
+train-3848,python
+train-3848,java
+train-3848,machine learning
+train-3850,sql
+train-3850,excel
+train-3851,sql
+train-3851,power bi
+train-3851,tableau
+train-3862,power bi
+train-3862,tableau
+train-3862,project management
+train-3864,python
+train-3864,excel
+train-3864,tableau
+train-3881,java
+train-3881,javascript
+train-3881,react
+train-3882,python
+train-3886,sql
+train-3886,data analysis
+train-3887,data analysis
+train-3887,communication
+train-3890,python
+train-3891,data analysis
+train-3895,python
+train-3895,sql
+train-3895,excel
+train-3896,sql
+train-3902,machine learning
+train-3903,project management
+train-3905,project management
+train-3908,project management
+train-3913,data analysis
+train-3918,sql
+train-3918,java
+train-3919,java
+train-3929,communication
+train-3937,tableau
+train-3947,python
+train-3955,javascript
+train-3956,sql
+train-3956,data analysis
+train-3957,java
+train-3968,sql
+train-3969,excel
+train-3969,data analysis
+train-3975,project management
+train-3976,sql
+train-3982,sql
+train-3982,java
+train-3983,excel
+train-3987,python
+train-3987,sql
+train-3987,tableau
+train-3987,data analysis
+train-3988,data analysis
+train-3988,project management
+train-3989,java
+train-3992,data analysis
+train-3995,java
+train-3996,project management
+train-3999,project management
+train-4001,project management
+train-4006,javascript
+train-4007,python
+train-4008,python
+train-4008,sql
+train-4008,data analysis
+train-4009,project management
+train-4011,sql
+train-4012,sql
+train-4017,machine learning
+train-4019,machine learning
+train-4028,project management
+train-4035,sql
+train-4042,python
+train-4042,javascript
+train-4042,django
+train-4044,python
+train-4044,java
+train-4048,java
+train-4048,data analysis
+train-4050,communication
+train-4051,communication
+train-4054,sql
+train-4054,data analysis
+train-4055,azure
+train-4055,communication
+train-4060,machine learning
+train-4062,communication
+train-4065,sql
+train-4069,communication
+train-4072,excel
+train-4072,data analysis
+train-4076,sql
+train-4079,sql
+train-4079,java
+train-4083,data analysis
+train-4086,python
+train-4086,java
+train-4086,aws
+train-4090,sql
+train-4096,communication
+train-4098,excel
+train-4098,communication
+train-4102,java
+train-4102,javascript
+train-4104,excel
+train-4108,python
+train-4108,sql
+train-4108,machine learning
+train-4113,python
+train-4113,docker
+train-4113,azure
+train-4118,sql
+train-4119,communication
+train-4131,sql
+train-4131,javascript
+train-4131,azure
+train-4132,sql
+train-4135,python
+train-4135,sql
+train-4135,machine learning
+train-4136,project management
+train-4148,communication
+train-4150,project management
+train-4151,project management
+train-4153,sql
+train-4153,power bi
+train-4153,data analysis
+train-4154,docker
+train-4156,sql
+train-4156,excel
+train-4156,tableau
+train-4160,python
+train-4160,java
+train-4160,machine learning
+train-4163,communication
+train-4164,python
+train-4164,excel
+train-4166,sql
+train-4166,excel
+train-4166,data analysis
+train-4170,data analysis
+train-4171,python
+train-4171,java
+train-4171,machine learning
+train-4187,sql
+train-4194,java
+train-4194,javascript
+train-4194,project management
+train-4196,python
+train-4196,java
+train-4196,data analysis
+train-4211,machine learning
+train-4214,project management
+train-4215,sql
+train-4215,java
+train-4215,javascript
+train-4221,communication
+train-4233,sql
+train-4233,javascript
+train-4236,sql
+train-4237,sql
+train-4237,java
+train-4239,python
+train-4239,sql
+train-4239,machine learning
+train-4242,python
+train-4244,python
+train-4250,excel
+train-4250,data analysis
+train-4252,excel
+train-4252,tableau
+train-4254,python
+train-4254,sql
+train-4257,project management
+train-4263,java
+train-4266,communication
+train-4268,python
+train-4268,sql
+train-4268,tableau
+train-4268,machine learning
+train-4278,java
+train-4278,javascript
+train-4282,sql
+train-4282,communication
+train-4286,project management
+train-4287,java
+train-4292,power bi
+train-4292,tableau
+train-4297,project management
+train-4304,sql
+train-4311,python
+train-4311,excel
+train-4311,machine learning
+train-4311,data analysis
+train-4314,excel
+train-4314,data analysis
+train-4316,machine learning
+train-4322,python
+train-4326,excel
+train-4329,java
+train-4329,project management
+train-4330,javascript
+train-4332,sql
+train-4334,java
+train-4334,git
+train-4335,project management
+train-4339,communication
+train-4343,excel
+train-4343,data analysis
+train-4344,excel
+train-4344,communication
+train-4350,java
+train-4350,javascript
+train-4359,python
+train-4359,java
+train-4361,project management
+train-4366,machine learning
+train-4369,python
+train-4369,machine learning
+train-4374,java
+train-4374,javascript
+train-4379,data analysis
+train-4380,project management
+train-4383,excel
+train-4383,data analysis
+train-4387,sql
+train-4389,sql
+train-4396,python
+train-4396,communication
+train-4399,sql
+train-4402,javascript
+train-4408,python
+train-4408,sql
+train-4412,project management
+train-4414,machine learning
+train-4418,excel
+train-4434,aws
+train-4437,sql
+train-4437,java
+train-4438,communication
+train-4440,excel
+train-4441,sql
+train-4441,java
+train-4441,javascript
+train-4444,communication
+train-4447,machine learning
+train-4447,numpy
+train-4451,sql
+train-4451,javascript
+train-4452,excel
+train-4452,tableau
+train-4454,data analysis
+train-4455,project management
+train-4489,python
+train-4489,java
+train-4500,project management
+train-4501,communication
+train-4510,java
+train-4512,communication
+train-4516,java
+train-4517,javascript
+train-4523,excel
+train-4529,sql
+train-4529,excel
+train-4529,data analysis
+train-4530,machine learning
+train-4531,sql
+train-4531,excel
+train-4532,machine learning
+train-4535,excel
+train-4538,data analysis
+train-4540,sql
+train-4544,python
+train-4550,data analysis
+train-4552,sql
+train-4558,python
+train-4558,sql
+train-4558,java
+train-4558,machine learning
+train-4562,communication
+train-4573,project management
+train-4574,sql
+train-4574,javascript
+train-4577,excel
+train-4582,python
+train-4583,sql
+train-4583,java
+train-4585,javascript
+train-4585,git
+train-4598,java
+train-4598,javascript
+train-4605,javascript
+train-4605,react
+train-4606,python
+train-4606,java
+train-4614,machine learning
+train-4616,sql
+train-4617,aws
+train-4620,excel
+train-4623,communication
+train-4629,sql
+train-4631,python
+train-4636,sql
+train-4636,tableau
+train-4638,aws
+train-4638,project management
+train-4639,sql
+train-4640,communication
+train-4641,sql
+train-4647,machine learning
+train-4648,sql
+train-4654,communication
+train-4658,javascript
+train-4662,sql
+train-4662,azure
+train-4672,communication
+train-4676,sql
+train-4676,data analysis
+train-4687,communication
+train-4691,excel
+train-4692,data analysis
+train-4695,python
+train-4695,sql
+train-4695,machine learning
+train-4695,numpy
+train-4697,excel
+train-4697,communication
+train-4701,sql
+train-4704,python
+train-4704,excel
+train-4704,data analysis
+train-4704,project management
+train-4711,communication
+train-4712,java
+train-4718,excel
+train-4724,sql
+train-4726,sql
+train-4726,excel
+train-4728,project management
+train-4741,sql
+train-4745,python
+train-4745,sql
+train-4747,sql
+train-4748,python
+train-4748,sql
+train-4748,machine learning
+train-4759,sql
+train-4761,communication
+train-4768,javascript
+train-4768,node.js
+train-4775,java
+train-4776,sql
+train-4776,project management
+train-4783,java
+train-4783,javascript
+train-4784,sql
+train-4787,communication
+train-4788,communication
+train-4789,java
+train-4789,javascript
+train-4789,node.js
+train-4801,sql
+train-4801,excel
+train-4803,sql
+train-4806,node.js
+train-4810,data analysis
+train-4811,communication
+train-4813,project management
+train-4818,communication
+train-4821,java
+train-4821,javascript
+train-4823,java
+train-4823,node.js
+train-4829,communication
+train-4832,data analysis
+train-4832,project management
+train-4833,excel
+train-4833,data analysis
+train-4844,project management
+train-4851,project management
+train-4864,project management
+train-4865,excel
+train-4865,machine learning
+train-4881,sql
+train-4881,excel
+train-4883,machine learning
+train-4887,communication
+train-4888,python
+train-4888,machine learning
+train-4895,project management
+train-4908,python
+train-4908,sql
+train-4912,sql
+train-4914,python
+train-4914,javascript
+train-4914,django
+train-4922,machine learning
+train-4923,python
+train-4923,machine learning
+train-4943,azure
+train-4950,project management
+train-4956,sql
+train-4958,java
+train-4965,machine learning
+train-4965,project management
+train-4966,python
+train-4966,django
+train-4966,project management
+train-4974,javascript
+train-4974,azure
+train-4976,java
+train-4979,sql
+train-4979,excel
+train-4985,tableau
+train-4993,communication
+train-4998,tableau
+train-4998,data analysis
+train-5001,javascript
+train-5006,data analysis
+train-5012,python
+train-5012,sql
+train-5012,java
+train-5012,machine learning
+train-5014,python
+train-5014,java
+train-5016,python
+train-5016,machine learning
+train-5018,python
+train-5018,sql
+train-5021,javascript
+train-5023,sql
+train-5023,data analysis
+train-5025,sql
+train-5025,javascript
+train-5034,power bi
+train-5036,excel
+train-5037,java
+train-5038,javascript
+train-5039,sql
+train-5039,machine learning
+train-5043,power bi
+train-5043,tableau
+train-5043,data analysis
+train-5045,project management
+train-5047,communication
+train-5048,javascript
+train-5048,data analysis
+train-5049,javascript
+train-5049,communication
+train-5050,sql
+train-5050,data analysis
+train-5052,sql
+train-5057,tableau
+train-5077,java
+train-5077,project management
+train-5080,python
+train-5080,machine learning
+train-5084,sql
+train-5086,communication
+train-5088,node.js
+train-5089,sql
+train-5089,java
+train-5090,machine learning
+train-5090,data analysis
+train-5099,sql
+train-5100,communication
+train-5103,sql
+train-5120,excel
+train-5123,excel
+train-5123,tableau
+train-5127,communication
+train-5131,excel
+train-5131,communication
+train-5134,excel
+train-5145,javascript
+train-5145,git
+train-5147,communication
+train-5154,java
+train-5155,sql
+train-5155,machine learning
+train-5156,python
+train-5156,machine learning
+train-5158,communication
+train-5159,excel
+train-5159,data analysis
+train-5160,node.js
+train-5162,python
+train-5162,sql
+train-5162,machine learning
+train-5164,project management
+train-5168,data analysis
+train-5172,python
+train-5172,java
+train-5172,machine learning
+train-5177,python
+train-5177,machine learning
+train-5183,javascript
+train-5186,communication
+train-5188,excel
+train-5188,data analysis
+train-5191,java
+train-5194,python
+train-5194,java
+train-5194,machine learning
+train-5196,python
+train-5196,machine learning
+train-5196,communication
+train-5198,python
+train-5198,machine learning
+train-5198,data analysis
+train-5199,javascript
+train-5209,sql
+train-5209,java
+train-5215,python
+train-5232,excel
+train-5234,python
+train-5243,javascript
+train-5244,sql
+train-5244,javascript
+train-5247,java
+train-5250,python
+train-5250,tableau
+train-5252,data analysis
+train-5254,sql
+train-5254,java
+train-5255,communication
+train-5257,sql
+train-5259,java
+train-5268,python
+train-5268,sql
+train-5268,java
+train-5269,java
+train-5270,javascript
+train-5278,docker
+train-5288,communication
+train-5291,excel
+train-5291,communication
+train-5295,sql
+train-5295,java
+train-5296,python
+train-5296,machine learning
+train-5302,python
+train-5306,java
+train-5309,sql
+train-5310,java
+train-5310,git
+train-5312,machine learning
+train-5314,communication
+train-5315,java
+train-5316,sql
+train-5316,data analysis
+train-5318,python
+train-5318,java
+train-5318,javascript
+train-5318,django
+train-5319,sql
+train-5319,java
+train-5319,javascript
+train-5319,react
+train-5319,docker
+train-5325,java
+train-5326,excel
+train-5330,communication
+train-5335,data analysis
+train-5341,project management
+train-5346,tableau
+train-5351,machine learning
+train-5357,sql
+train-5357,power bi
+train-5357,tableau
+train-5358,javascript
+train-5359,excel
+train-5364,power bi
+train-5365,project management
+train-5373,communication
+train-5380,excel
+train-5388,java
+train-5389,project management
+train-5390,javascript
+train-5394,data analysis
+train-5399,java
+train-5399,machine learning
+train-5402,python
+train-5402,machine learning
+train-5404,project management
+train-5405,java
+train-5412,communication
+train-5413,project management
+train-5418,python
+train-5418,excel
+train-5418,tableau
+train-5418,communication
+train-5420,python
+train-5420,java
+train-5424,data analysis
+train-5431,tableau
+train-5439,data analysis
+train-5440,sql
+train-5440,excel
+train-5440,project management
+train-5441,java
+train-5447,excel
+train-5454,sql
+train-5457,sql
+train-5465,python
+train-5465,java
+train-5465,javascript
+train-5465,azure
+train-5469,sql
+train-5479,project management
+train-5483,sql
+train-5483,java
+train-5491,excel
+train-5492,communication
+train-5495,python
+train-5495,machine learning
+train-5499,machine learning
+train-5508,project management
+train-5514,excel
+train-5516,sql
+train-5521,python
+train-5522,sql
+train-5536,java
+train-5544,data analysis
+train-5547,data analysis
+train-5547,communication
+train-5548,sql
+train-5550,project management
+train-5552,communication
+train-5553,javascript
+train-5553,azure
+train-5556,java
+train-5558,communication
+train-5582,communication
+train-5590,sql
+train-5594,data analysis
+train-5596,python
+train-5596,sql
+train-5596,java
+train-5596,machine learning
+train-5599,tableau
+train-5599,project management
+train-5600,javascript
+train-5601,python
+train-5601,java
+train-5601,docker
+train-5602,project management
+train-5606,java
+train-5606,javascript
+train-5609,sql
+train-5609,excel
+train-5609,tableau
+train-5610,sql
+train-5611,python
+train-5611,excel
+train-5611,tableau
+train-5611,java
+train-5611,data analysis
+train-5628,excel
+train-5628,communication
+train-5630,python
+train-5630,sql
+train-5630,django
+train-5630,aws
+train-5641,python
+train-5641,machine learning
+train-5648,python
+train-5648,sql
+train-5648,java
+train-5650,python
+train-5650,machine learning
+train-5652,javascript
+train-5653,sql
+train-5653,java
+train-5657,python
+train-5657,git
+train-5657,machine learning
+train-5663,java
+train-5665,data analysis
+train-5665,communication
+train-5679,python
+train-5679,communication
+train-5681,python
+train-5681,data analysis
+train-5686,communication
+train-5687,python
+train-5687,machine learning
+train-5690,communication
+train-5691,communication
+train-5696,communication
+train-5698,excel
+train-5698,communication
+train-5703,project management
+train-5706,sql
+train-5706,tableau
+train-5710,javascript
+train-5714,sql
+train-5718,communication
+train-5720,python
+train-5725,communication
+train-5729,java
+train-5732,communication
+train-5737,python
+train-5737,java
+train-5738,sql
+train-5744,sql
+train-5744,tableau
+train-5745,excel
+train-5749,excel
+train-5750,data analysis
+train-5758,java
+train-5777,aws
+train-5777,azure
+train-5781,sql
+train-5784,tableau
+train-5785,java
+train-5791,sql
+train-5791,aws
+train-5798,python
+train-5810,python
+train-5810,java
+train-5810,javascript
+train-5810,node.js
+train-5810,docker
+train-5816,excel
+train-5817,machine learning
+train-5819,machine learning
+train-5822,python
+train-5822,machine learning
+train-5828,python
+train-5828,java
+train-5828,machine learning
+train-5829,sql
+train-5835,python
+train-5835,sql
+train-5838,python
+train-5838,machine learning
+train-5841,sql
+train-5841,java
+train-5845,django
+train-5848,sql
+train-5850,sql
+train-5851,project management
+train-5855,python
+train-5855,aws
+train-5855,communication
+train-5859,machine learning
+train-5860,python
+train-5860,communication
+train-5860,project management
+train-5861,python
+train-5861,machine learning
+train-5865,aws
+train-5881,sql
+train-5893,sql
+train-5896,python
+train-5900,sql
+train-5904,python
+train-5904,machine learning
+train-5904,communication
+train-5909,java
+train-5916,project management
+train-5920,python
+train-5920,machine learning
+train-5923,project management
+train-5940,sql
+train-5949,project management
+train-5955,sql
+train-5963,sql
+train-5963,data analysis
+train-5970,java
+train-5980,sql
+train-5980,tableau
+train-6004,sql
+train-6004,javascript
+train-6007,excel
+train-6008,communication
+train-6009,python
+train-6009,data analysis
+train-6012,project management
+train-6013,python
+train-6013,sql
+train-6013,javascript
+train-6014,java
+train-6024,project management
+train-6027,tableau
+train-6037,javascript
+train-6037,communication
+train-6047,python
+train-6054,sql
+train-6055,project management
+train-6058,data analysis
+train-6058,project management
+train-6063,communication
+train-6064,java
+train-6065,javascript
+train-6066,excel
+train-6068,communication
+train-6071,aws
+train-6074,communication
+train-6082,python
+train-6082,machine learning
+train-6084,machine learning
+train-6087,java
+train-6088,project management
+train-6092,excel
+train-6092,data analysis
+train-6093,communication
+train-6093,project management
+train-6099,sql
+train-6099,excel
+train-6099,tableau
+train-6099,project management
+train-6101,sql
+train-6101,excel
+train-6101,tableau
+train-6102,java
+train-6104,java
+train-6118,javascript
+train-6118,communication
+train-6119,excel
+train-6120,data analysis
+train-6123,sql
+train-6135,excel
+train-6137,machine learning
+train-6145,excel
+train-6149,python
+train-6149,sql
+train-6166,python
+train-6169,communication
+train-6174,java
+train-6174,docker
+train-6182,python
+train-6182,java
+train-6182,machine learning
+train-6186,excel
+train-6188,java
+train-6190,sql
+train-6190,javascript
+train-6191,excel
+train-6191,data analysis
+train-6199,communication
+train-6201,python
+train-6201,sql
+train-6201,excel
+train-6201,machine learning
+train-6205,javascript
+train-6205,react
+train-6205,node.js
+train-6206,python
+train-6206,sql
+train-6206,tableau
+train-6206,machine learning
+train-6220,data analysis
+train-6227,python
+train-6227,sql
+train-6227,java
+train-6227,javascript
+train-6227,git
+train-6229,java
+train-6231,python
+train-6234,sql
+train-6234,aws
+train-6245,sql
+train-6245,excel
+train-6246,project management
+train-6253,data analysis
+train-6254,azure
+train-6254,machine learning
+train-6257,project management
+train-6258,javascript
+train-6268,javascript
+train-6290,communication
+train-6292,communication
+train-6296,java
+train-6297,sql
+train-6299,python
+train-6300,sql
+train-6301,project management
+train-6303,java
+train-6303,aws
+train-6307,sql
+train-6307,java
+train-6307,javascript
+train-6310,python
+train-6310,sql
+train-6310,java
+train-6315,data analysis
+train-6336,sql
+train-6336,java
+train-6341,sql
+train-6347,sql
+train-6348,javascript
+train-6348,node.js
+train-6355,tableau
+train-6357,java
+train-6360,communication
+train-6361,java
+train-6362,python
+train-6362,machine learning
+train-6363,javascript
+train-6364,excel
+train-6364,communication
+train-6366,project management
+train-6375,python
+train-6375,javascript
+train-6375,git
+train-6378,communication
+train-6379,python
+train-6383,python
+train-6391,machine learning
+train-6392,sql
+train-6394,java
+train-6400,excel
+train-6414,azure
+train-6419,project management
+train-6431,java
+train-6433,sql
+train-6439,sql
+train-6439,java
+train-6444,java
+train-6448,java
+train-6448,project management
+train-6451,data analysis
+train-6451,project management
+train-6452,data analysis
+train-6454,node.js
+train-6458,data analysis
+train-6461,python
+train-6461,machine learning
+train-6463,project management
+train-6465,communication
+train-6467,excel
+train-6467,data analysis
+train-6471,sql
+train-6471,java
+train-6474,azure
+train-6476,sql
+train-6476,javascript
+train-6476,azure
+train-6496,java
+train-6501,project management
+train-6507,sql
+train-6507,excel
+train-6507,data analysis
+train-6513,machine learning
+train-6518,python
+train-6518,sql
+train-6518,machine learning
+train-6522,sql
+train-6522,azure
+train-6523,communication
+train-6524,sql
+train-6524,machine learning
+train-6526,project management
+train-6528,project management
+train-6530,java
+train-6532,communication
+train-6542,excel
+train-6548,communication
+train-6551,python
+train-6551,javascript
+train-6553,communication
+train-6554,data analysis
+train-6555,data analysis
+train-6561,sql
+train-6561,javascript
+train-6566,excel
+train-6570,machine learning
+train-6571,data analysis
+train-6572,python
+train-6575,tableau
+train-6577,communication
+train-6578,communication
+train-6587,sql
+train-6597,python
+train-6597,sql
+train-6611,excel
+train-6616,excel
+train-6619,communication
+train-6621,javascript
+train-6621,communication
+train-6623,java
+train-6623,javascript
+train-6642,python
+train-6642,java
+train-6642,machine learning
+train-6648,python
+train-6648,sql
+train-6648,java
+train-6649,data analysis
+train-6650,python
+train-6650,sql
+train-6650,java
+train-6650,machine learning
+train-6650,data analysis
+train-6656,excel
+train-6664,machine learning
+train-6666,project management
+train-6672,communication
+train-6679,communication
+train-6682,sql
+train-6682,excel
+train-6683,communication
+train-6684,java
+train-6688,data analysis
+train-6692,excel
+train-6694,sql
+train-6699,communication
+train-6721,java
+train-6723,data analysis
+train-6724,excel
+train-6738,java
+train-6740,machine learning
+train-6748,project management
+train-6751,python
+train-6756,communication
+train-6761,sql
+train-6761,javascript
+train-6761,git
+train-6762,excel
+train-6762,data analysis
+train-6768,project management
+train-6769,sql
+train-6769,excel
+train-6769,project management
+train-6771,machine learning
+train-6773,sql
+train-6775,sql
+train-6775,excel
+train-6775,tableau
+train-6780,java
+train-6784,sql
+train-6784,machine learning
+train-6787,project management
+train-6793,communication
+train-6794,project management
+train-6798,sql
+train-6798,excel
+train-6808,machine learning
+train-6819,excel
+train-6819,data analysis
+train-6821,communication
+train-6826,excel
+train-6831,project management
+train-6832,java
+train-6844,data analysis
+train-6845,tableau
+train-6854,machine learning
+train-6858,java
+train-6858,javascript
+train-6859,data analysis
+train-6862,python
+train-6862,machine learning
+train-6868,excel
+train-6874,machine learning
+train-6876,communication
+train-6882,sql
+train-6885,sql
+train-6885,javascript
+train-6887,sql
+train-6887,project management
+train-6894,data analysis
+train-6894,project management
+train-6898,sql
+train-6898,machine learning
+train-6900,sql
+train-6900,java
+train-6900,communication
+train-6904,sql
+train-6904,azure
+train-6906,javascript
+train-6907,java
+train-6912,communication
+train-6913,machine learning
+train-6923,sql
+train-6923,project management
+train-6928,python
+train-6928,java
+train-6928,machine learning
+train-6933,sql
+train-6933,java
+train-6934,sql
+train-6934,data analysis
+train-6947,aws
+train-6947,project management
+train-6952,java
+train-6952,javascript
+train-6958,communication
+train-6960,communication
+train-6962,java
+train-6962,javascript
+train-6967,project management
+train-6969,python
+train-6969,machine learning
+train-6970,python
+train-6972,communication
+train-6979,excel
+train-6987,sql
+train-6987,tableau
+train-6994,excel
+train-6995,data analysis
+train-7004,sql
+train-7004,machine learning
+train-7007,sql
+train-7009,python
+train-7009,java
+train-7011,data analysis
+train-7013,java
+train-7015,javascript
+train-7024,sql
+train-7024,machine learning
+train-7029,machine learning
+train-7031,python
+train-7037,sql
+train-7037,javascript
+train-7038,java
+train-7042,project management
+train-7043,java
+train-7045,javascript
+train-7045,git
+train-7046,sql
+train-7046,project management
+train-7054,sql
+train-7057,sql
+train-7057,power bi
+train-7057,tableau
+train-7057,communication
+train-7058,communication
+train-7066,communication
+train-7071,data analysis
+train-7072,communication
+train-7074,machine learning
+train-7074,data analysis
+train-7075,python
+train-7075,machine learning
+train-7079,sql
+train-7080,sql
+train-7088,machine learning
+train-7090,project management
+train-7098,communication
+train-7100,communication
+train-7107,java
+train-7111,excel
+train-7111,machine learning
+train-7114,sql
+train-7115,sql
+train-7132,machine learning
+train-7143,python
+train-7143,java
+train-7145,azure
+train-7146,machine learning
+train-7154,python
+train-7154,machine learning
+train-7155,sql
+train-7155,java
+train-7156,sql
+train-7157,communication
+train-7163,python
+train-7165,excel
+train-7168,machine learning
+train-7169,sql
+train-7174,communication
+train-7175,python
+train-7175,sql
+train-7179,aws
+train-7185,sql
+train-7185,java
+train-7189,project management
+train-7197,machine learning
+train-7199,python
+train-7199,java
+train-7199,aws
+train-7209,python
+train-7209,java
+train-7209,aws
+train-7209,git
+train-7215,java
+train-7220,excel
+train-7220,data analysis
+train-7228,communication
+train-7235,power bi
+train-7236,javascript
+train-7236,react
+train-7248,sql
+train-7251,javascript
+train-7256,sql
+train-7256,data analysis
+train-7261,communication
+train-7263,communication
+train-7266,project management
+train-7280,javascript
+train-7284,python
+train-7284,sql
+train-7284,communication
+train-7285,sql
+train-7289,communication
+train-7290,python
+train-7294,sql
+train-7307,excel
+train-7307,data analysis
+train-7307,communication
+train-7311,sql
+train-7319,data analysis
+train-7324,communication
+train-7326,sql
+train-7326,excel
+train-7326,data analysis
+train-7330,python
+train-7330,sql
+train-7330,java
+train-7336,python
+train-7336,communication
+train-7345,sql
+train-7345,tableau
+train-7353,data analysis
+train-7354,python
+train-7354,java
+train-7354,javascript
+train-7364,project management
+train-7366,machine learning
+train-7366,project management
+train-7379,sql
+train-7379,javascript
+train-7382,java
+train-7385,java
+train-7391,sql
+train-7391,machine learning
+train-7393,machine learning
+train-7397,project management
+train-7398,sql
+train-7400,data analysis
+train-7405,project management
+train-7406,sql
+train-7406,power bi
+train-7413,sql
+train-7413,power bi
+train-7416,python
+train-7416,sql
+train-7416,excel
+train-7416,machine learning
+train-7417,sql
+train-7418,data analysis
+train-7420,java
+train-7420,javascript
+train-7420,project management
+train-7423,project management
+train-7438,python
+train-7438,java
+train-7438,machine learning
+train-7446,communication
+train-7454,react
+train-7458,excel
+train-7460,excel
+train-7462,javascript
+train-7470,sql
+train-7472,java
+train-7472,javascript
+train-7479,sql
+train-7486,java
+train-7487,sql
+train-7489,java
+train-7490,sql
+train-7492,python
+train-7492,machine learning
+train-7492,data analysis
+train-7500,excel
+train-7503,sql
+train-7507,python
+train-7507,machine learning
+train-7513,data analysis
+train-7513,communication
+train-7517,python
+train-7517,javascript
+train-7517,django
+train-7519,python
+train-7522,communication
+train-7524,javascript
+train-7529,python
+train-7529,tableau
+train-7529,machine learning
+train-7530,excel
+train-7535,python
+train-7535,java
+train-7538,sql
+train-7539,java
+train-7540,data analysis
+train-7541,python
+train-7551,project management
+train-7556,communication
+train-7566,excel
+train-7569,data analysis
+train-7570,excel
+train-7576,communication
+train-7581,project management
+train-7583,sql
+train-7583,data analysis
+train-7586,communication
+train-7586,project management
+train-7587,python
+train-7587,machine learning
+train-7588,java
+train-7588,javascript
+train-7592,project management
+train-7593,sql
+train-7601,python
+train-7601,machine learning
+train-7608,communication
+train-7616,excel
+train-7634,project management
+train-7645,sql
+train-7645,java
+train-7648,excel
+train-7651,sql
+train-7651,java
+train-7651,javascript
+train-7657,sql
+train-7657,java
+train-7657,azure
+train-7659,java
+train-7664,communication
+train-7666,javascript
+train-7667,project management
+train-7670,java
+train-7671,java
+train-7671,project management
+train-7675,python
+train-7675,machine learning
+train-7678,python
+train-7678,java
+train-7679,excel
+train-7679,data analysis
+train-7679,communication
+train-7680,communication
+train-7682,excel
+train-7685,communication
+train-7700,data analysis
+train-7704,project management
+train-7711,excel
+train-7724,communication
+train-7732,python
+train-7732,tableau
+train-7746,data analysis
+train-7746,communication
+train-7750,javascript
+train-7751,project management
+train-7763,javascript
+train-7765,communication
+train-7767,sql
+train-7779,sql
+train-7779,data analysis
+train-7787,project management
+train-7793,project management
+train-7803,excel
+train-7804,excel
+train-7813,python
+train-7813,sql
+train-7813,java
+train-7813,javascript
+train-7813,git
+train-7814,sql
+train-7820,java
+train-7820,project management
+train-7824,project management
+train-7826,communication
+train-7831,sql
+train-7833,excel
+train-7833,data analysis
+train-7837,javascript
+train-7837,react
+train-7844,excel
+train-7854,javascript
+train-7858,python
+train-7859,sql
+train-7859,data analysis
+train-7871,sql
+train-7877,azure
+train-7881,python
+train-7881,sql
+train-7881,django
+train-7881,aws
+train-7884,data analysis
+train-7885,communication
+train-7887,java
+train-7891,javascript
+train-7892,python
+train-7892,sql
+train-7896,python
+train-7898,excel
+train-7898,data analysis
+train-7898,project management
+train-7903,python
+train-7903,sql
+train-7903,java
+train-7903,machine learning
+train-7911,sql
+train-7911,excel
+train-7912,java
+train-7913,java
+train-7918,python
+train-7923,communication
+train-7924,sql
+train-7924,data analysis
+train-7926,sql
+train-7926,azure
+train-7931,excel
+train-7935,java
+train-7939,sql
+train-7939,java
+train-7939,javascript
+train-7940,sql
+train-7940,excel
+train-7940,data analysis
+train-7940,communication
+train-7941,java
+train-7941,javascript
+train-7944,java
+train-7952,java
+train-7960,javascript
+train-7960,node.js
+train-7979,sql
+train-7979,azure
+train-7980,sql
+train-7980,excel
+train-7985,sql
+train-7992,python
+train-7992,aws
+train-7992,machine learning
+train-7993,python
+train-7993,java
+train-7993,machine learning
+train-7996,communication
+train-8012,java
+train-8012,javascript
+train-8012,node.js
+train-8017,javascript
+train-8020,communication
+train-8022,java
+train-8025,project management
+train-8027,sql
+train-8027,excel
+train-8028,java
+train-8032,communication
+train-8034,java
+train-8038,sql
+train-8038,tableau
+train-8044,python
+train-8044,java
+train-8054,communication
+train-8055,python
+train-8055,java
+train-8055,javascript
+train-8060,javascript
+train-8063,javascript
+train-8068,python
+train-8069,sql
+train-8073,git
+train-8074,machine learning
+train-8077,python
+train-8077,sql
+train-8078,sql
+train-8078,excel
+train-8078,data analysis
+train-8080,sql
+train-8080,power bi
+train-8080,tableau
+train-8084,project management
+train-8088,sql
+train-8088,data analysis
+train-8094,python
+train-8094,sql
+train-8094,tableau
+train-8094,data analysis
+train-8096,excel
+train-8096,data analysis
+train-8098,sql
+train-8102,java
+train-8103,sql
+train-8106,communication
+train-8110,python
+train-8110,sql
+train-8110,java
+train-8117,javascript
+train-8118,python
+train-8118,sql
+train-8118,data analysis
+train-8120,sql
+train-8120,excel
+train-8124,project management
+train-8126,python
+train-8126,sql
+train-8128,project management
+train-8132,communication
+train-8134,data analysis
+train-8140,java
+train-8144,data analysis
+train-8150,python
+train-8150,java
+train-8150,javascript
+train-8164,sql
+train-8171,python
+train-8171,sql
+train-8171,machine learning
+train-8181,project management
+train-8184,java
+train-8190,sql
+train-8192,python
+train-8192,machine learning
+train-8194,java
+train-8194,machine learning
+train-8195,python
+train-8195,java
+train-8195,machine learning
+train-8197,sql
+train-8197,communication
+train-8204,excel
+train-8205,python
+train-8205,machine learning
+train-8205,data analysis
+train-8207,sql
+train-8207,excel
+train-8211,java
+train-8215,java
+train-8215,javascript
+train-8215,node.js
+train-8217,sql
+train-8221,javascript
+train-8243,excel
+train-8243,data analysis
+train-8244,python
+train-8244,sql
+train-8244,data analysis
+train-8248,java
+train-8256,java
+train-8261,python
+train-8262,python
+train-8262,sql
+train-8262,java
+train-8264,javascript
+train-8272,python
+train-8272,machine learning
+train-8288,sql
+train-8290,python
+train-8290,machine learning
+train-8294,javascript
+train-8300,git
+train-8301,excel
+train-8303,python
+train-8304,java
+train-8315,sql
+train-8315,excel
+train-8316,python
+train-8316,sql
+train-8316,machine learning
+train-8317,data analysis
+train-8319,communication
+train-8333,sql
+train-8336,excel
+train-8337,machine learning
+train-8339,project management
+train-8341,communication
+train-8342,java
+train-8342,javascript
+train-8343,javascript
+train-8347,java
+train-8349,java
+train-8353,project management
+train-8356,sql
+train-8359,python
+train-8359,pandas
+train-8359,numpy
+train-8367,project management
+train-8369,python
+train-8369,git
+train-8371,project management
+train-8381,sql
+train-8394,python
+train-8394,sql
+train-8394,tableau
+train-8398,communication
+train-8407,java
+train-8408,java
+train-8408,javascript
+train-8410,sql
+train-8411,data analysis
+train-8413,communication
+train-8418,python
+train-8419,communication
+train-8423,communication
+train-8424,communication
+train-8424,project management
+train-8428,sql
+train-8428,excel
+train-8428,data analysis
+train-8436,power bi
+train-8436,tableau
+train-8437,sql
+train-8440,data analysis
+train-8443,project management
+train-8450,excel
+train-8452,project management
+train-8455,sql
+train-8460,excel
+train-8461,java
+train-8462,java
+train-8464,javascript
+train-8464,react
+train-8477,java
+train-8477,node.js
+train-8481,sql
+train-8481,excel
+train-8489,sql
+train-8495,sql
+train-8496,sql
+train-8497,project management
+train-8502,python
+train-8503,sql
+train-8506,communication
+train-8507,docker
+train-8507,git
+train-8507,project management
+train-8524,power bi
+train-8524,data analysis
+train-8529,sql
+train-8532,data analysis
+train-8544,project management
+train-8546,python
+train-8548,project management
+train-8556,communication
+train-8557,sql
+train-8558,python
+train-8558,machine learning
+train-8558,project management
+train-8566,javascript
+train-8573,communication
+train-8581,java
+train-8584,python
+train-8584,data analysis
+train-8593,data analysis
+train-8593,project management
+train-8607,sql
+train-8622,data analysis
+train-8626,java
+train-8638,java
+train-8638,node.js
+train-8647,javascript
+train-8647,communication
+train-8651,python
+train-8651,machine learning
+train-8657,python
+train-8657,django
+train-8667,sql
+train-8669,machine learning
+train-8672,excel
+train-8672,data analysis
+train-8681,python
+train-8689,data analysis
+train-8689,project management
+train-8693,sql
+train-8693,communication
+train-8699,azure
+train-8704,python
+train-8704,sql
+train-8704,machine learning
+train-8711,project management
+train-8713,communication
+train-8716,sql
+train-8718,excel
+train-8730,python
+train-8730,javascript
+train-8730,git
+train-8735,excel
+train-8736,python
+train-8736,sql
+train-8736,javascript
+train-8736,machine learning
+train-8741,javascript
+train-8742,communication
+train-8745,project management
+train-8750,aws
+train-8753,communication
+train-8754,java
+train-8775,sql
+train-8775,excel
+train-8775,data analysis
+train-8777,sql
+train-8777,communication
+train-8792,java
+train-8792,javascript
+train-8799,communication
+train-8800,sql
+train-8800,excel
+train-8804,java
+train-8812,python
+train-8818,excel
+train-8826,sql
+train-8827,azure
+train-8831,data analysis
+train-8834,python
+train-8834,java
+train-8834,data analysis
+train-8836,java
+train-8836,git
+train-8837,python
+train-8839,java
+train-8839,javascript
+train-8845,python
+train-8854,javascript
+train-8862,excel
+train-8868,project management
+train-8872,project management
+train-8873,sql
+train-8877,java
+train-8882,communication
+train-8885,python
+train-8885,java
+train-8885,javascript
+train-8885,node.js
+train-8887,sql
+train-8893,python
+train-8893,machine learning
+train-8901,sql
+train-8903,machine learning
+train-8903,communication
+train-8907,sql
+train-8913,project management
+train-8915,sql
+train-8915,excel
+train-8917,python
+train-8917,machine learning
+train-8924,excel
+train-8926,communication
+train-8930,java
+train-8930,machine learning
+train-8933,data analysis
+train-8935,communication
+train-8941,python
+train-8941,sql
+train-8941,machine learning
+train-8943,python
+train-8943,machine learning
+train-8949,project management
+train-8951,sql
+train-8957,sql
+train-8957,data analysis
+train-8958,javascript
+train-8960,sql
+train-8960,excel
+train-8960,data analysis
+train-8972,data analysis
+train-8973,sql
+train-8973,machine learning
+train-8973,communication
+train-8974,communication
+train-8979,java
+train-8979,node.js
+train-8979,aws
+train-8980,javascript
+train-8983,python
+train-8983,java
+train-8997,javascript
+train-8999,communication
+train-9011,python
+train-9011,java
+train-9014,communication
+train-9018,communication
+train-9028,java
+train-9028,machine learning
+train-9028,communication
+train-9031,sql
+train-9031,excel
+train-9033,python
+train-9033,machine learning
+train-9037,communication
+train-9041,java
+train-9042,sql
+train-9042,power bi
+train-9042,tableau
+train-9042,data analysis
+train-9047,data analysis
+train-9051,machine learning
+train-9060,sql
+train-9063,communication
+train-9074,data analysis
+train-9076,python
+train-9076,machine learning
+train-9081,communication
+train-9086,python
+train-9086,sql
+train-9086,java
+train-9086,node.js
+train-9092,java
+train-9093,tableau
+train-9093,machine learning
+train-9093,data analysis
+train-9099,aws
+train-9106,sql
+train-9106,excel
+train-9106,power bi
+train-9106,tableau
+train-9106,data analysis
+train-9119,communication
+train-9124,python
+train-9124,machine learning
+train-9124,data analysis
+train-9128,sql
+train-9132,python
+train-9132,javascript
+train-9137,java
+train-9146,communication
+train-9148,docker
+train-9148,machine learning
+train-9155,sql
+train-9155,excel
+train-9155,data analysis
+train-9159,sql
+train-9159,communication
+train-9161,communication
+train-9167,javascript
+train-9169,excel
+train-9175,java
+train-9176,data analysis
+train-9180,python
+train-9180,machine learning
+train-9183,java
+train-9183,javascript
+train-9188,sql
+train-9188,azure
+train-9195,sql
+train-9195,java
+train-9195,javascript
+train-9197,sql
+train-9204,project management
+train-9206,project management
+train-9208,python
+train-9208,sql
+train-9208,excel
+train-9208,data analysis
+train-9213,communication
+train-9214,project management
+train-9215,project management
+train-9220,project management
+train-9228,python
+train-9228,machine learning
+train-9230,python
+train-9230,machine learning
+train-9234,sql
+train-9234,data analysis
+train-9236,communication
+train-9237,sql
+train-9239,java
+train-9239,javascript
+train-9247,sql
+train-9247,excel
+train-9247,data analysis
+train-9248,python
+train-9248,aws
+train-9249,sql
+train-9249,tableau
+train-9250,java
+train-9251,javascript
+train-9256,excel
+train-9259,java
+train-9264,sql
+train-9265,sql
+train-9267,sql
+train-9267,excel
+train-9269,java
+train-9269,aws
+train-9273,sql
+train-9277,react
+train-9281,machine learning
+train-9291,java
+train-9296,project management
+train-9298,data analysis
+train-9300,excel
+train-9307,python
+train-9307,machine learning
+train-9307,data analysis
+train-9309,excel
+train-9309,data analysis
+train-9311,data analysis
+train-9313,python
+train-9313,sql
+train-9313,data analysis
+train-9313,project management
+train-9314,java
+train-9314,javascript
+train-9317,communication
+train-9330,java
+train-9330,javascript
+train-9330,project management
+train-9344,sql
+train-9347,sql
+train-9347,communication
+train-9353,data analysis
+train-9356,data analysis
+train-9357,project management
+train-9359,sql
+train-9360,data analysis
+train-9360,project management
+train-9362,excel
+train-9362,data analysis
+train-9362,communication
+train-9370,python
+train-9370,java
+train-9370,machine learning
+train-9372,sql
+train-9373,machine learning
+train-9375,machine learning
+train-9385,communication
+train-9394,java
+train-9398,communication
+train-9399,excel
+train-9406,sql
+train-9406,tableau
+train-9410,tableau
+train-9412,sql
+train-9412,power bi
+train-9419,sql
+train-9419,excel
+train-9426,communication
+train-9440,project management
+train-9445,machine learning
+train-9446,project management
+train-9453,java
+train-9455,sql
+train-9467,python
+train-9467,sql
+train-9467,django
+train-9467,aws
+train-9469,java
+train-9471,project management
+train-9476,project management
+train-9485,sql
+train-9485,java
+train-9486,java
+train-9487,sql
+train-9489,sql
+train-9490,communication
+train-9492,python
+train-9492,javascript
+train-9494,sql
+train-9501,sql
+train-9501,excel
+train-9501,data analysis
+train-9503,javascript
+train-9511,python
+train-9511,sql
+train-9511,excel
+train-9511,machine learning
+train-9515,python
+train-9515,sql
+train-9521,python
+train-9521,sql
+train-9521,machine learning
+train-9524,communication
+train-9525,power bi
+train-9526,python
+train-9526,machine learning
+train-9533,python
+train-9533,machine learning
+train-9545,sql
+train-9545,excel
+train-9560,project management
+train-9585,sql
+train-9591,excel
+train-9592,sql
+train-9595,communication
+train-9605,communication
+train-9605,project management
+train-9606,excel
+train-9607,python
+train-9607,sql
+train-9615,python
+train-9615,machine learning
+train-9617,tableau
+train-9620,excel
+train-9621,project management
+train-9622,tableau
+train-9625,excel
+train-9628,python
+train-9628,java
+train-9634,communication
+train-9635,project management
+train-9639,python
+train-9639,java
+train-9640,aws
+train-9651,javascript
+train-9660,sql
+train-9660,javascript
+train-9667,project management
+train-9668,java
+train-9668,node.js
+train-9675,sql
+train-9675,tableau
+train-9677,project management
+train-9678,javascript
+train-9681,excel
+train-9682,communication
+train-9682,project management
+train-9684,javascript
+train-9684,node.js
+train-9684,aws
+train-9688,excel
+train-9690,excel
+train-9690,tableau
+train-9694,python
+train-9694,java
+train-9694,machine learning
+train-9699,project management
+train-9703,communication
+train-9704,sql
+train-9707,python
+train-9707,communication
+train-9707,project management
+train-9732,javascript
+train-9733,project management
+train-9734,java
+train-9735,python
+train-9735,javascript
+train-9735,django
+train-9737,java
+train-9737,javascript
+train-9745,sql
+train-9748,data analysis
+train-9767,project management
+train-9773,communication
+train-9778,python
+train-9778,sql
+train-9778,machine learning
+train-9791,sql
+train-9791,tableau
+train-9791,java
+train-9793,python
+train-9793,machine learning
+train-9801,sql
+train-9808,azure
+train-9808,machine learning
+train-9818,python
+train-9818,machine learning
+train-9822,sql
+train-9831,java
+train-9831,javascript
+train-9834,sql
+train-9849,java
+train-9850,javascript
+train-9860,machine learning
+train-9861,communication
+train-9869,project management
+train-9871,python
+train-9871,sql
+train-9880,sql
+train-9880,java
+train-9889,power bi
+train-9889,tableau
+train-9894,java
+train-9898,excel
+train-9898,data analysis
+train-9901,python
+train-9901,sql
+train-9901,machine learning
+train-9902,data analysis
+train-9904,sql
+train-9905,python
+train-9905,project management
+train-9912,python
+train-9912,aws
+train-9920,sql
+train-9922,sql
+train-9922,power bi
+train-9932,python
+train-9932,machine learning
+train-9932,data analysis
+train-9932,numpy
+train-9934,sql
+train-9941,machine learning
+train-9960,java
+train-9961,machine learning
+train-9962,communication
+train-9964,sql
+train-9964,excel
+train-9972,data analysis
+train-9987,sql
+train-9987,excel
+train-9988,azure
+train-9990,machine learning
+train-9990,data analysis
+train-9993,communication
+train-9995,communication
+train-10005,python
+train-10005,machine learning
+train-10008,java
+train-10018,python
+train-10018,communication
+train-10020,python
+train-10025,java
+train-10029,excel
+train-10033,python
+train-10033,java
+train-10034,python
+train-10034,machine learning
+train-10041,javascript
+train-10045,java
+train-10049,machine learning
+train-10049,data analysis
+train-10052,sql
+train-10052,azure
+train-10053,python
+train-10053,javascript
+train-10053,react
+train-10053,node.js
+train-10054,communication
+train-10060,project management
+train-10065,java
+train-10065,javascript
+train-10081,java
+train-10084,data analysis
+train-10085,python
+train-10085,tableau
+train-10085,machine learning
+train-10086,sql
+train-10094,sql
+train-10096,machine learning
+train-10098,python
+train-10098,sql
+train-10098,excel
+train-10104,communication
+train-10115,python
+train-10115,java
+train-10121,java
+train-10132,excel
+train-10139,java
+train-10140,sql
+train-10140,java
+train-10142,data analysis
+train-10143,excel
+train-10143,data analysis
+train-10145,excel
+train-10146,project management
+train-10147,sql
+train-10154,communication
+train-10155,git
+train-10156,sql
+train-10156,power bi
+train-10164,power bi
+train-10169,javascript
+train-10169,node.js
+train-10174,sql
+train-10174,excel
+train-10185,python
+train-10185,machine learning
+train-10189,communication
+train-10191,machine learning
+train-10206,machine learning
+train-10207,sql
+train-10207,azure
+train-10208,communication
+train-10209,sql
+train-10209,excel
+train-10209,data analysis
+train-10211,communication
+train-10221,data analysis
+train-10221,communication
+train-10222,machine learning
+train-10223,excel
+train-10224,tableau
+train-10226,python
+train-10226,sql
+train-10226,machine learning
+train-10228,communication
+train-10229,sql
+train-10235,communication
+train-10239,python
+train-10241,excel
+train-10247,sql
+train-10253,communication
+train-10257,data analysis
+train-10261,tableau
+train-10261,project management
+train-10264,python
+train-10264,sql
+train-10266,java
+train-10266,javascript
+train-10271,java
+train-10271,javascript
+train-10274,project management
+train-10276,python
+train-10276,java
+train-10276,machine learning
+train-10283,javascript
+train-10284,python
+train-10284,sql
+train-10287,data analysis
+train-10289,project management
+train-10294,project management
+train-10298,python
+train-10298,java
+train-10314,sql
+train-10321,azure
+train-10325,sql
+train-10325,azure
+train-10325,communication
+train-10338,project management
+train-10339,sql
+train-10339,java
+train-10355,sql
+train-10355,communication
+train-10365,python
+train-10365,sql
+train-10365,java
+train-10365,node.js
+train-10367,excel
+train-10372,sql
+train-10373,project management
+train-10380,java
+train-10382,excel
+train-10385,machine learning
+train-10387,java
+train-10387,project management
+train-10391,machine learning
+train-10392,sql
+train-10394,python
+train-10397,python
+train-10397,sql
+train-10397,java
+train-10397,project management
+train-10401,project management
+train-10403,java
+train-10404,python
+train-10404,machine learning
+train-10410,sql
+train-10412,communication
+train-10416,javascript
+train-10416,react
+train-10416,node.js
+train-10417,communication
+train-10418,excel
+train-10424,java
+train-10424,aws
+train-10429,java
+train-10430,javascript
+train-10431,excel
+train-10431,communication
+train-10435,communication
+train-10441,excel
+train-10444,communication
+train-10457,tableau
+train-10465,communication
+train-10468,java
+train-10474,communication
+train-10480,sql
+train-10480,power bi
+train-10488,java
+train-10491,sql
+train-10493,project management
+train-10514,excel
+train-10514,tableau
+train-10518,sql
+train-10519,java
+train-10530,azure
+train-10530,machine learning
+train-10534,sql
+train-10534,java
+train-10536,project management
+train-10559,communication
+train-10565,python
+train-10565,tableau
+train-10565,machine learning
+train-10571,communication
+train-10576,python
+train-10580,communication
+train-10585,python
+train-10585,java
+train-10585,machine learning
+train-10588,data analysis
+train-10589,sql
+train-10589,java
+train-10596,communication
+train-10598,python
+train-10598,sql
+train-10600,java
+train-10600,communication
+train-10603,python
+train-10605,java
+train-10605,javascript
+train-10608,sql
+train-10626,python
+train-10626,sql
+train-10626,machine learning
+train-10633,machine learning
+train-10641,javascript
+train-10648,machine learning
+train-10654,aws
+train-10654,project management
+train-10665,excel
+train-10669,data analysis
+train-10670,java
+train-10670,javascript
+train-10670,azure
+train-10678,sql
+train-10681,communication
+train-10682,communication
+train-10683,excel
+train-10698,project management
+train-10703,communication
+train-10704,sql
+train-10704,communication
+train-10708,python
+train-10708,sql
+train-10708,java
+train-10709,python
+train-10709,machine learning
+train-10717,excel
+train-10717,power bi
+train-10717,tableau
+train-10718,excel
+train-10718,communication
+train-10721,data analysis
+train-10725,sql
+train-10728,excel
+train-10731,excel
+train-10733,java
+train-10733,javascript
+train-10733,aws
+train-10733,git
+train-10753,tableau
+train-10756,project management
+train-10759,tableau
+train-10759,communication
+train-10767,power bi
+train-10767,tableau
+train-10767,data analysis
+train-10781,project management
+train-10799,docker
+train-10799,kubernetes
+train-10799,aws
+train-10801,excel
+train-10809,sql
+train-10809,excel
+train-10831,sql
+train-10831,java
+train-10831,javascript
+train-10832,python
+train-10832,sql
+train-10838,sql
+train-10844,project management
+train-10846,java
+train-10846,javascript
+train-10853,java
+train-10855,sql
+train-10855,data analysis
+train-10857,sql
+train-10863,python
+train-10869,java
+train-10869,javascript
+train-10871,sql
+train-10875,sql
+train-10875,docker
+train-10875,aws
+train-10882,excel
+train-10882,data analysis
+train-10883,project management
+train-10900,data analysis
+train-10900,communication
+train-10902,sql
+train-10902,excel
+train-10913,data analysis
+train-10924,excel
+train-10941,python
+train-10941,azure
+train-10941,machine learning
+train-10957,python
+train-10957,azure
+train-10957,machine learning
+train-10958,sql
+train-10963,machine learning
+train-10965,sql
+train-10966,communication
+train-10968,sql
+train-10968,excel
+train-10968,data analysis
+train-10970,python
+train-10970,sql
+train-10970,azure
+train-10970,machine learning
+train-10978,java
+train-10989,javascript
+train-11002,python
+train-11002,sql
+train-11002,tableau
+train-11004,excel
+train-11004,communication
+train-11015,project management
+train-11019,java
+train-11021,sql
+train-11021,tableau
+train-11021,communication
+train-11022,java
+train-11022,javascript
+train-11043,sql
+train-11045,communication
+train-11050,sql
+train-11050,excel
+train-11051,python
+train-11051,java
+train-11051,docker
+train-11051,machine learning
+train-11063,data analysis
+train-11064,machine learning
+train-11071,power bi
+train-11071,tableau
+train-11072,python
+train-11072,javascript
+train-11072,django
+train-11072,flask
+train-11072,aws
+train-11077,python
+train-11097,sql
+train-11102,python
+train-11102,machine learning
+train-11110,sql
+train-11110,javascript
+train-11110,node.js
+train-11115,data analysis
+train-11118,python
+train-11118,tableau
+train-11136,project management
+train-11146,machine learning
+train-11149,communication
+train-11156,javascript
+train-11161,sql
+train-11161,excel
+train-11163,python
+train-11163,sql
+train-11163,aws
+train-11175,project management
+train-11179,communication
+train-11204,sql
+train-11204,data analysis
+train-11206,project management
+train-11214,excel
+train-11214,data analysis
+train-11221,communication
+train-11226,javascript
+train-11226,react
+train-11229,python
+train-11229,sql
+train-11229,java
+train-11229,communication
+train-11235,java
+train-11235,machine learning
+train-11250,data analysis
+train-11262,java
+train-11271,sql
+train-11271,data analysis
+train-11278,machine learning
+train-11291,java
+train-11291,javascript
+train-11296,sql
+train-11298,python
+train-11298,sql
+train-11301,javascript
+train-11305,python
+train-11305,java
+train-11308,data analysis
+train-11328,javascript
+train-11336,communication
+train-11339,java
+train-11339,aws
+train-11348,communication
+train-11360,communication
+train-11364,sql
+train-11382,sql
+train-11387,sql
+train-11394,javascript
+train-11395,sql
+train-11395,java
+train-11398,python
+train-11398,sql
+train-11406,sql
+train-11406,data analysis
+train-11408,java
+train-11408,javascript
+train-11409,project management
+train-11413,java
+train-11419,sql
+train-11423,javascript
+train-11425,excel
+train-11436,communication
+train-11439,python
+train-11439,sql
+train-11439,machine learning
+train-11443,sql
+train-11446,sql
+train-11450,machine learning
+train-11479,python
+train-11479,machine learning
+train-11485,sql
+train-11485,project management
+train-11492,communication
+train-11498,sql
+train-11498,project management
+train-11500,python
+train-11500,sql
+train-11501,sql
+train-11501,azure
+train-11508,sql
+train-11531,communication
+train-11534,sql
+train-11534,azure
+train-11535,communication
+train-11536,sql
+train-11536,excel
+train-11551,java
+train-11572,machine learning
+train-11572,data analysis
+train-11579,python
+train-11579,java
+train-11580,java
+train-11580,javascript
+train-11580,communication
+train-11586,project management
+train-11600,communication
+train-11604,sql
+train-11611,python
+train-11611,sql
+train-11611,java
+train-11612,machine learning
+train-11612,data analysis
+train-11616,communication
+train-11619,python
+train-11619,java
+train-11626,project management
+train-11627,sql
+train-11629,project management
+train-11630,java
+train-11639,java
+train-11640,communication
+train-11641,sql
+train-11641,java
+train-11645,data analysis
+train-11646,data analysis
+train-11650,tableau
+train-11652,python
+train-11654,javascript
+train-11654,docker
+train-11659,project management
+train-11664,sql
+train-11677,sql
+train-11688,python
+train-11688,machine learning
+train-11688,numpy
+train-11708,sql
+train-11711,java
+train-11711,javascript
+train-11711,git
+train-11733,python
+train-11735,python
+train-11735,java
+train-11749,python
+train-11757,project management
+train-11766,project management
+train-11783,communication
+train-11785,sql
+train-11785,machine learning
+train-11785,data analysis
+train-11788,sql
+train-11791,java
+train-11792,python
+train-11792,sql
+train-11792,java
+train-11796,sql
+train-11796,excel
+train-11796,tableau
+train-11796,project management
+train-11801,communication
+train-11801,project management
+train-11803,machine learning
+train-11805,sql
+train-11805,communication
+train-11812,python
+train-11812,sql
+train-11812,project management
+train-11826,python
+train-11826,django
+train-11830,communication
+train-11832,sql
+train-11832,java
+train-11832,node.js
+train-11841,java
+train-11842,java
+train-11847,java
+train-11848,sql
+train-11849,project management
+train-11851,python
+train-11852,java
+train-11852,javascript
+train-11854,project management
+train-11857,sql
+train-11857,javascript
+train-11857,docker
+train-11865,python
+train-11865,sql
+train-11865,java
+train-11865,machine learning
+train-11865,data analysis
+train-11875,data analysis
+train-11879,python
+train-11879,java
+train-11879,javascript
+train-11879,docker
+train-11879,git
+train-11880,project management
+train-11893,communication
+train-11897,java
+train-11918,project management
+train-11930,sql
+train-11930,communication
+train-11934,python
+train-11934,django
+train-11934,machine learning
+train-11943,sql
+train-11944,python
+train-11944,sql
+train-11944,machine learning
+train-11947,data analysis
+train-11954,java
+train-11954,machine learning
+train-11957,javascript
+train-11965,sql
+train-11965,communication
+train-11969,communication
+train-11979,communication
+train-11984,sql
+train-11984,excel
+train-11984,data analysis
+train-11987,excel
+train-11987,data analysis
+train-11991,python
+train-11991,sql
+train-11991,java
+train-11991,machine learning
+train-12007,sql
+train-12007,java
+train-12009,communication
+train-12021,communication
+train-12030,sql
+train-12030,java
+train-12038,excel
+train-12042,java
+train-12042,javascript
+train-12043,python
+train-12045,excel
+train-12049,java
+train-12051,python
+train-12051,machine learning
+train-12057,sql
+train-12058,sql
+train-12059,excel
+train-12059,data analysis
+train-12065,excel
+train-12066,sql
+train-12071,project management
+train-12082,javascript
+train-12084,java
+train-12084,project management
+train-12085,sql
+train-12100,communication
+train-12104,project management
+train-12107,sql
+train-12108,sql
+train-12108,excel
+train-12111,javascript
+train-12119,python
+train-12119,java
+train-12122,data analysis
+train-12129,java
+train-12129,javascript
+train-12139,data analysis
+train-12142,sql
+train-12153,python
+train-12165,communication
+train-12168,python
+train-12168,sql
+train-12171,java
+train-12171,javascript
+train-12177,communication
+train-12187,communication
+train-12192,java
+train-12192,aws
+train-12192,azure
+train-12198,communication
+train-12200,data analysis
+train-12201,python
+train-12201,sql
+train-12201,java
+train-12204,sql
+train-12204,tableau
+train-12211,sql
+train-12215,javascript
+train-12216,excel
+train-12216,communication
+train-12218,sql
+train-12221,communication
+train-12222,python
+train-12222,machine learning
+train-12222,data analysis
+train-12226,sql
+train-12226,excel
+train-12227,excel
+train-12230,sql
+train-12230,power bi
+train-12230,data analysis
+train-12239,python
+train-12239,java
+train-12239,machine learning
+train-12254,project management
+train-12278,sql
+train-12280,communication
+train-12284,python
+train-12284,django
+train-12290,communication
+train-12307,sql
+train-12307,excel
+train-12307,power bi
+train-12307,data analysis
+train-12309,sql
+train-12309,java
+train-12315,sql
+train-12318,javascript
+train-12318,aws
+train-12318,azure
+train-12322,java
+train-12322,javascript
+train-12324,machine learning
+train-12334,sql
+train-12334,excel
+train-12334,data analysis
+train-12339,communication
+train-12349,communication
+train-12350,javascript
+train-12351,sql
+train-12352,excel
+train-12353,python
+train-12353,java
+train-12358,javascript
+train-12359,sql
+train-12363,machine learning
+train-12363,data analysis
+train-12368,python
+train-12368,sql
+train-12368,tableau
+train-12369,project management
+train-12376,sql
+train-12376,tableau
+train-12376,data analysis
+train-12381,project management
+train-12383,python
+train-12385,python
+train-12392,sql
+train-12397,sql
+train-12400,java
+train-12403,java
+train-12403,javascript
+train-12406,java
+train-12429,project management
+train-12430,java
+train-12434,communication
+train-12437,project management
+train-12438,communication
+train-12451,sql
+train-12451,java
+train-12451,javascript
+train-12451,node.js
+train-12451,git
+train-12467,java
+train-12467,javascript
+train-12471,sql
+train-12471,aws
+train-12471,data analysis
+train-12476,java
+train-12476,javascript
+train-12476,git
+train-12494,python
+train-12495,sql
+train-12505,communication
+train-12506,sql
+train-12512,communication
+train-12535,data analysis
+train-12543,data analysis
+train-12555,python
+train-12555,machine learning
+train-12560,python
+train-12560,java
+train-12560,machine learning
+train-12569,python
+train-12569,machine learning
+train-12572,communication
+train-12573,communication
+train-12574,python
+train-12581,python
+train-12581,java
+train-12581,javascript
+train-12588,project management
+train-12598,python
+train-12598,sql
+train-12601,sql
+train-12605,project management
+train-12606,python
+train-12606,sql
+train-12606,excel
+train-12606,tableau
+train-12606,machine learning
+train-12608,excel
+train-12611,communication
+train-12611,project management
+train-12614,python
+train-12614,django
+train-12614,machine learning
+train-12632,python
+train-12635,sql
+train-12641,project management
+train-12649,python
+train-12649,sql
+train-12649,machine learning
+train-12665,communication
+train-12666,sql
+train-12667,power bi
+train-12667,tableau
+train-12678,communication
+train-12679,project management
+train-12680,machine learning
+train-12686,java
+train-12696,data analysis
+train-12701,communication
+train-12705,docker
+train-12705,kubernetes
+train-12705,aws
+train-12705,azure
+train-12706,communication
+train-12707,sql
+train-12714,javascript
+train-12715,java
+train-12715,javascript
+train-12725,python
+train-12725,machine learning
+train-12731,communication
+train-12733,sql
+train-12739,python
+train-12739,sql
+train-12739,tableau
+train-12740,sql
+train-12743,data analysis
+train-12744,java
+train-12748,java
+train-12755,python
+train-12755,sql
+train-12755,java
+train-12760,excel
+train-12777,sql
+train-12781,communication
+train-12792,communication
+train-12804,sql
+train-12805,communication
+train-12807,java
+train-12807,git
+train-12808,excel
+train-12824,data analysis
+train-12825,javascript
+train-12825,node.js
+train-12828,sql
+train-12828,tableau
+train-12828,data analysis
+train-12839,sql
+train-12842,python
+train-12842,javascript
+train-12842,git
+train-12852,power bi
+train-12855,java
+train-12857,project management
+train-12863,sql
+train-12863,java
+train-12869,project management
+train-12872,sql
+train-12872,azure
+train-12877,excel
+train-12885,data analysis
+train-12889,excel
+train-12891,project management
+train-12895,python
+train-12895,machine learning
+train-12898,excel
+train-12899,java
+train-12899,javascript
+train-12908,java
+train-12908,javascript
+train-12910,python
+train-12910,sql
+train-12910,machine learning
+train-12910,project management
+train-12916,java
+train-12916,javascript
+train-12919,communication
+train-12924,javascript
+train-12935,data analysis
+train-12940,python
+train-12940,javascript
+train-12940,django
+train-12950,sql
+train-12950,java
+train-12950,azure
+train-12962,communication
+train-12963,python
+train-12963,django
+train-12963,docker
+train-12966,sql
+train-12966,excel
+train-12969,project management
+train-12970,data analysis
+train-12972,sql
+train-12972,communication
+train-12974,excel
+train-12982,python
+train-12982,sql
+train-12982,machine learning
+train-12985,javascript
+train-12986,java
+train-12987,excel
+train-12994,java
+train-13002,sql
+train-13003,sql
+train-13008,sql
+train-13008,power bi
+train-13008,java
+train-13008,javascript
+train-13016,sql
+train-13020,python
+train-13020,sql
+train-13020,java
+train-13020,machine learning
+train-13024,sql
+train-13024,communication
+train-13025,tableau
+train-13034,excel
+train-13035,java
+train-13040,java
+train-13056,sql
+train-13056,javascript
+train-13058,python
+train-13059,excel
+train-13066,sql
+train-13068,java
+train-13069,communication
+train-13074,java
+train-13080,communication
+train-13084,excel
+train-13092,python
+train-13092,machine learning
+train-13092,numpy
+train-13094,project management
+train-13096,tableau
+train-13097,machine learning
+train-13101,excel
+train-13103,sql
+train-13107,machine learning
+train-13111,excel
+train-13113,javascript
+train-13113,git
+train-13119,javascript
+train-13120,java
+train-13121,sql
+train-13121,tableau
+train-13133,python
+train-13133,java
+train-13149,java
+train-13157,python
+train-13157,django
+train-13157,machine learning
+train-13157,data analysis
+train-13162,java
+train-13173,project management
+train-13178,excel
+train-13182,python
+train-13182,sql
+train-13182,machine learning
+train-13190,python
+train-13190,sql
+train-13190,excel
+train-13203,communication
+train-13204,data analysis
+train-13206,data analysis
+train-13211,excel
+train-13216,project management
+train-13223,python
+train-13230,machine learning
+train-13232,python
+train-13232,sql
+train-13236,machine learning
+train-13247,python
+train-13247,django
+train-13248,project management
+train-13268,power bi
+train-13284,sql
+train-13284,machine learning
+train-13287,python
+train-13287,sql
+train-13287,javascript
+train-13287,django
+train-13301,machine learning
+train-13309,sql
+train-13309,tableau
+train-13309,aws
+train-13318,python
+train-13318,java
+train-13318,machine learning
+train-13319,sql
+train-13319,data analysis
+train-13319,communication
+train-13324,data analysis
+train-13324,project management
+train-13328,excel
+train-13335,django
+train-13335,docker
+train-13347,sql
+train-13347,data analysis
+train-13348,python
+train-13348,data analysis
+train-13353,python
+train-13357,sql
+train-13357,javascript
+train-13362,java
+train-13364,python
+train-13364,java
+train-13364,aws
+train-13367,python
+train-13367,machine learning
+train-13370,sql
+train-13370,azure
+train-13380,communication
+train-13389,sql
+train-13390,data analysis
+train-13395,excel
+train-13410,communication
+train-13411,data analysis
+train-13427,python
+train-13427,javascript
+train-13430,python
+train-13433,python
+train-13433,docker
+train-13433,aws
+train-13435,data analysis
+train-13437,python
+train-13437,machine learning
+train-13440,project management
+train-13446,communication
+train-13448,excel
+train-13448,communication
+train-13449,excel
+train-13459,python
+train-13459,javascript
+train-13459,django
+train-13459,flask
+train-13460,communication
+train-13467,python
+train-13467,java
+train-13467,javascript
+train-13480,machine learning
+train-13486,java
+train-13498,sql
+train-13498,azure
+train-13502,project management
+train-13509,python
+train-13509,java
+train-13509,project management
+train-13519,sql
+train-13519,java
+train-13519,javascript
+train-13525,communication
+train-13529,sql
+train-13540,sql
+train-13540,data analysis
+train-13547,communication
+train-13548,tableau
+train-13548,javascript
+train-13550,java
+train-13550,node.js
+train-13568,data analysis
+train-13574,machine learning
+train-13575,java
+train-13589,java
+train-13603,aws
+train-13608,excel
+train-13611,sql
+train-13615,python
+train-13615,excel
+train-13618,data analysis
+train-13624,java
+train-13624,javascript
+train-13624,project management
+train-13628,data analysis
+train-13633,excel
+train-13633,data analysis
+train-13635,project management
+train-13636,project management
+train-13639,sql
+train-13642,python
+train-13642,javascript
+train-13645,machine learning
+train-13647,machine learning
+train-13651,java
+train-13651,javascript
+train-13659,communication
+train-13664,java
+train-13673,sql
+train-13673,machine learning
+train-13677,java
+train-13679,python
+train-13679,machine learning
+train-13681,excel
+train-13686,excel
+train-13689,sql
+train-13689,javascript
+train-13689,project management
+train-13691,java
+train-13691,javascript
+train-13697,data analysis
+train-13697,communication
+train-13707,java
+train-13707,javascript
+train-13714,python
+train-13714,java
+train-13714,javascript
+train-13714,machine learning
+train-13719,python
+train-13719,java
+train-13719,machine learning
+train-13721,python
+train-13721,java
+train-13721,node.js
+train-13721,aws
+train-13742,sql
+train-13742,machine learning
+train-13743,java
+train-13743,node.js
+train-13752,javascript
+train-13752,node.js
+train-13754,machine learning
+train-13757,javascript
+train-13757,react
+train-13759,python
+train-13759,communication
+train-13770,python
+train-13775,project management
+train-13776,python
+train-13776,java
+train-13784,machine learning
+train-13786,java
+train-13786,azure
+train-13789,python
+train-13789,java
+train-13789,javascript
+train-13803,project management
+train-13807,tableau
+train-13807,project management
+train-13813,project management
+train-13815,python
+train-13815,javascript
+train-13815,communication
+train-13824,sql
+train-13824,communication
+train-13830,excel
+train-13838,sql
+train-13858,python
+train-13858,sql
+train-13862,python
+train-13862,sql
+train-13862,power bi
+train-13862,tableau
+train-13865,communication
+train-13866,communication
+train-13867,sql
+train-13867,data analysis
+train-13881,excel
+train-13888,excel
+train-13894,sql
+train-13894,excel
+train-13894,tableau
+train-13896,java
+train-13907,communication
+train-13921,python
+train-13922,project management
+train-13925,communication
+train-13931,excel
+train-13931,data analysis
+train-13947,python
+train-13947,excel
+train-13947,tableau
+train-13947,aws
+train-13947,azure
+train-13947,pandas
+train-13948,communication
+train-13952,project management
+train-13965,communication
+train-13979,javascript
+train-13991,sql
+train-13991,java
+train-13995,sql
+train-13995,excel
+train-13995,data analysis
+train-13999,communication
+train-14000,sql
+train-14005,excel
+train-14006,sql
+train-14006,java
+train-14006,communication
+train-14014,communication
+train-14018,communication
+train-14019,data analysis
+train-14029,python
+train-14029,java
+train-14029,machine learning
+train-14032,excel
+train-14032,data analysis
+train-14036,project management
+train-14050,aws
+train-14066,sql
+train-14066,java
+train-14069,java
+train-14074,sql
+train-14074,excel
+train-14074,tableau
+train-14075,java
+train-14075,javascript
+train-14075,project management
+train-14077,python
+train-14077,sql
+train-14077,tableau
+train-14077,java
+train-14078,communication
+train-14082,excel
+train-14084,python
+train-14084,machine learning
+train-14089,python
+train-14089,java
+train-14089,machine learning
+train-14106,docker
+train-14109,communication
+train-14113,sql
+train-14113,project management
+train-14115,excel
+train-14115,data analysis
+train-14115,communication
+train-14119,sql
+train-14119,power bi
+train-14119,tableau
+train-14124,java
+train-14130,sql
+train-14130,excel
+train-14130,data analysis
+train-14133,machine learning
+train-14141,communication
+train-14150,communication
+train-14152,project management
+train-14154,sql
+train-14163,python
+train-14163,sql
+train-14163,java
+train-14165,sql
+train-14165,excel
+train-14165,power bi
+train-14170,sql
+train-14170,java
+train-14170,javascript
+train-14175,data analysis
+train-14184,python
+train-14184,machine learning
+train-14188,python
+train-14195,excel
+train-14202,docker
+train-14202,azure
+train-14209,communication
+train-14218,communication
+train-14220,project management
+train-14221,excel
+train-14224,java
+train-14227,project management
+train-14241,python
+train-14241,java
+train-14241,javascript
+train-14241,machine learning
+train-14243,sql
+train-14258,communication
+train-14261,sql
+train-14264,java
+train-14266,python
+train-14266,django
+train-14266,machine learning
+train-14268,sql
+train-14281,java
+train-14288,sql
+train-14294,python
+train-14294,sql
+train-14296,java
+train-14301,python
+train-14301,java
+train-14301,machine learning
+train-14320,python
+train-14324,sql
+train-14341,python
+train-14341,django
+train-14361,communication
+train-14363,machine learning
+train-14367,java
+train-14381,sql
+train-14381,java
+train-14398,sql
+train-14401,communication
+train-14421,sql
+train-14421,azure
+train-14424,java
+train-14427,sql
+train-14430,machine learning
+train-14432,java
+train-14439,sql
+train-14439,excel
+train-14454,java
+train-14457,data analysis
+train-14457,communication
+train-14459,project management
+train-14466,communication
+train-14469,sql
+train-14469,aws
+train-14477,python
+train-14477,javascript
+train-14477,machine learning
+train-14501,python
+train-14501,sql
+train-14501,java
+train-14506,sql
+train-14506,java
+train-14506,javascript
+train-14506,aws
+train-14509,sql
+train-14513,python
+train-14513,sql
+train-14513,machine learning
+train-14516,python
+train-14516,machine learning
+train-14522,data analysis
+train-14530,communication
+train-14543,javascript
+train-14545,sql
+train-14545,project management
+train-14554,java
+train-14558,python
+train-14558,sql
+train-14558,machine learning
+train-14561,tableau
+train-14565,python
+train-14565,sql
+train-14565,data analysis
+train-14566,sql
+train-14566,data analysis
+train-14572,javascript
+train-14572,react
+train-14572,node.js
+train-14572,aws
+train-14574,python
+train-14574,tableau
+train-14574,machine learning
+train-14580,java
+train-14584,javascript
+train-14594,sql
+train-14594,data analysis
+train-14596,javascript
+train-14599,sql
+train-14599,excel
+train-14599,data analysis
+train-14602,java
+train-14602,javascript
+train-14609,python
+train-14609,machine learning
+train-14611,sql
+train-14623,python
+train-14623,sql
+train-14623,java
+train-14626,java
+train-14628,sql
+train-14629,python
+train-14629,data analysis
+train-14652,python
+train-14652,sql
+train-14652,power bi
+train-14652,tableau
+train-14652,java
+train-14653,python
+train-14653,java
+train-14663,java
+train-14663,javascript
+train-14671,communication
+train-14672,project management
+train-14690,project management
+train-14707,machine learning
+train-14709,azure
+train-14714,data analysis
+train-14719,communication
+train-14721,communication
+train-14722,aws
+train-14722,azure
+train-14722,communication
+train-14734,python
+train-14736,excel
+train-14737,java
+train-14749,sql
+train-14751,communication
+train-14757,sql
+train-14757,excel
+train-14757,data analysis
+train-14758,python
+train-14762,data analysis
+train-14771,java
+train-14773,excel
+train-14776,excel
+train-14782,javascript
+train-14799,project management
+train-14800,java
+train-14807,sql
+train-14811,java
+train-14811,javascript
+train-14819,sql
+train-14828,sql
+train-14833,sql
+train-14835,project management
+train-14836,project management
+train-14838,python
+train-14842,project management
+train-14847,sql
+train-14847,javascript
+train-14847,azure
+train-14849,azure
+train-14851,sql
+train-14851,javascript
+train-14851,node.js
+train-14856,python
+train-14856,git
+train-14861,project management
+train-14872,sql
+train-14872,excel
+train-14872,data analysis
+train-14877,sql
+train-14892,python
+train-14892,machine learning
+train-14892,communication
+train-14905,java
+train-14905,git
+train-14915,data analysis
+train-14915,project management
+train-14917,excel
+train-14924,python
+train-14941,java
+train-14941,javascript
+train-14943,python
+train-14943,java
+train-14947,java
+train-14950,python
+train-14950,javascript
+train-14950,git
+train-14959,sql
+train-14960,excel
+train-14990,communication
+train-14997,sql
+train-15001,excel
+train-15010,project management
+train-15016,project management
+train-15021,sql
+train-15021,power bi
+train-15021,tableau
+train-15032,excel
+train-15032,communication
+train-15038,communication
+train-15039,project management
+train-15040,sql
+train-15040,excel
+train-15040,power bi
+train-15040,tableau
+train-15042,communication
+train-15045,java
+train-15055,communication
+train-15063,javascript
+train-15063,react
+train-15065,machine learning
+train-15067,java
+train-15071,python
+train-15071,aws
+train-15080,project management
+train-15082,java
+train-15084,sql
+train-15084,power bi
+train-15084,tableau
+train-15093,sql
+train-15093,data analysis
+train-15098,java
+train-15108,sql
+train-15108,java
+train-15108,javascript
+train-15114,project management
+train-15116,sql
+train-15116,power bi
+train-15120,java
+train-15120,javascript
+train-15120,docker
+train-15120,git
+train-15134,data analysis
+train-15142,project management
+train-15149,sql
+train-15150,java
+train-15150,docker
+train-15150,communication
+train-15160,sql
+train-15161,sql
+train-15161,excel
+train-15168,javascript
+train-15171,sql
+train-15171,java
+train-15176,project management
+train-15177,data analysis
+train-15179,excel
+train-15183,python
+train-15183,machine learning
+train-15184,communication
+train-15186,python
+train-15187,java
+train-15187,javascript
+train-15189,sql
+train-15190,python
+train-15190,sql
+train-15190,javascript
+train-15190,machine learning
+train-15197,python
+train-15197,sql
+train-15197,machine learning
+train-15198,communication
+train-15201,java
+train-15201,javascript
+train-15202,project management
+train-15209,data analysis
+train-15211,docker
+train-15211,kubernetes
+train-15212,data analysis
+train-15222,sql
+train-15222,excel
+train-15223,communication
+train-15229,java
+train-15237,communication
+train-15237,project management
+train-15240,python
+train-15240,sql
+train-15240,javascript
+train-15240,django
+train-15252,python
+train-15252,machine learning
+train-15255,project management
+train-15258,excel
+train-15258,data analysis
+train-15275,communication
+train-15276,java
+train-15276,javascript
+train-15277,python
+train-15277,machine learning
+train-15286,javascript
+train-15289,project management
+train-15293,sql
+train-15293,java
+train-15293,javascript
+train-15314,communication
+train-15324,javascript
+train-15324,react
+train-15324,git
+train-15325,python
+train-15325,sql
+train-15325,excel
+train-15325,data analysis
+train-15334,python
+train-15335,sql
+train-15335,excel
+train-15335,tableau
+train-15337,python
+train-15337,sql
+train-15337,java
+train-15337,machine learning
+train-15342,sql
+train-15349,sql
+train-15349,data analysis
+train-15353,sql
+train-15353,tableau
+train-15357,excel
+train-15362,sql
+train-15363,javascript
+train-15384,sql
+train-15385,excel
+train-15389,sql
+train-15391,machine learning
+train-15392,java
+train-15392,javascript
+train-15395,communication
+train-15397,sql
+train-15401,sql
+train-15415,python
+train-15415,sql
+train-15415,machine learning
+train-15416,project management
+train-15432,communication
+train-15440,python
+train-15440,sql
+train-15443,python
+train-15453,excel
+train-15457,sql
+train-15458,sql
+train-15460,excel
+train-15462,data analysis
+train-15466,java
+train-15468,excel
+train-15468,tableau
+train-15470,tableau
+train-15470,data analysis
+train-15472,javascript
+train-15472,node.js
+train-15478,sql
+train-15478,excel
+train-15484,communication
+train-15485,java
+train-15487,java
+train-15491,java
+train-15495,java
+train-15495,javascript
+train-15510,java
+train-15510,communication
+train-15513,python
+train-15513,sql
+train-15513,tableau
+train-15513,machine learning
+train-15514,java
+train-15516,sql
+train-15516,excel
+train-15520,sql
+train-15520,data analysis
+train-15521,javascript
+train-15521,react
+train-15521,node.js
+train-15526,git
+train-15530,communication
+train-15533,python
+train-15533,sql
+train-15535,communication
+train-15536,java
+train-15536,git
+train-15538,python
+train-15538,sql
+train-15538,excel
+train-15538,project management
+train-15553,communication
+train-15568,java
+train-15581,project management
+train-15585,machine learning
+train-15618,excel
+train-15623,sql
+train-15630,javascript
+train-15633,java
+train-15634,communication
+train-15639,sql
+train-15639,excel
+train-15641,python
+train-15641,machine learning
+train-15642,sql
+train-15652,python
+train-15658,communication
+train-15665,sql
+train-15687,data analysis
+train-15687,communication
+train-15688,project management
+train-15701,sql
+train-15701,power bi
+train-15711,java
+train-15716,python
+train-15716,sql
+train-15716,java
+train-15717,sql
+train-15717,excel
+train-15721,data analysis
+train-15722,java
+train-15737,communication
+train-15738,machine learning
+train-15750,java
+train-15750,javascript
+train-15750,azure
+train-15752,sql
+train-15757,java
+train-15758,sql
+train-15761,communication
+train-15765,communication
+train-15768,python
+train-15768,machine learning
+train-15768,communication
+train-15769,python
+train-15769,node.js
+train-15769,django
+train-15769,flask
+train-15772,excel
+train-15783,python
+train-15783,java
+train-15786,project management
+train-15790,excel
+train-15790,data analysis
+train-15806,excel
+train-15807,sql
+train-15810,communication
+train-15836,sql
+train-15840,communication
+train-15850,python
+train-15850,machine learning
+train-15855,python
+train-15862,sql
+train-15865,excel
+train-15865,communication
+train-15867,project management
+train-15896,sql
+train-15905,project management
+train-15914,project management
+train-15920,sql
+train-15920,javascript
+train-15920,react
+train-15927,sql
+train-15932,excel
+train-15932,data analysis
+train-15937,java
+train-15946,python
+train-15946,java
+train-15968,project management
+train-15976,project management
+train-15989,excel
+train-16000,machine learning
+train-16008,python
+train-16008,javascript
+train-16016,javascript
+train-16016,communication
+train-16020,sql
+train-16020,javascript
+train-16020,react
+train-16021,python
+train-16021,javascript
+train-16021,numpy
+train-16024,java
+train-16024,aws
+train-16036,data analysis
+train-16051,sql
+train-16055,data analysis
+train-16059,sql
+train-16059,docker
+train-16059,git
+train-16062,data analysis
+train-16073,sql
+train-16074,excel
+train-16074,tableau
+train-16088,java
+train-16108,sql
+train-16116,javascript
+train-16116,react
+train-16116,node.js
+train-16116,aws
+train-16117,communication
+train-16120,data analysis
+train-16120,communication
+train-16126,excel
+train-16138,java
+train-16138,machine learning
+train-16153,communication
+train-16160,azure
+train-16176,machine learning
+train-16176,data analysis
+train-16180,python
+train-16180,sql
+train-16184,java
+train-16188,excel
+train-16192,sql
+train-16192,data analysis
+train-16195,java
+train-16195,communication
+train-16197,sql
+train-16197,java
+train-16197,data analysis
+train-16205,javascript
+train-16205,git
+train-16211,java
+train-16215,communication
+train-16217,sql
+train-16217,java
+train-16228,communication
+train-16231,excel
+train-16231,communication
+train-16234,sql
+train-16234,tableau
+train-16235,sql
+train-16239,excel
+train-16270,excel
+train-16270,data analysis
+train-16274,sql
+train-16274,excel
+train-16274,power bi
+train-16281,excel
+train-16282,data analysis
+train-16283,java
+train-16292,excel
+train-16313,excel
+train-16316,sql
+train-16316,communication
+train-16320,communication
+train-16326,excel
+train-16327,java
+train-16327,javascript
+train-16338,java
+train-16348,sql
+train-16364,excel
+train-16369,python
+train-16369,sql
+train-16369,java
+train-16369,machine learning
+train-16376,excel
+train-16379,java
+train-16379,javascript
+train-16381,java
+train-16389,python
+train-16389,java
+train-16389,django
+train-16394,python
+train-16394,sql
+train-16397,python
+train-16397,sql
+train-16397,java
+train-16408,java
+train-16417,communication
+train-16425,project management
+train-16429,machine learning
+train-16434,java
+train-16441,excel
+train-16444,sql
+train-16460,project management
+train-16475,python
+train-16481,sql
+train-16481,tableau
+train-16492,communication
+train-16494,data analysis
+train-16505,communication
+train-16506,excel
+train-16514,sql
+train-16514,java
+train-16515,data analysis
+train-16516,java
+train-16517,sql
+train-16537,sql
+train-16537,excel
+train-16537,machine learning
+train-16537,data analysis
+train-16539,communication
+train-16540,python
+train-16540,java
+train-16543,python
+train-16552,sql
+train-16552,javascript
+train-16565,communication
+train-16567,communication
+train-16568,communication
+train-16583,project management
+train-16588,communication
+train-16589,sql
+train-16591,sql
+train-16592,git
+train-16605,project management
+train-16614,python
+train-16614,java
+train-16614,javascript
+train-16619,python
+train-16619,machine learning
+train-16621,project management
+train-16623,java
+train-16629,python
+train-16629,java
+train-16629,react
+train-16629,node.js
+train-16641,sql
+train-16650,communication
+train-16651,data analysis
+train-16668,sql
+train-16668,excel
+train-16668,data analysis
+train-16672,python
+train-16672,sql
+train-16672,java
+train-16673,python
+train-16673,machine learning
+train-16673,data analysis
+train-16681,sql
+train-16690,sql
+train-16690,communication
+train-16705,python
+train-16705,javascript
+train-16705,django
+train-16711,java
+train-16713,communication
+train-16715,project management
+train-16725,sql
+train-16730,python
+train-16731,node.js
+train-16731,aws
+train-16737,sql
+train-16745,communication
+train-16746,java
+train-16749,communication
+train-16753,javascript
+train-16758,project management
+train-16760,sql
+train-16760,excel
+train-16767,python
+train-16767,java
+train-16767,machine learning
+train-16768,python
+train-16768,sql
+train-16768,machine learning
+train-16768,numpy
+train-16783,sql
+train-16785,data analysis
+train-16798,python
+train-16798,java
+train-16804,communication
+train-16805,sql
+train-16811,communication
+train-16826,excel
+train-16826,data analysis
+train-16828,communication
+train-16832,git
+train-16834,java
+train-16838,java
+train-16838,javascript
+train-16841,data analysis
+train-16852,sql
+train-16856,sql
+train-16856,java
+train-16867,data analysis
+train-16873,java
+train-16873,javascript
+train-16885,python
+train-16885,java
+train-16885,aws
+train-16885,git
+train-16891,java
+train-16903,python
+train-16903,machine learning
+train-16904,python
+train-16904,sql
+train-16907,sql
+train-16915,sql
+train-16920,tableau
+train-16922,communication
+train-16929,data analysis
+train-16940,javascript
+train-16950,sql
+train-16951,java
+train-16952,data analysis
+train-16961,communication
+train-16964,python
+train-16964,machine learning
+train-16978,java
+train-16978,javascript
+train-16979,sql
+train-16988,python
+train-16988,sql
+train-17014,java
+train-17027,python
+train-17027,azure
+train-17027,machine learning
+train-17027,data analysis
+train-17028,java
+train-17042,sql
+train-17042,power bi
+train-17046,communication
+train-17053,java
+train-17053,git
+train-17055,sql
+train-17055,excel
+train-17055,tableau
+train-17060,java
+train-17060,docker
+train-17060,aws
+train-17068,communication
+train-17069,excel
+train-17070,sql
+train-17070,machine learning
+train-17070,numpy
+train-17073,communication
+train-17075,java
+train-17077,excel
+train-17077,data analysis
+train-17077,communication
+train-17079,sql
+train-17079,excel
+train-17079,machine learning
+train-17085,communication
+train-17089,communication
+train-17095,javascript
+train-17100,sql
+train-17101,python
+train-17101,sql
+train-17114,sql
+train-17130,python
+train-17130,aws
+train-17131,java
+train-17131,docker
+train-17132,sql
+train-17149,data analysis
+train-17153,communication
+train-17154,data analysis
+train-17160,communication
+train-17168,java
+train-17168,javascript
+train-17168,aws
+train-17177,sql
+train-17180,python
+train-17180,sql
+train-17180,tableau
+train-17180,java
+train-17182,java
+train-17182,javascript
+train-17185,data analysis
+train-17200,excel
+train-17203,communication
+train-17204,communication
+train-17207,python
+train-17207,sql
+train-17207,machine learning
+train-17215,python
+train-17215,excel
+train-17215,machine learning
+train-17215,data analysis
+train-17216,sql
+train-17216,excel
+train-17216,data analysis
+train-17221,python
+train-17228,java
+train-17236,communication
+train-17241,sql
+train-17243,sql
+train-17243,javascript
+train-17249,excel
+train-17249,communication
+train-17250,python
+train-17259,excel
+train-17269,sql
+train-17277,python
+train-17277,docker
+train-17277,aws
+train-17290,sql
+train-17290,java
+train-17301,data analysis
+train-17305,data analysis
+train-17315,docker
+train-17341,java
+train-17341,javascript
+train-17344,excel
+train-17363,excel
+train-17366,project management
+train-17367,communication
+train-17373,sql
+train-17373,azure
+train-17374,sql
+train-17380,tableau
+train-17385,java
+train-17399,sql
+train-17399,excel
+train-17399,data analysis
+train-17409,excel
+train-17415,java
+train-17416,python
+train-17416,sql
+train-17416,tableau
+train-17416,machine learning
+train-17424,java
+train-17424,javascript
+train-17424,azure
+train-17434,java
+train-17440,excel
+train-17448,data analysis
+train-17448,communication
+train-17449,communication
+train-17450,java
+train-17450,git
+train-17451,sql
+train-17464,communication
+train-17488,project management
+train-17495,communication
+train-17499,sql
+train-17507,excel
+train-17508,excel
+train-17508,data analysis
+train-17509,sql
+train-17509,javascript
+train-17511,sql
+train-17511,java
+train-17517,sql
+train-17517,excel
+train-17518,java
+train-17545,javascript
+train-17548,sql
+train-17571,python
+train-17571,machine learning
+train-17587,python
+train-17587,machine learning
+train-17600,python
+train-17600,machine learning
+train-17602,tableau
+train-17626,java
+train-17626,machine learning
+train-17626,data analysis
+train-17636,java
+train-17638,sql
+train-17642,excel
+train-17642,data analysis
+train-17643,excel
+train-17654,communication
+train-17665,python
+train-17668,sql
+train-17678,sql
+train-17685,java
+train-17689,project management
+train-17702,javascript
+train-17719,python
+train-17719,django
+train-17727,data analysis
+train-17733,machine learning
+train-17753,python
+train-17753,sql
+train-17754,sql
+train-17754,data analysis
+train-17763,sql
+train-17764,python
+train-17764,sql
+train-17764,machine learning
+train-17765,sql
+train-17765,java
+train-17766,aws
+train-17777,communication
+train-17780,javascript
+train-17780,node.js
+train-17781,javascript
+train-17801,project management
+train-17807,communication
+train-17812,excel
+train-17818,sql
+train-17818,java
+train-17821,java
+train-17828,data analysis
+train-17844,sql
+train-17851,sql
+train-17851,java
+train-17852,java
+train-17855,sql
+train-17862,sql
+train-17862,excel
+train-17862,java
+train-17866,communication
+train-17867,python
+train-17867,django
+train-17867,flask
+train-17867,docker
+train-17875,excel
+train-17884,python
+train-17884,sql
+train-17884,java
+train-17891,python
+train-17891,sql
+train-17891,machine learning
+train-17893,python
+train-17893,sql
+train-17893,django
+train-17893,aws
+train-17897,java
+train-17906,excel
+train-17906,data analysis
+train-17913,excel
+train-17913,communication
+train-17916,data analysis
+train-17921,javascript
+train-17927,data analysis
+train-17933,java
+train-17940,sql
+train-17940,machine learning
+train-17961,node.js
+train-17962,javascript
+train-17962,git
+train-17964,python
+train-17970,excel
+train-17974,sql
+train-17986,project management
+train-17988,data analysis
+train-17992,java
+train-17997,java
+train-18019,python
+train-18019,machine learning
+train-18023,java
+train-18023,git
+train-18029,project management
+train-18033,javascript
+train-18054,communication
+train-18057,python
+train-18057,javascript
+train-18062,data analysis
+train-18062,project management
+train-18073,python
+train-18073,sql
+train-18073,javascript
+train-18077,sql
+train-18086,communication
+train-18090,communication
+train-18094,sql
+train-18094,java
+train-18106,sql
+train-18110,java
+train-18118,communication
+train-18132,sql
+train-18132,excel
+train-18132,power bi
+train-18132,data analysis
+train-18152,java
+train-18159,sql
+train-18159,communication
+train-18180,excel
+train-18191,communication
+train-18213,project management
+train-18224,excel
+train-18227,sql
+train-18227,power bi
+train-18237,sql
+train-18251,data analysis
+train-18252,excel
+train-18252,data analysis
+train-18262,java
+train-18262,javascript
+train-18276,machine learning
+train-18276,data analysis
+train-18278,tableau
+train-18286,sql
+train-18286,excel
+train-18286,tableau
+train-18287,machine learning
+train-18293,project management
+train-18294,sql
+train-18302,project management
+train-18308,sql
+train-18317,sql
+train-18317,communication
+train-18334,excel
+train-18351,aws
+train-18356,communication
+train-18358,python
+train-18358,sql
+train-18358,machine learning
+train-18384,communication
+train-18387,communication
+train-18389,python
+train-18389,java
+train-18392,java
+train-18396,communication
+train-18399,project management
+train-18400,python
+train-18400,machine learning
+train-18405,excel
+train-18410,project management
+train-18414,javascript
+train-18414,communication
+train-18419,python
+train-18419,tableau
+train-18428,python
+train-18428,azure
+train-18438,machine learning
+train-18438,data analysis
+train-18443,communication
+train-18453,machine learning
+train-18454,communication
+train-18455,python
+train-18456,project management
+train-18467,data analysis
+train-18475,project management
+train-18484,excel
+train-18484,data analysis
+train-18488,sql
+train-18488,communication
+train-18488,project management
+train-18492,project management
+train-18496,communication
+train-18497,excel
+train-18504,java
+train-18508,sql
+train-18508,java
+train-18510,javascript
+train-18510,git
+train-18519,project management
+train-18529,sql
+train-18529,power bi
+train-18538,sql
+train-18545,excel
+train-18545,communication
+train-18546,data analysis
+train-18566,communication
+train-18570,communication
+train-18576,java
+train-18576,git
+train-18587,java
+train-18592,java
+train-18592,node.js
+train-18594,communication
+train-18596,communication
+train-18606,communication
+train-18616,java
+train-18652,project management
+train-18658,sql
+train-18658,java
+train-18660,python
+train-18660,javascript
+train-18660,communication
+train-18671,python
+train-18671,java
+train-18671,javascript
+train-18674,communication
+train-18679,communication
+train-18682,excel
+train-18682,javascript
+train-18684,communication
+train-18697,communication
+train-18710,python
+train-18710,sql
+train-18710,javascript
+train-18710,machine learning
+train-18722,communication
+train-18724,java
+train-18727,excel
+train-18734,data analysis
+train-18739,excel
+train-18742,java
+train-18746,aws
+train-18759,sql
+train-18759,data analysis
+train-18766,python
+train-18766,sql
+train-18766,excel
+train-18766,machine learning
+train-18776,sql
+train-18776,tableau
+train-18782,excel
+train-18798,sql
+train-18798,data analysis
+train-18803,sql
+train-18803,excel
+train-18803,tableau
+train-18803,data analysis
+train-18817,excel
+train-18828,sql
+train-18848,sql
+train-18855,communication
+train-18859,python
+train-18859,javascript
+train-18859,git
+train-18878,sql
+train-18878,azure
+train-18878,machine learning
+train-18898,sql
+train-18898,project management
+train-18902,sql
+train-18902,javascript
+train-18912,java
+train-18913,sql
+train-18913,javascript
+train-18915,java
+train-18927,sql
+train-18928,communication
+train-18930,machine learning
+train-18930,data analysis
+train-18939,sql
+train-18939,machine learning
+train-18943,machine learning
+train-18945,python
+train-18945,django
+train-18945,machine learning
+train-18947,python
+train-18947,data analysis
+train-18952,excel
+train-18954,excel
+train-18960,machine learning
+train-18962,sql
+train-18962,data analysis
+train-18983,python
+train-18983,javascript
+train-18986,sql
+train-18986,machine learning
+train-18987,communication
+train-18991,java
+train-18991,project management
+train-18999,aws
+train-19001,sql
+train-19001,power bi
+train-19010,tableau
+train-19037,java
+train-19047,sql
+train-19050,project management
+train-19053,python
+train-19053,sql
+train-19053,excel
+train-19053,machine learning
+train-19054,python
+train-19054,communication
+train-19054,project management
+train-19055,tableau
+train-19073,communication
+train-19080,react
+train-19080,node.js
+train-19086,python
+train-19096,java
+train-19096,machine learning
+train-19106,project management
+train-19126,excel
+train-19152,sql
+train-19152,excel
+train-19152,data analysis
+train-19159,project management
+train-19169,java
+train-19170,sql
+train-19178,machine learning
+train-19182,java
+train-19193,sql
+train-19193,excel
+train-19193,data analysis
+train-19199,data analysis
+train-19205,sql
+train-19205,javascript
+train-19220,sql
+train-19220,data analysis
+train-19221,sql
+train-19227,data analysis
+train-19232,excel
+train-19237,project management
+train-19245,communication
+train-19246,java
+train-19259,python
+train-19260,excel
+train-19264,java
+train-19264,javascript
+train-19266,excel
+train-19266,data analysis
+train-19266,communication
+train-19275,tableau
+train-19275,project management
+train-19276,python
+train-19276,machine learning
+train-19281,java
+train-19284,sql
+train-19284,java
+train-19286,java
+train-19286,node.js
+train-19293,sql
+train-19293,excel
+train-19293,tableau
+train-19295,data analysis
+train-19301,excel
+train-19311,tableau
+train-19333,python
+train-19333,sql
+train-19353,excel
+train-19364,project management
+train-19366,python
+train-19366,java
+train-19370,machine learning
+train-19374,git
+train-19384,data analysis
+train-19400,communication
+train-19401,excel
+train-19407,communication
+train-19416,communication
+train-19420,data analysis
+train-19438,excel
+train-19438,data analysis
+train-19439,java
+train-19439,aws
+train-19441,excel
+train-19441,data analysis
+train-19455,sql
+train-19455,java
+train-19456,communication
+train-19463,sql
+train-19463,data analysis
+train-19481,communication
+train-19492,python
+train-19492,machine learning
+train-19492,data analysis
+train-19498,sql
+train-19506,python
+train-19506,machine learning
+train-19509,java
+train-19511,excel
+train-19511,data analysis
+train-19513,sql
+train-19515,communication
+train-19525,sql
+train-19528,sql
+train-19541,python
+train-19541,java
+train-19542,data analysis
+train-19543,excel
+train-19543,communication
+train-19545,python
+train-19546,sql
+train-19549,javascript
+train-19557,project management
+train-19568,project management
+train-19577,python
+train-19577,java
+train-19577,machine learning
+train-19579,sql
+train-19579,power bi
+train-19579,tableau
+train-19579,data analysis
+train-19608,java
+train-19617,project management
+train-19624,sql
+train-19624,data analysis
+train-19627,communication
+train-19638,react
+train-19638,node.js
+train-19639,java
+train-19642,python
+train-19642,machine learning
+train-19644,java
+train-19653,python
+train-19656,communication
+train-19664,java
+train-19664,javascript
+train-19673,data analysis
+train-19677,sql
+train-19677,java
+train-19678,sql
+train-19678,excel
+train-19678,data analysis
+train-19678,communication
+train-19682,data analysis
+train-19684,java
+train-19688,project management
+train-19696,sql
+train-19697,java
+train-19698,excel
+train-19698,data analysis
+train-19709,sql
+train-19710,sql
+train-19721,communication
+train-19732,communication
+train-19736,tableau
+train-19750,communication
+train-19757,communication
+train-19760,project management
+train-19768,excel
+train-19768,data analysis
+test-0,sql
+test-0,java
+test-2,communication
+test-16,communication
+test-21,excel
+test-23,sql
+test-34,machine learning
+test-41,tableau
+test-46,java
+test-46,javascript
+test-50,excel
+test-50,communication
+test-60,python
+test-60,sql
+test-60,machine learning
+test-63,sql
+test-63,data analysis
+test-71,machine learning
+test-79,project management
+test-86,java
+test-86,communication
+test-88,javascript
+test-94,python
+test-94,excel
+test-96,sql
+test-96,excel
+test-110,javascript
+test-117,java
+test-126,data analysis
+test-133,excel
+test-133,power bi
+test-133,tableau
+test-134,tableau
+test-138,azure
+test-138,machine learning
+test-143,java
+test-143,javascript
+test-143,aws
+test-143,git
+test-146,python
+test-146,data analysis
+test-146,project management
+test-149,communication
+test-150,sql
+test-150,azure
+test-170,java
+test-173,sql
+test-173,communication
+test-175,sql
+test-175,javascript
+test-175,aws
+test-177,communication
+test-179,communication
+test-184,sql
+test-203,javascript
+test-204,python
+test-213,python
+test-213,machine learning
+test-213,project management
+test-215,java
+test-217,communication
+test-217,project management
+test-228,python
+test-228,machine learning
+test-242,project management
+test-245,python
+test-245,machine learning
+test-253,javascript
+test-274,sql
+test-293,excel
+test-293,data analysis
+test-300,python
+test-300,machine learning
+test-307,project management
+test-323,sql
+test-332,excel
+test-332,data analysis
+test-332,communication
+test-333,java
+test-343,sql
+test-343,java
+test-347,tableau
+test-367,python
+test-367,docker
+test-369,python
+test-369,machine learning
+test-382,sql
+test-382,javascript
+test-383,communication
+test-426,excel
+test-427,sql
+test-427,excel
+test-441,data analysis
+test-452,sql
+test-452,data analysis
+test-463,excel
+test-470,python
+test-475,javascript
+test-477,sql
+test-480,data analysis
+test-483,sql
+test-501,communication
+test-502,python
+test-502,sql
+test-502,java
+test-504,sql
+test-504,power bi
+test-504,javascript
+test-504,azure
+test-506,python
+test-506,sql
+test-506,machine learning
+test-529,project management
+test-539,sql
+test-539,excel
+test-539,power bi
+test-539,tableau
+test-539,data analysis
+test-547,communication
+test-553,tableau
+test-567,sql
+test-569,python
+test-569,machine learning
+test-574,communication
+test-583,sql
+test-583,excel
+test-591,sql
+test-596,python
+test-596,java
+test-596,javascript
+test-597,python
+test-597,java
+test-597,aws
+test-604,machine learning
+test-656,python
+test-657,python
+test-657,sql
+test-668,sql
+test-668,data analysis
+test-669,javascript
+test-669,node.js
+test-669,aws
+test-672,python
+test-676,python
+test-676,sql
+test-676,java
+test-676,machine learning
+test-685,project management
+test-691,sql
+test-709,communication
+test-712,project management
+test-713,java
+test-713,node.js
+test-716,sql
+test-732,python
+test-737,sql
+test-738,python
+test-738,machine learning
+test-741,excel
+test-744,machine learning
+test-749,excel
+test-749,project management
+test-757,excel
+test-757,data analysis
+test-763,machine learning
+test-766,communication
+test-768,python
+test-768,java
+test-777,excel
+test-780,javascript
+test-790,python
+test-790,java
+test-802,java
+test-802,javascript
+test-812,excel
+test-812,data analysis
+test-813,machine learning
+test-814,python
+test-814,java
+test-814,docker
+test-814,git
+test-816,project management
+test-840,machine learning
+test-842,project management
+test-843,python
+test-843,sql
+test-846,sql
+test-854,aws
+test-857,java
+test-861,sql
+test-861,javascript
+test-864,git
+test-900,communication
+test-902,project management
+test-921,sql
+test-921,data analysis
+test-922,data analysis
+test-941,project management
+test-950,python
+test-950,django
+test-950,machine learning
+test-950,data analysis
+test-951,javascript
+test-988,javascript
+test-990,project management
+test-991,python
+test-991,machine learning
+test-995,communication
+test-1005,node.js
+test-1010,data analysis
+test-1013,data analysis
+test-1020,data analysis
+test-1027,sql
+test-1027,data analysis
+test-1029,sql
+test-1029,power bi
+test-1040,project management
+test-1043,python
+test-1043,sql
+test-1043,java
+test-1043,javascript
+test-1048,communication
+test-1053,communication
+test-1064,sql
+test-1086,java
+test-1106,python
+test-1106,sql
+test-1143,excel
+test-1150,communication
+test-1166,python
+test-1166,sql
+test-1166,java
+test-1184,communication
+test-1184,project management
+test-1186,python
+test-1186,java
+test-1186,machine learning
+test-1192,communication
+test-1203,communication
+test-1217,project management
+test-1222,sql
+test-1224,python
+test-1234,machine learning
+test-1254,excel
+test-1259,java
+test-1262,excel
+test-1262,project management
+test-1272,javascript
+test-1287,excel
+test-1287,project management
+test-1296,power bi
+test-1298,java
+test-1326,communication
+test-1346,python
+test-1346,communication
+test-1350,communication
+test-1351,sql
+test-1354,communication
+test-1355,sql
+test-1355,javascript
+test-1355,communication
+test-1366,sql
+test-1383,javascript
+test-1392,javascript
+test-1399,java
+test-1402,sql
+test-1411,tableau
+test-1411,data analysis
+test-1413,project management
+test-1418,communication
+test-1423,machine learning
+test-1431,python
+test-1431,aws
+test-1433,communication
+test-1437,python
+test-1437,machine learning
+test-1438,communication
+test-1439,java
+test-1439,javascript
+test-1452,sql
+test-1459,project management
+test-1463,python
+test-1463,docker
+test-1463,kubernetes
+test-1463,aws
+test-1476,java
+test-1476,node.js
+test-1481,data analysis
+test-1506,data analysis
+test-1513,data analysis
+test-1535,sql
+test-1535,excel
+test-1535,data analysis
+test-1545,project management
+test-1554,sql
+test-1578,project management
+test-1594,excel
+test-1594,data analysis
+test-1594,communication
+test-1596,communication
+test-1611,python
+test-1611,java
+test-1616,python
+test-1616,sql
+test-1616,machine learning
+test-1621,project management
+test-1640,javascript
+test-1642,sql
+test-1642,javascript
+test-1642,node.js
+test-1642,data analysis
+test-1663,excel
+test-1665,python
+test-1669,sql
+test-1669,project management
+test-1671,machine learning
+test-1711,excel
+test-1712,project management
+test-1720,python
+test-1720,java
+test-1720,machine learning
+test-1721,python
+test-1728,python
+test-1728,machine learning
+test-1732,java
+test-1739,java
+test-1753,communication
+test-1756,sql
+test-1756,excel
+test-1760,project management
+test-1787,javascript
+test-1791,excel
+test-1791,communication
+test-1796,communication
+test-1799,communication
+test-1807,javascript
+test-1807,node.js
+test-1808,sql
+test-1824,sql
+test-1832,python
+test-1832,machine learning
+test-1842,python
+test-1844,python
+test-1844,sql
+test-1844,machine learning
+test-1845,java
+test-1852,sql
+test-1852,data analysis
+test-1858,sql
+test-1865,machine learning
+test-1868,java
+test-1885,azure
+test-1899,sql
+test-1899,java
+test-1920,communication
+test-1921,sql
+test-1935,project management
+test-1937,python
+test-1974,python
+test-1974,java
+test-1974,machine learning
+test-1989,sql
+test-1989,java
+test-1989,javascript
+test-1992,excel
+test-2007,data analysis
+test-2009,python
+test-2026,communication
+test-2027,java
+test-2029,java
+test-2032,communication
+test-2034,project management
+test-2036,excel
+test-2047,python
+test-2047,sql
+test-2047,javascript
+test-2047,azure
+test-2050,python
+test-2050,sql
+test-2050,tableau
+test-2050,java
+test-2051,java
+test-2073,excel
+test-2078,sql
+test-2094,java
+test-2101,project management
+test-2107,sql
+test-2110,java
+test-2112,python
+test-2112,django
+test-2126,project management
+test-2127,communication
+test-2136,sql
+test-2140,sql
+test-2147,java
+test-2152,communication
+test-2166,sql
+test-2170,sql
+test-2172,java
+test-2172,javascript
+test-2172,azure
+test-2175,excel
+test-2189,excel
+test-2189,power bi
+test-2212,project management
+test-2214,sql
+test-2216,python
+test-2228,communication
+test-2228,project management
+test-2238,communication
+test-2240,java
+test-2244,communication
+test-2245,sql
+test-2245,java
+test-2245,javascript
+test-2274,excel
+test-2276,sql
+test-2276,excel
+test-2280,tableau
+test-2281,javascript
+test-2290,project management
+test-2302,sql
+test-2307,java
+test-2312,communication
+test-2313,communication
+test-2322,sql
+test-2322,communication
+test-2324,sql
+test-2324,azure
+test-2326,communication
+test-2331,python
+test-2331,machine learning
+test-2355,project management
+test-2356,machine learning
+test-2357,python
+test-2373,java
+test-2375,sql
+test-2383,java
+test-2394,project management
+test-2418,java
+test-2430,python
+test-2430,django
+test-2430,flask
+test-2431,machine learning
+test-2434,sql
+test-2444,project management
+test-2448,data analysis
+test-2465,excel
+test-2467,communication
+test-2472,sql
+test-2472,java
+test-2474,python
+test-2474,machine learning
+test-2474,data analysis
+test-2479,sql
+test-2480,excel
+test-2488,python
+test-2488,sql
+test-2488,tableau
+test-2488,machine learning
+test-2490,communication
+test-2493,python
+test-2493,sql
+test-2493,javascript
+test-2493,node.js
+test-2510,excel
+test-2510,data analysis
+test-2513,project management
+test-2528,python
+test-2528,tableau
+test-2539,python
+test-2539,machine learning
+test-2550,python
+test-2550,machine learning
+test-2552,project management
+test-2557,java
+test-2558,excel
+test-2564,java
+test-2565,java
+test-2565,javascript
+test-2590,data analysis
+test-2593,sql
+test-2596,java
+test-2596,aws
+test-2596,communication
+test-2598,javascript
+test-2602,javascript
+test-2609,sql
+test-2609,tableau
+test-2609,java
+test-2610,sql
+test-2610,javascript
+test-2610,node.js
+test-2616,excel
+test-2617,excel
+test-2632,java
+test-2656,java
+test-2656,javascript
+test-2657,java
+test-2657,javascript
+test-2668,python
+test-2696,communication
+test-2700,excel
+test-2707,sql
+test-2712,data analysis
+test-2721,sql
+test-2722,excel
+test-2723,java
+test-2737,machine learning
+test-2744,excel
+test-2745,project management
+test-2757,sql
+test-2757,javascript
+test-2794,sql
+test-2801,sql
+test-2833,python
+test-2833,java
+test-2833,machine learning
+test-2844,communication
+test-2851,project management
+test-2861,java
+test-2861,node.js
+test-2873,sql
+test-2876,project management
+test-2885,communication
+test-2886,communication
+test-2904,java
+test-2904,machine learning
+test-2909,excel
+test-2909,data analysis
+test-2918,machine learning
+test-2928,data analysis
+test-2942,communication
+test-2948,sql
+test-2961,javascript
+test-2969,communication
+test-2970,communication
+test-2976,java
+test-2982,sql
+test-2984,python
+test-2984,sql
+test-2984,communication
+test-3013,tableau
+test-3013,communication
+test-3019,python
+test-3019,excel
+test-3028,python
+test-3031,sql
+test-3082,excel
+test-3082,data analysis
+test-3086,communication
+test-3087,excel
+test-3109,javascript
+test-3110,javascript
+test-3110,react
+test-3114,machine learning
+test-3114,data analysis
+test-3115,python
+test-3115,java
+test-3115,machine learning
+test-3115,data analysis
+test-3137,sql
+test-3137,java
+test-3137,javascript
+test-3137,git
+test-3139,javascript
+test-3152,project management
+test-3158,excel
+test-3167,excel
+test-3167,data analysis
+test-3172,communication
+test-3172,project management
+test-3179,communication
+test-3192,sql
+test-3192,data analysis
+test-3206,sql
+test-3206,javascript
+test-3206,aws
+test-3207,sql
+test-3215,excel
+test-3217,java
+test-3217,project management
+test-3222,python
+test-3222,sql
+test-3222,machine learning
+test-3222,communication
+test-3242,sql
+test-3245,excel
+test-3255,excel
+test-3257,project management
+test-3266,machine learning
+test-3269,data analysis
+test-3272,python
+test-3276,sql
+test-3282,javascript
+test-3286,java
+test-3292,project management
+test-3299,communication
+test-3302,communication
+test-3312,data analysis
+test-3329,communication
+test-3336,javascript
+test-3337,data analysis
+test-3341,java
+test-3342,java
+test-3347,sql
+test-3347,power bi
+test-3347,tableau
+test-3357,communication
+test-3374,communication
+test-3375,excel
+test-3375,communication
+test-3383,python
+test-3383,javascript
+test-3383,machine learning
+test-3383,data analysis
+test-3405,sql
+test-3413,sql
+test-3413,excel
+test-3430,communication
+test-3432,sql
+test-3432,data analysis
+test-3432,communication
+test-3440,communication
+test-3454,java
+test-3509,sql
+test-3517,java
+test-3518,sql
+test-3521,sql
+test-3521,java
+test-3551,python
+test-3551,sql
+test-3551,machine learning
+test-3555,python
+test-3555,sql
+test-3555,excel
+test-3555,pandas
+test-3555,numpy
+test-3563,java
+test-3567,communication
+test-3583,excel
+test-3594,sql
+test-3597,communication
+test-3598,excel
+test-3598,data analysis
+test-3617,project management
+test-3624,project management
+test-3627,excel
+test-3634,sql
+test-3643,react
+test-3650,python
+test-3658,java
+test-3675,communication
+test-3688,sql
+test-3691,communication
+test-3712,javascript
+test-3714,java
+test-3714,javascript
+test-3717,data analysis
+test-3728,java
+test-3732,java
+test-3732,git
+test-3745,machine learning
+test-3760,java
+test-3760,javascript
+test-3762,sql
+test-3762,javascript
+test-3767,machine learning
+test-3772,communication
+test-3795,java
+test-3816,python
+test-3816,docker
+test-3816,git
+test-3822,python
+test-3822,machine learning
+test-3836,python
+test-3836,sql
+test-3836,aws
+test-3866,java
+test-3866,git
+test-3883,azure
+test-3906,sql
+test-3933,python
+test-3933,data analysis
+test-3936,excel
+test-3947,sql
+test-3947,excel
+test-3947,data analysis
+test-3952,excel
+test-3966,python
+test-3966,machine learning
+test-3972,python
+test-3972,sql
+test-3972,django
+test-3977,communication
+test-3982,python
+test-3984,javascript
+test-4003,java
+test-4007,project management
+test-4024,communication
+test-4059,data analysis
+test-4060,sql
+test-4060,project management
+test-4062,data analysis
+test-4062,communication
+test-4065,data analysis
+test-4072,java
+test-4081,python
+test-4081,machine learning
+test-4086,java
+test-4086,javascript
+test-4127,azure
+test-4132,sql
+test-4132,java
+test-4137,data analysis
+test-4155,communication
+test-4163,java
+test-4173,java
+test-4178,communication
+test-4182,project management
+test-4192,python
+test-4192,machine learning
+test-4238,sql
+test-4238,java
+test-4238,javascript
+test-4239,machine learning
+test-4240,java
+test-4240,machine learning
+test-4252,communication
+test-4255,project management
+test-4263,javascript
+test-4263,node.js
+test-4269,communication
+test-4272,java
+test-4283,python
+test-4283,java
+test-4283,machine learning
+test-4283,data analysis
+test-4288,python
+test-4289,python
+test-4289,sql
+test-4289,node.js
+test-4289,aws
+test-4289,git
+test-4298,excel
+test-4299,sql
+test-4309,project management
+test-4318,communication
+test-4349,data analysis
+test-4350,sql
+test-4364,python
+test-4364,sql
+test-4384,sql
+test-4401,excel
+test-4408,python
+test-4408,sql
+test-4408,machine learning
+test-4414,sql
+test-4414,tableau
+test-4414,javascript
+test-4414,node.js
+test-4425,python
+test-4425,java
+test-4431,python
+test-4431,machine learning
+test-4438,node.js
+test-4448,java
+test-4449,java
+test-4466,java
+test-4476,python
+test-4476,machine learning
+test-4486,communication
+test-4500,sql
+test-4514,java
+test-4538,excel
+test-4552,java
+test-4553,excel
+test-4553,data analysis
+test-4563,project management
+test-4568,data analysis
+test-4575,communication
+test-4592,project management
+test-4593,sql
+test-4593,excel
+test-4597,communication
+test-4601,java
+test-4601,javascript
+test-4604,communication
+test-4616,communication
+test-4622,communication
+test-4631,machine learning
+test-4631,project management
+test-4646,java
+test-4646,javascript
+test-4646,react
+test-4651,java
+test-4653,sql
+test-4653,machine learning
+test-4653,numpy
+test-4656,aws
+test-4669,project management
+test-4673,communication
+test-4696,java
+test-4702,data analysis
+test-4712,sql
+test-4712,java
+test-4713,tableau
+test-4722,sql
+test-4767,python
+test-4767,django
+test-4779,java
+test-4779,javascript
+test-4784,python
+test-4784,java
+test-4784,aws
+test-4784,git
+test-4784,machine learning
+test-4793,excel
+test-4793,data analysis
+test-4795,java
+test-4797,data analysis
+test-4820,excel
+test-4820,communication
+test-4840,communication
+test-4840,project management
+test-4847,data analysis
+test-4856,azure
+test-4861,sql
+test-4861,azure
+test-4868,javascript
+test-4877,sql
+test-4879,javascript
+test-4882,java
+test-4900,sql
+test-4909,python
+test-4909,django
+test-4909,machine learning
+test-4912,data analysis
+test-4918,data analysis
+test-4921,sql
+test-4921,java
+test-4922,python
+test-4922,machine learning
+test-4934,communication
+test-4939,data analysis
+test-4949,data analysis
+test-4949,communication
+test-4955,communication
+test-4963,project management
+test-4972,project management
+test-4979,project management
+test-4982,python
+test-4982,project management
+test-4986,project management
+test-4999,sql
+test-4999,excel
+test-5008,excel
+test-5047,python
+test-5047,machine learning
+test-5055,communication
+test-5066,sql
+test-5066,java
+test-5068,communication
+test-5071,docker
+test-5071,git
+test-5080,tableau
+test-5080,communication
+test-5088,communication
+test-5097,excel
+test-5100,sql
+test-5100,data analysis
+test-5116,sql
+test-5119,sql
+test-5121,sql
+test-5123,sql
+test-5123,data analysis
+test-5137,excel
+test-5154,excel
+test-5176,project management
+test-5187,sql
+test-5212,communication
+test-5228,project management
+test-5244,excel
+test-5266,communication
+test-5287,python
+test-5287,pandas
+test-5293,machine learning
+test-5303,java
+test-5347,python
+test-5347,java
+test-5348,data analysis
+test-5392,python
+test-5392,django
+test-5392,machine learning
+test-5395,communication
+test-5411,javascript
+test-5413,project management
+test-5416,communication
+test-5454,project management
+test-5488,sql
+test-5494,communication
+test-5514,sql
+test-5514,power bi
+test-5514,azure
+test-5517,machine learning
+test-5519,sql
+test-5523,java
+test-5523,javascript
+test-5581,project management
+test-5584,excel
+test-5596,communication
+test-5621,communication
+test-5642,python
+test-5642,machine learning
+test-5653,sql
+test-5653,excel
+test-5662,java
+test-5662,data analysis
+test-5663,python
+test-5663,java
+test-5681,sql
+test-5696,sql
+test-5703,machine learning
+test-5705,python
+test-5705,sql
+test-5716,python
+test-5716,sql
+test-5716,machine learning
+test-5718,sql
+test-5718,excel
+test-5720,sql
+test-5721,sql
+test-5731,azure
+test-5736,python
+test-5744,data analysis
+test-5765,machine learning
+test-5792,aws
+test-5792,azure
+test-5792,git
+test-5823,python
+test-5823,javascript
+test-5831,data analysis
+test-5834,sql
+test-5838,python
+test-5838,machine learning
+test-5842,sql
+test-5850,sql
+test-5855,sql
+test-5887,machine learning
+test-5904,power bi
+test-5904,data analysis
+test-5916,sql
+test-5916,javascript
+test-5934,excel
+test-5938,sql
+test-5938,tableau
+test-5938,data analysis
+test-5943,project management
+test-5957,java
+test-5957,docker
+test-6011,java
+test-6024,python
+test-6025,python
+test-6025,java
+test-6039,project management
+test-6048,project management
+test-6067,sql
+test-6067,machine learning
+test-6079,project management
+test-6109,python
+test-6131,python
+test-6131,excel
+test-6131,tableau
+test-6131,data analysis
+test-6134,java
+test-6152,data analysis
+test-6168,javascript
+test-6182,python
+test-6208,python
+test-6208,machine learning
+test-6217,java
+test-6218,data analysis
+test-6231,excel
+test-6238,communication
+test-6243,sql
+test-6243,javascript
+test-6244,communication
+test-6269,communication
+test-6283,javascript
+test-6284,sql
+test-6284,azure
+test-6292,communication
+test-6294,java
+test-6294,javascript
+test-6299,sql
+test-6299,java
+test-6299,machine learning
+test-6337,project management
+test-6339,java
+test-6339,node.js
+test-6347,sql
+test-6348,python
+test-6358,data analysis
+test-6375,sql
+test-6375,machine learning
+test-6375,numpy
+test-6383,machine learning
+test-6410,communication
+test-6428,python
+test-6428,sql
+test-6428,aws
+test-6431,python
+test-6431,java
+test-6431,data analysis
+test-6436,data analysis
+test-6478,data analysis
+test-6482,project management
+test-6487,project management
+test-6490,excel
+test-6493,communication
+test-6510,communication
+test-6519,communication
+test-6521,sql
+test-6524,excel
+test-6525,data analysis
+test-6543,python
+test-6543,sql
+test-6543,java
+test-6543,javascript
+test-6543,docker
+test-6543,aws
+test-6543,azure
+test-6545,sql
+test-6545,javascript
+test-6582,data analysis
