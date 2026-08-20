@@ -1,0 +1,8 @@
+# Large source and intermediate datasets stay local.
+data/raw/*.csv
+data/cleaned/trimmed_jobs.csv
+data/cleaned/cleaned_jobs.csv
+
+# Local Python cache files.
+__pycache__/
+*.py[cod]
