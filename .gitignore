@@ -6,3 +6,8 @@ data/cleaned/cleaned_jobs.csv
 # Local Python cache files.
 __pycache__/
 *.py[cod]
+# Virtual Environments
+.venv/
+venv/
+.env
+.vscode/
