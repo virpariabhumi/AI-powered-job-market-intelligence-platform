@@ -1,0 +1,66 @@
+[
+  {
+    "role": "Business Analyst",
+    "postings_count": 664
+  },
+  {
+    "role": "Digital Marketing Specialist",
+    "postings_count": 419
+  },
+  {
+    "role": "Data Scientist",
+    "postings_count": 327
+  },
+  {
+    "role": "Software Engineer",
+    "postings_count": 267
+  },
+  {
+    "role": "Data Analyst",
+    "postings_count": 264
+  },
+  {
+    "role": "QA / Test Engineer",
+    "postings_count": 264
+  },
+  {
+    "role": "Data Engineer",
+    "postings_count": 260
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "postings_count": 213
+  },
+  {
+    "role": "Product Manager",
+    "postings_count": 175
+  },
+  {
+    "role": "Project Manager",
+    "postings_count": 158
+  },
+  {
+    "role": "Backend Developer",
+    "postings_count": 151
+  },
+  {
+    "role": "Full Stack Developer",
+    "postings_count": 98
+  },
+  {
+    "role": "Mobile App Developer",
+    "postings_count": 86
+  },
+  {
+    "role": "DevOps / Cloud Engineer",
+    "postings_count": 74
+  },
+  {
+    "role": "Frontend Developer",
+    "postings_count": 54
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "postings_count": 43
+  }
+]
