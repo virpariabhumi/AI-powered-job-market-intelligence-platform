@@ -1,0 +1,6136 @@
+{
+  "metadata": {
+    "total_nodes": 75,
+    "total_links": 1150,
+    "min_edge_weight_threshold": 3
+  },
+  "nodes": [
+    {
+      "id": "Data Analysis",
+      "demand": 2534,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Financial Analysis",
+      "demand": 1495,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "SQL",
+      "demand": 1281,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Java",
+      "demand": 922,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Python",
+      "demand": 835,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Communication",
+      "demand": 745,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "SAS",
+      "demand": 641,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Business Analysis",
+      "demand": 641,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "Machine Learning",
+      "demand": 619,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "R",
+      "demand": 617,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Excel",
+      "demand": 612,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "JavaScript",
+      "demand": 559,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Project Management",
+      "demand": 532,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "SEM",
+      "demand": 528,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "C",
+      "demand": 519,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Hadoop",
+      "demand": 517,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Problem Solving",
+      "demand": 460,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "SEO",
+      "demand": 420,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "HTML",
+      "demand": 366,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "REST API",
+      "demand": 305,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Agile",
+      "demand": 271,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "Leadership",
+      "demand": 271,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "Data Science",
+      "demand": 270,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Oracle",
+      "demand": 269,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Linux",
+      "demand": 268,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Algorithms",
+      "demand": 264,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "SQL Server",
+      "demand": 255,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "CSS",
+      "demand": 255,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Apache Spark",
+      "demand": 241,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Product Management",
+      "demand": 231,
+      "category": "Management & Soft Skills"
+    },
+    {
+      "id": "Google Analytics",
+      "demand": 223,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "Data Mining",
+      "demand": 215,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "C++",
+      "demand": 215,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "jQuery",
+      "demand": 208,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "MySQL",
+      "demand": 198,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "C#",
+      "demand": 181,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Tableau",
+      "demand": 180,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "Natural Language Processing",
+      "demand": 178,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "NoSQL",
+      "demand": 170,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Hive",
+      "demand": 169,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "ASP.NET",
+      "demand": 166,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Deep Learning",
+      "demand": 150,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Angular",
+      "demand": 143,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "PHP",
+      "demand": 130,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "AWS",
+      "demand": 119,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Scala",
+      "demand": 118,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Azure",
+      "demand": 115,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "MongoDB",
+      "demand": 105,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Git",
+      "demand": 95,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Node.js",
+      "demand": 93,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Power BI",
+      "demand": 82,
+      "category": "BI & Analytics Tools"
+    },
+    {
+      "id": "Cassandra",
+      "demand": 76,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "CI/CD",
+      "demand": 58,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Go",
+      "demand": 52,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Django",
+      "demand": 49,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Spring Boot",
+      "demand": 49,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Docker",
+      "demand": 46,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Redis",
+      "demand": 46,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Ruby",
+      "demand": 44,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "PostgreSQL",
+      "demand": 43,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "Bootstrap",
+      "demand": 43,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "Computer Vision",
+      "demand": 41,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Ansible",
+      "demand": 41,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "React",
+      "demand": 37,
+      "category": "Web & Frameworks"
+    },
+    {
+      "id": "TypeScript",
+      "demand": 33,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "Swift",
+      "demand": 32,
+      "category": "Programming Languages"
+    },
+    {
+      "id": "NumPy",
+      "demand": 18,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "TensorFlow",
+      "demand": 14,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Google Cloud Platform",
+      "demand": 13,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Elasticsearch",
+      "demand": 11,
+      "category": "Databases & Storage"
+    },
+    {
+      "id": "PyTorch",
+      "demand": 9,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Keras",
+      "demand": 7,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Kubernetes",
+      "demand": 6,
+      "category": "Cloud & DevOps"
+    },
+    {
+      "id": "Pandas",
+      "demand": 6,
+      "category": "Data Science & AI"
+    },
+    {
+      "id": "Flask",
+      "demand": 5,
+      "category": "Web & Frameworks"
+    }
+  ],
+  "links": [
+    {
+      "source": "Communication",
+      "target": "Project Management",
+      "weight": 28
+    },
+    {
+      "source": "Communication",
+      "target": "Problem Solving",
+      "weight": 61
+    },
+    {
+      "source": "Communication",
+      "target": "Algorithms",
+      "weight": 7
+    },
+    {
+      "source": "Communication",
+      "target": "C",
+      "weight": 24
+    },
+    {
+      "source": "Communication",
+      "target": "C++",
+      "weight": 3
+    },
+    {
+      "source": "Communication",
+      "target": "Python",
+      "weight": 29
+    },
+    {
+      "source": "Communication",
+      "target": "Data Analysis",
+      "weight": 112
+    },
+    {
+      "source": "Communication",
+      "target": "ASP.NET",
+      "weight": 6
+    },
+    {
+      "source": "Communication",
+      "target": "C#",
+      "weight": 6
+    },
+    {
+      "source": "Communication",
+      "target": "JavaScript",
+      "weight": 12
+    },
+    {
+      "source": "Communication",
+      "target": "SQL",
+      "weight": 49
+    },
+    {
+      "source": "Communication",
+      "target": "SQL Server",
+      "weight": 7
+    },
+    {
+      "source": "Communication",
+      "target": "jQuery",
+      "weight": 8
+    },
+    {
+      "source": "Communication",
+      "target": "Financial Analysis",
+      "weight": 67
+    },
+    {
+      "source": "Communication",
+      "target": "Excel",
+      "weight": 48
+    },
+    {
+      "source": "Communication",
+      "target": "SEM",
+      "weight": 16
+    },
+    {
+      "source": "Communication",
+      "target": "SEO",
+      "weight": 13
+    },
+    {
+      "source": "Communication",
+      "target": "Oracle",
+      "weight": 10
+    },
+    {
+      "source": "Communication",
+      "target": "R",
+      "weight": 21
+    },
+    {
+      "source": "Communication",
+      "target": "REST API",
+      "weight": 9
+    },
+    {
+      "source": "Communication",
+      "target": "Leadership",
+      "weight": 17
+    },
+    {
+      "source": "Communication",
+      "target": "SAS",
+      "weight": 27
+    },
+    {
+      "source": "Communication",
+      "target": "Business Analysis",
+      "weight": 27
+    },
+    {
+      "source": "Communication",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "Communication",
+      "target": "Hadoop",
+      "weight": 20
+    },
+    {
+      "source": "Communication",
+      "target": "Java",
+      "weight": 16
+    },
+    {
+      "source": "Communication",
+      "target": "MySQL",
+      "weight": 8
+    },
+    {
+      "source": "Communication",
+      "target": "Tableau",
+      "weight": 6
+    },
+    {
+      "source": "Communication",
+      "target": "Machine Learning",
+      "weight": 12
+    },
+    {
+      "source": "Communication",
+      "target": "Linux",
+      "weight": 12
+    },
+    {
+      "source": "Communication",
+      "target": "Data Mining",
+      "weight": 6
+    },
+    {
+      "source": "Communication",
+      "target": "Agile",
+      "weight": 8
+    },
+    {
+      "source": "Communication",
+      "target": "Azure",
+      "weight": 3
+    },
+    {
+      "source": "Communication",
+      "target": "Google Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Communication",
+      "target": "Angular",
+      "weight": 3
+    },
+    {
+      "source": "Communication",
+      "target": "Product Management",
+      "weight": 7
+    },
+    {
+      "source": "Communication",
+      "target": "CSS",
+      "weight": 7
+    },
+    {
+      "source": "Communication",
+      "target": "HTML",
+      "weight": 10
+    },
+    {
+      "source": "Communication",
+      "target": "Apache Spark",
+      "weight": 4
+    },
+    {
+      "source": "Communication",
+      "target": "Data Science",
+      "weight": 6
+    },
+    {
+      "source": "Communication",
+      "target": "Go",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Java",
+      "weight": 19
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Oracle",
+      "weight": 13
+    },
+    {
+      "source": "Problem Solving",
+      "target": "SQL",
+      "weight": 41
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Business Analysis",
+      "weight": 29
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Financial Analysis",
+      "weight": 29
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Project Management",
+      "weight": 18
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Excel",
+      "weight": 29
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Python",
+      "weight": 18
+    },
+    {
+      "source": "Problem Solving",
+      "target": "REST API",
+      "weight": 7
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Data Analysis",
+      "weight": 64
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Agile",
+      "weight": 12
+    },
+    {
+      "source": "Problem Solving",
+      "target": "SAS",
+      "weight": 22
+    },
+    {
+      "source": "Problem Solving",
+      "target": "JavaScript",
+      "weight": 15
+    },
+    {
+      "source": "Problem Solving",
+      "target": "jQuery",
+      "weight": 8
+    },
+    {
+      "source": "Problem Solving",
+      "target": "C",
+      "weight": 17
+    },
+    {
+      "source": "Problem Solving",
+      "target": "C++",
+      "weight": 9
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Swift",
+      "weight": 6
+    },
+    {
+      "source": "Problem Solving",
+      "target": "ASP.NET",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Algorithms",
+      "weight": 5
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Machine Learning",
+      "weight": 6
+    },
+    {
+      "source": "Problem Solving",
+      "target": "MySQL",
+      "weight": 9
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Hadoop",
+      "weight": 14
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Git",
+      "weight": 5
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Linux",
+      "weight": 13
+    },
+    {
+      "source": "Problem Solving",
+      "target": "CSS",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "HTML",
+      "weight": 10
+    },
+    {
+      "source": "Problem Solving",
+      "target": "React",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "CI/CD",
+      "weight": 6
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Angular",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "C#",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "R",
+      "weight": 7
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Google Analytics",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "SEM",
+      "weight": 7
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Leadership",
+      "weight": 9
+    },
+    {
+      "source": "Problem Solving",
+      "target": "SQL Server",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "PHP",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Data Mining",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Product Management",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Apache Spark",
+      "weight": 4
+    },
+    {
+      "source": "Problem Solving",
+      "target": "SEO",
+      "weight": 3
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Tableau",
+      "weight": 5
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Azure",
+      "weight": 3
+    },
+    {
+      "source": "Data Analysis",
+      "target": "R",
+      "weight": 390
+    },
+    {
+      "source": "Data Analysis",
+      "target": "SAS",
+      "weight": 459
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Product Management",
+      "weight": 41
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Oracle",
+      "weight": 47
+    },
+    {
+      "source": "Data Analysis",
+      "target": "SQL",
+      "weight": 484
+    },
+    {
+      "source": "Data Analysis",
+      "target": "SQL Server",
+      "weight": 35
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Business Analysis",
+      "weight": 132
+    },
+    {
+      "source": "Data Analysis",
+      "target": "C",
+      "weight": 50
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Financial Analysis",
+      "weight": 119
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Hadoop",
+      "weight": 172
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Apache Spark",
+      "weight": 58
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Python",
+      "weight": 336
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Excel",
+      "weight": 306
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Project Management",
+      "weight": 105
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Java",
+      "weight": 109
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Tableau",
+      "weight": 102
+    },
+    {
+      "source": "Data Analysis",
+      "target": "AWS",
+      "weight": 20
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Git",
+      "weight": 10
+    },
+    {
+      "source": "Data Analysis",
+      "target": "JavaScript",
+      "weight": 75
+    },
+    {
+      "source": "Data Analysis",
+      "target": "MongoDB",
+      "weight": 13
+    },
+    {
+      "source": "Data Analysis",
+      "target": "MySQL",
+      "weight": 29
+    },
+    {
+      "source": "Data Analysis",
+      "target": "PHP",
+      "weight": 11
+    },
+    {
+      "source": "Data Analysis",
+      "target": "REST API",
+      "weight": 30
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Redis",
+      "weight": 8
+    },
+    {
+      "source": "Data Analysis",
+      "target": "jQuery",
+      "weight": 25
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Data Mining",
+      "weight": 136
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Machine Learning",
+      "weight": 283
+    },
+    {
+      "source": "Data Analysis",
+      "target": "HTML",
+      "weight": 53
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Node.js",
+      "weight": 14
+    },
+    {
+      "source": "Data Analysis",
+      "target": "NoSQL",
+      "weight": 22
+    },
+    {
+      "source": "Data Analysis",
+      "target": "PostgreSQL",
+      "weight": 11
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Google Analytics",
+      "weight": 223
+    },
+    {
+      "source": "Data Analysis",
+      "target": "SEM",
+      "weight": 190
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Data Science",
+      "weight": 146
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Natural Language Processing",
+      "weight": 59
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Deep Learning",
+      "weight": 48
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Leadership",
+      "weight": 64
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Algorithms",
+      "weight": 48
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Django",
+      "weight": 6
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Agile",
+      "weight": 27
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Power BI",
+      "weight": 32
+    },
+    {
+      "source": "Data Analysis",
+      "target": "SEO",
+      "weight": 158
+    },
+    {
+      "source": "Data Analysis",
+      "target": "CSS",
+      "weight": 35
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Linux",
+      "weight": 40
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Hive",
+      "weight": 33
+    },
+    {
+      "source": "Data Analysis",
+      "target": "C++",
+      "weight": 16
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Scala",
+      "weight": 24
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Ruby",
+      "weight": 10
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Go",
+      "weight": 9
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Azure",
+      "weight": 23
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Angular",
+      "weight": 11
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Bootstrap",
+      "weight": 5
+    },
+    {
+      "source": "Data Analysis",
+      "target": "React",
+      "weight": 4
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Computer Vision",
+      "weight": 3
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Cassandra",
+      "weight": 9
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Swift",
+      "weight": 5
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "Data Analysis",
+      "target": "NumPy",
+      "weight": 4
+    },
+    {
+      "source": "Data Analysis",
+      "target": "Ansible",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "Go",
+      "weight": 4
+    },
+    {
+      "source": "Leadership",
+      "target": "ASP.NET",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "C",
+      "weight": 20
+    },
+    {
+      "source": "Leadership",
+      "target": "C#",
+      "weight": 4
+    },
+    {
+      "source": "Leadership",
+      "target": "Oracle",
+      "weight": 6
+    },
+    {
+      "source": "Leadership",
+      "target": "SQL",
+      "weight": 18
+    },
+    {
+      "source": "Leadership",
+      "target": "SQL Server",
+      "weight": 5
+    },
+    {
+      "source": "Leadership",
+      "target": "Financial Analysis",
+      "weight": 37
+    },
+    {
+      "source": "Leadership",
+      "target": "Business Analysis",
+      "weight": 13
+    },
+    {
+      "source": "Leadership",
+      "target": "Project Management",
+      "weight": 31
+    },
+    {
+      "source": "Leadership",
+      "target": "C++",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "Deep Learning",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "Machine Learning",
+      "weight": 6
+    },
+    {
+      "source": "Leadership",
+      "target": "SAS",
+      "weight": 29
+    },
+    {
+      "source": "Leadership",
+      "target": "SEM",
+      "weight": 6
+    },
+    {
+      "source": "Leadership",
+      "target": "Agile",
+      "weight": 8
+    },
+    {
+      "source": "Leadership",
+      "target": "R",
+      "weight": 18
+    },
+    {
+      "source": "Leadership",
+      "target": "Excel",
+      "weight": 15
+    },
+    {
+      "source": "Leadership",
+      "target": "Java",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "SEO",
+      "weight": 5
+    },
+    {
+      "source": "Leadership",
+      "target": "Python",
+      "weight": 19
+    },
+    {
+      "source": "Leadership",
+      "target": "Data Mining",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "Hadoop",
+      "weight": 6
+    },
+    {
+      "source": "Leadership",
+      "target": "Natural Language Processing",
+      "weight": 3
+    },
+    {
+      "source": "Leadership",
+      "target": "Product Management",
+      "weight": 4
+    },
+    {
+      "source": "Hadoop",
+      "target": "Apache Spark",
+      "weight": 190
+    },
+    {
+      "source": "Hadoop",
+      "target": "Hive",
+      "weight": 142
+    },
+    {
+      "source": "Hadoop",
+      "target": "Java",
+      "weight": 165
+    },
+    {
+      "source": "Hadoop",
+      "target": "NoSQL",
+      "weight": 74
+    },
+    {
+      "source": "Hadoop",
+      "target": "Python",
+      "weight": 147
+    },
+    {
+      "source": "Hadoop",
+      "target": "SQL",
+      "weight": 152
+    },
+    {
+      "source": "Hadoop",
+      "target": "Scala",
+      "weight": 69
+    },
+    {
+      "source": "Hadoop",
+      "target": "Deep Learning",
+      "weight": 10
+    },
+    {
+      "source": "Hadoop",
+      "target": "Machine Learning",
+      "weight": 83
+    },
+    {
+      "source": "Hadoop",
+      "target": "Natural Language Processing",
+      "weight": 12
+    },
+    {
+      "source": "Hadoop",
+      "target": "R",
+      "weight": 74
+    },
+    {
+      "source": "Hadoop",
+      "target": "SAS",
+      "weight": 34
+    },
+    {
+      "source": "Hadoop",
+      "target": "Angular",
+      "weight": 6
+    },
+    {
+      "source": "Hadoop",
+      "target": "JavaScript",
+      "weight": 33
+    },
+    {
+      "source": "Hadoop",
+      "target": "REST API",
+      "weight": 27
+    },
+    {
+      "source": "Hadoop",
+      "target": "Cassandra",
+      "weight": 37
+    },
+    {
+      "source": "Hadoop",
+      "target": "MongoDB",
+      "weight": 23
+    },
+    {
+      "source": "Hadoop",
+      "target": "C",
+      "weight": 22
+    },
+    {
+      "source": "Hadoop",
+      "target": "Agile",
+      "weight": 17
+    },
+    {
+      "source": "Hadoop",
+      "target": "Project Management",
+      "weight": 18
+    },
+    {
+      "source": "Hadoop",
+      "target": "Django",
+      "weight": 7
+    },
+    {
+      "source": "Hadoop",
+      "target": "AWS",
+      "weight": 26
+    },
+    {
+      "source": "Hadoop",
+      "target": "CI/CD",
+      "weight": 7
+    },
+    {
+      "source": "Hadoop",
+      "target": "MySQL",
+      "weight": 20
+    },
+    {
+      "source": "Hadoop",
+      "target": "Financial Analysis",
+      "weight": 9
+    },
+    {
+      "source": "Hadoop",
+      "target": "Data Science",
+      "weight": 32
+    },
+    {
+      "source": "Hadoop",
+      "target": "C#",
+      "weight": 4
+    },
+    {
+      "source": "Hadoop",
+      "target": "PostgreSQL",
+      "weight": 9
+    },
+    {
+      "source": "Hadoop",
+      "target": "Git",
+      "weight": 9
+    },
+    {
+      "source": "Hadoop",
+      "target": "Linux",
+      "weight": 29
+    },
+    {
+      "source": "Hadoop",
+      "target": "HTML",
+      "weight": 6
+    },
+    {
+      "source": "Hadoop",
+      "target": "PHP",
+      "weight": 3
+    },
+    {
+      "source": "Hadoop",
+      "target": "Tableau",
+      "weight": 16
+    },
+    {
+      "source": "Hadoop",
+      "target": "Oracle",
+      "weight": 15
+    },
+    {
+      "source": "Hadoop",
+      "target": "SQL Server",
+      "weight": 20
+    },
+    {
+      "source": "Hadoop",
+      "target": "Algorithms",
+      "weight": 30
+    },
+    {
+      "source": "Hadoop",
+      "target": "Spring Boot",
+      "weight": 3
+    },
+    {
+      "source": "Hadoop",
+      "target": "Azure",
+      "weight": 18
+    },
+    {
+      "source": "Hadoop",
+      "target": "Elasticsearch",
+      "weight": 5
+    },
+    {
+      "source": "Hadoop",
+      "target": "Redis",
+      "weight": 5
+    },
+    {
+      "source": "Hadoop",
+      "target": "Data Mining",
+      "weight": 22
+    },
+    {
+      "source": "Hadoop",
+      "target": "C++",
+      "weight": 6
+    },
+    {
+      "source": "Hadoop",
+      "target": "Docker",
+      "weight": 3
+    },
+    {
+      "source": "Hadoop",
+      "target": "Excel",
+      "weight": 13
+    },
+    {
+      "source": "Hadoop",
+      "target": "Power BI",
+      "weight": 5
+    },
+    {
+      "source": "Hadoop",
+      "target": "CSS",
+      "weight": 7
+    },
+    {
+      "source": "Hadoop",
+      "target": "Ruby",
+      "weight": 5
+    },
+    {
+      "source": "Hadoop",
+      "target": "Node.js",
+      "weight": 4
+    },
+    {
+      "source": "JavaScript",
+      "target": "Angular",
+      "weight": 105
+    },
+    {
+      "source": "JavaScript",
+      "target": "MySQL",
+      "weight": 78
+    },
+    {
+      "source": "JavaScript",
+      "target": "Node.js",
+      "weight": 90
+    },
+    {
+      "source": "JavaScript",
+      "target": "PHP",
+      "weight": 80
+    },
+    {
+      "source": "JavaScript",
+      "target": "C",
+      "weight": 72
+    },
+    {
+      "source": "JavaScript",
+      "target": "Cassandra",
+      "weight": 14
+    },
+    {
+      "source": "JavaScript",
+      "target": "Data Mining",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Java",
+      "weight": 221
+    },
+    {
+      "source": "JavaScript",
+      "target": "Python",
+      "weight": 88
+    },
+    {
+      "source": "JavaScript",
+      "target": "SQL",
+      "weight": 104
+    },
+    {
+      "source": "JavaScript",
+      "target": "CSS",
+      "weight": 197
+    },
+    {
+      "source": "JavaScript",
+      "target": "HTML",
+      "weight": 255
+    },
+    {
+      "source": "JavaScript",
+      "target": "jQuery",
+      "weight": 174
+    },
+    {
+      "source": "JavaScript",
+      "target": "Apache Spark",
+      "weight": 18
+    },
+    {
+      "source": "JavaScript",
+      "target": "Hive",
+      "weight": 12
+    },
+    {
+      "source": "JavaScript",
+      "target": "NoSQL",
+      "weight": 46
+    },
+    {
+      "source": "JavaScript",
+      "target": "REST API",
+      "weight": 112
+    },
+    {
+      "source": "JavaScript",
+      "target": "ASP.NET",
+      "weight": 51
+    },
+    {
+      "source": "JavaScript",
+      "target": "C#",
+      "weight": 51
+    },
+    {
+      "source": "JavaScript",
+      "target": "SQL Server",
+      "weight": 39
+    },
+    {
+      "source": "JavaScript",
+      "target": "AWS",
+      "weight": 28
+    },
+    {
+      "source": "JavaScript",
+      "target": "Git",
+      "weight": 46
+    },
+    {
+      "source": "JavaScript",
+      "target": "MongoDB",
+      "weight": 44
+    },
+    {
+      "source": "JavaScript",
+      "target": "Redis",
+      "weight": 17
+    },
+    {
+      "source": "JavaScript",
+      "target": "Bootstrap",
+      "weight": 33
+    },
+    {
+      "source": "JavaScript",
+      "target": "SEM",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "PostgreSQL",
+      "weight": 17
+    },
+    {
+      "source": "JavaScript",
+      "target": "Agile",
+      "weight": 28
+    },
+    {
+      "source": "JavaScript",
+      "target": "Business Analysis",
+      "weight": 8
+    },
+    {
+      "source": "JavaScript",
+      "target": "Azure",
+      "weight": 21
+    },
+    {
+      "source": "JavaScript",
+      "target": "Algorithms",
+      "weight": 21
+    },
+    {
+      "source": "JavaScript",
+      "target": "C++",
+      "weight": 12
+    },
+    {
+      "source": "JavaScript",
+      "target": "Ruby",
+      "weight": 18
+    },
+    {
+      "source": "JavaScript",
+      "target": "Oracle",
+      "weight": 15
+    },
+    {
+      "source": "JavaScript",
+      "target": "React",
+      "weight": 36
+    },
+    {
+      "source": "JavaScript",
+      "target": "SEO",
+      "weight": 10
+    },
+    {
+      "source": "JavaScript",
+      "target": "Machine Learning",
+      "weight": 13
+    },
+    {
+      "source": "JavaScript",
+      "target": "SAS",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Power BI",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Tableau",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Deep Learning",
+      "weight": 4
+    },
+    {
+      "source": "JavaScript",
+      "target": "Linux",
+      "weight": 13
+    },
+    {
+      "source": "JavaScript",
+      "target": "Docker",
+      "weight": 10
+    },
+    {
+      "source": "JavaScript",
+      "target": "Spring Boot",
+      "weight": 11
+    },
+    {
+      "source": "JavaScript",
+      "target": "TypeScript",
+      "weight": 4
+    },
+    {
+      "source": "JavaScript",
+      "target": "Django",
+      "weight": 16
+    },
+    {
+      "source": "JavaScript",
+      "target": "Scala",
+      "weight": 9
+    },
+    {
+      "source": "JavaScript",
+      "target": "Flask",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Natural Language Processing",
+      "weight": 7
+    },
+    {
+      "source": "JavaScript",
+      "target": "NumPy",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "R",
+      "weight": 6
+    },
+    {
+      "source": "JavaScript",
+      "target": "Google Analytics",
+      "weight": 8
+    },
+    {
+      "source": "JavaScript",
+      "target": "Ansible",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "CI/CD",
+      "weight": 3
+    },
+    {
+      "source": "JavaScript",
+      "target": "Project Management",
+      "weight": 6
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Apache Spark",
+      "weight": 51
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Deep Learning",
+      "weight": 121
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Java",
+      "weight": 85
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Natural Language Processing",
+      "weight": 136
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Python",
+      "weight": 332
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Azure",
+      "weight": 16
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Computer Vision",
+      "weight": 24
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Data Mining",
+      "weight": 85
+    },
+    {
+      "source": "Machine Learning",
+      "target": "R",
+      "weight": 237
+    },
+    {
+      "source": "Machine Learning",
+      "target": "SAS",
+      "weight": 81
+    },
+    {
+      "source": "Machine Learning",
+      "target": "SQL",
+      "weight": 129
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Algorithms",
+      "weight": 97
+    },
+    {
+      "source": "Machine Learning",
+      "target": "C",
+      "weight": 42
+    },
+    {
+      "source": "Machine Learning",
+      "target": "C++",
+      "weight": 35
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Data Science",
+      "weight": 148
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Django",
+      "weight": 11
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Project Management",
+      "weight": 8
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Tableau",
+      "weight": 15
+    },
+    {
+      "source": "Machine Learning",
+      "target": "NoSQL",
+      "weight": 22
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Product Management",
+      "weight": 4
+    },
+    {
+      "source": "Machine Learning",
+      "target": "MySQL",
+      "weight": 10
+    },
+    {
+      "source": "Machine Learning",
+      "target": "SEM",
+      "weight": 3
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Hive",
+      "weight": 25
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Scala",
+      "weight": 24
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Cassandra",
+      "weight": 11
+    },
+    {
+      "source": "Machine Learning",
+      "target": "NumPy",
+      "weight": 12
+    },
+    {
+      "source": "Machine Learning",
+      "target": "AWS",
+      "weight": 5
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Git",
+      "weight": 3
+    },
+    {
+      "source": "Machine Learning",
+      "target": "HTML",
+      "weight": 7
+    },
+    {
+      "source": "Machine Learning",
+      "target": "REST API",
+      "weight": 5
+    },
+    {
+      "source": "Machine Learning",
+      "target": "MongoDB",
+      "weight": 6
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Redis",
+      "weight": 7
+    },
+    {
+      "source": "Machine Learning",
+      "target": "SQL Server",
+      "weight": 4
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Business Analysis",
+      "weight": 6
+    },
+    {
+      "source": "Machine Learning",
+      "target": "PyTorch",
+      "weight": 9
+    },
+    {
+      "source": "Machine Learning",
+      "target": "TensorFlow",
+      "weight": 13
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Docker",
+      "weight": 3
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Agile",
+      "weight": 5
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Excel",
+      "weight": 18
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Linux",
+      "weight": 8
+    },
+    {
+      "source": "Machine Learning",
+      "target": "CSS",
+      "weight": 3
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Keras",
+      "weight": 5
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Financial Analysis",
+      "weight": 3
+    },
+    {
+      "source": "Machine Learning",
+      "target": "C#",
+      "weight": 4
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Ruby",
+      "weight": 4
+    },
+    {
+      "source": "Python",
+      "target": "C",
+      "weight": 102
+    },
+    {
+      "source": "Python",
+      "target": "Cassandra",
+      "weight": 26
+    },
+    {
+      "source": "Python",
+      "target": "Data Mining",
+      "weight": 67
+    },
+    {
+      "source": "Python",
+      "target": "Java",
+      "weight": 197
+    },
+    {
+      "source": "Python",
+      "target": "MySQL",
+      "weight": 72
+    },
+    {
+      "source": "Python",
+      "target": "SQL",
+      "weight": 224
+    },
+    {
+      "source": "Python",
+      "target": "Business Analysis",
+      "weight": 15
+    },
+    {
+      "source": "Python",
+      "target": "MongoDB",
+      "weight": 50
+    },
+    {
+      "source": "Python",
+      "target": "Apache Spark",
+      "weight": 93
+    },
+    {
+      "source": "Python",
+      "target": "Hive",
+      "weight": 48
+    },
+    {
+      "source": "Python",
+      "target": "NoSQL",
+      "weight": 64
+    },
+    {
+      "source": "Python",
+      "target": "Scala",
+      "weight": 57
+    },
+    {
+      "source": "Python",
+      "target": "Deep Learning",
+      "weight": 76
+    },
+    {
+      "source": "Python",
+      "target": "Natural Language Processing",
+      "weight": 87
+    },
+    {
+      "source": "Python",
+      "target": "R",
+      "weight": 290
+    },
+    {
+      "source": "Python",
+      "target": "SAS",
+      "weight": 131
+    },
+    {
+      "source": "Python",
+      "target": "Algorithms",
+      "weight": 99
+    },
+    {
+      "source": "Python",
+      "target": "C++",
+      "weight": 71
+    },
+    {
+      "source": "Python",
+      "target": "Computer Vision",
+      "weight": 14
+    },
+    {
+      "source": "Python",
+      "target": "AWS",
+      "weight": 40
+    },
+    {
+      "source": "Python",
+      "target": "Project Management",
+      "weight": 22
+    },
+    {
+      "source": "Python",
+      "target": "Ansible",
+      "weight": 21
+    },
+    {
+      "source": "Python",
+      "target": "CI/CD",
+      "weight": 14
+    },
+    {
+      "source": "Python",
+      "target": "Docker",
+      "weight": 18
+    },
+    {
+      "source": "Python",
+      "target": "Linux",
+      "weight": 67
+    },
+    {
+      "source": "Python",
+      "target": "Ruby",
+      "weight": 28
+    },
+    {
+      "source": "Python",
+      "target": "Data Science",
+      "weight": 112
+    },
+    {
+      "source": "Python",
+      "target": "Azure",
+      "weight": 23
+    },
+    {
+      "source": "Python",
+      "target": "C#",
+      "weight": 13
+    },
+    {
+      "source": "Python",
+      "target": "SQL Server",
+      "weight": 21
+    },
+    {
+      "source": "Python",
+      "target": "Tableau",
+      "weight": 39
+    },
+    {
+      "source": "Python",
+      "target": "Django",
+      "weight": 47
+    },
+    {
+      "source": "Python",
+      "target": "Flask",
+      "weight": 5
+    },
+    {
+      "source": "Python",
+      "target": "Git",
+      "weight": 25
+    },
+    {
+      "source": "Python",
+      "target": "Node.js",
+      "weight": 17
+    },
+    {
+      "source": "Python",
+      "target": "Agile",
+      "weight": 23
+    },
+    {
+      "source": "Python",
+      "target": "Financial Analysis",
+      "weight": 9
+    },
+    {
+      "source": "Python",
+      "target": "Excel",
+      "weight": 39
+    },
+    {
+      "source": "Python",
+      "target": "NumPy",
+      "weight": 13
+    },
+    {
+      "source": "Python",
+      "target": "Pandas",
+      "weight": 6
+    },
+    {
+      "source": "Python",
+      "target": "Go",
+      "weight": 6
+    },
+    {
+      "source": "Python",
+      "target": "PostgreSQL",
+      "weight": 16
+    },
+    {
+      "source": "Python",
+      "target": "Redis",
+      "weight": 19
+    },
+    {
+      "source": "Python",
+      "target": "Oracle",
+      "weight": 16
+    },
+    {
+      "source": "Python",
+      "target": "REST API",
+      "weight": 29
+    },
+    {
+      "source": "Python",
+      "target": "Angular",
+      "weight": 23
+    },
+    {
+      "source": "Python",
+      "target": "jQuery",
+      "weight": 10
+    },
+    {
+      "source": "Python",
+      "target": "HTML",
+      "weight": 37
+    },
+    {
+      "source": "Python",
+      "target": "CSS",
+      "weight": 20
+    },
+    {
+      "source": "Python",
+      "target": "Keras",
+      "weight": 6
+    },
+    {
+      "source": "Python",
+      "target": "TensorFlow",
+      "weight": 10
+    },
+    {
+      "source": "Python",
+      "target": "Google Analytics",
+      "weight": 7
+    },
+    {
+      "source": "Python",
+      "target": "React",
+      "weight": 3
+    },
+    {
+      "source": "Python",
+      "target": "PHP",
+      "weight": 20
+    },
+    {
+      "source": "Python",
+      "target": "PyTorch",
+      "weight": 8
+    },
+    {
+      "source": "Python",
+      "target": "Power BI",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "Linux",
+      "weight": 10
+    },
+    {
+      "source": "Ruby",
+      "target": "MySQL",
+      "weight": 12
+    },
+    {
+      "source": "Ruby",
+      "target": "Angular",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "C",
+      "weight": 4
+    },
+    {
+      "source": "Ruby",
+      "target": "C#",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "C++",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "Java",
+      "weight": 18
+    },
+    {
+      "source": "Ruby",
+      "target": "PHP",
+      "weight": 12
+    },
+    {
+      "source": "Ruby",
+      "target": "CSS",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "REST API",
+      "weight": 5
+    },
+    {
+      "source": "Ruby",
+      "target": "SQL",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "HTML",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "MongoDB",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "Ruby",
+      "target": "Ansible",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "NoSQL",
+      "weight": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "Scala",
+      "weight": 4
+    },
+    {
+      "source": "Ruby",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "Azure",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "CI/CD",
+      "weight": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "jQuery",
+      "weight": 3
+    },
+    {
+      "source": "SQL",
+      "target": "Java",
+      "weight": 173
+    },
+    {
+      "source": "SQL",
+      "target": "Oracle",
+      "weight": 146
+    },
+    {
+      "source": "SQL",
+      "target": "SQL Server",
+      "weight": 254
+    },
+    {
+      "source": "SQL",
+      "target": "Power BI",
+      "weight": 50
+    },
+    {
+      "source": "SQL",
+      "target": "C",
+      "weight": 138
+    },
+    {
+      "source": "SQL",
+      "target": "Cassandra",
+      "weight": 28
+    },
+    {
+      "source": "SQL",
+      "target": "Data Mining",
+      "weight": 65
+    },
+    {
+      "source": "SQL",
+      "target": "MySQL",
+      "weight": 53
+    },
+    {
+      "source": "SQL",
+      "target": "Business Analysis",
+      "weight": 78
+    },
+    {
+      "source": "SQL",
+      "target": "MongoDB",
+      "weight": 20
+    },
+    {
+      "source": "SQL",
+      "target": "Apache Spark",
+      "weight": 77
+    },
+    {
+      "source": "SQL",
+      "target": "Hive",
+      "weight": 68
+    },
+    {
+      "source": "SQL",
+      "target": "NoSQL",
+      "weight": 70
+    },
+    {
+      "source": "SQL",
+      "target": "Scala",
+      "weight": 35
+    },
+    {
+      "source": "SQL",
+      "target": "ASP.NET",
+      "weight": 79
+    },
+    {
+      "source": "SQL",
+      "target": "C#",
+      "weight": 80
+    },
+    {
+      "source": "SQL",
+      "target": "jQuery",
+      "weight": 43
+    },
+    {
+      "source": "SQL",
+      "target": "Azure",
+      "weight": 47
+    },
+    {
+      "source": "SQL",
+      "target": "Excel",
+      "weight": 178
+    },
+    {
+      "source": "SQL",
+      "target": "Linux",
+      "weight": 79
+    },
+    {
+      "source": "SQL",
+      "target": "R",
+      "weight": 208
+    },
+    {
+      "source": "SQL",
+      "target": "SAS",
+      "weight": 227
+    },
+    {
+      "source": "SQL",
+      "target": "Node.js",
+      "weight": 15
+    },
+    {
+      "source": "SQL",
+      "target": "PostgreSQL",
+      "weight": 26
+    },
+    {
+      "source": "SQL",
+      "target": "Project Management",
+      "weight": 30
+    },
+    {
+      "source": "SQL",
+      "target": "AWS",
+      "weight": 23
+    },
+    {
+      "source": "SQL",
+      "target": "Product Management",
+      "weight": 5
+    },
+    {
+      "source": "SQL",
+      "target": "Financial Analysis",
+      "weight": 40
+    },
+    {
+      "source": "SQL",
+      "target": "Data Science",
+      "weight": 66
+    },
+    {
+      "source": "SQL",
+      "target": "Deep Learning",
+      "weight": 11
+    },
+    {
+      "source": "SQL",
+      "target": "REST API",
+      "weight": 54
+    },
+    {
+      "source": "SQL",
+      "target": "HTML",
+      "weight": 51
+    },
+    {
+      "source": "SQL",
+      "target": "Tableau",
+      "weight": 88
+    },
+    {
+      "source": "SQL",
+      "target": "Swift",
+      "weight": 4
+    },
+    {
+      "source": "SQL",
+      "target": "C++",
+      "weight": 39
+    },
+    {
+      "source": "SQL",
+      "target": "CSS",
+      "weight": 33
+    },
+    {
+      "source": "SQL",
+      "target": "Git",
+      "weight": 12
+    },
+    {
+      "source": "SQL",
+      "target": "Agile",
+      "weight": 24
+    },
+    {
+      "source": "SQL",
+      "target": "Algorithms",
+      "weight": 38
+    },
+    {
+      "source": "SQL",
+      "target": "CI/CD",
+      "weight": 7
+    },
+    {
+      "source": "SQL",
+      "target": "NumPy",
+      "weight": 7
+    },
+    {
+      "source": "SQL",
+      "target": "Django",
+      "weight": 8
+    },
+    {
+      "source": "SQL",
+      "target": "Redis",
+      "weight": 10
+    },
+    {
+      "source": "SQL",
+      "target": "Docker",
+      "weight": 5
+    },
+    {
+      "source": "SQL",
+      "target": "Angular",
+      "weight": 18
+    },
+    {
+      "source": "SQL",
+      "target": "Natural Language Processing",
+      "weight": 13
+    },
+    {
+      "source": "SQL",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "SQL",
+      "target": "Google Analytics",
+      "weight": 10
+    },
+    {
+      "source": "SQL",
+      "target": "SEO",
+      "weight": 5
+    },
+    {
+      "source": "SQL",
+      "target": "PHP",
+      "weight": 12
+    },
+    {
+      "source": "SQL",
+      "target": "Ansible",
+      "weight": 3
+    },
+    {
+      "source": "SQL",
+      "target": "Bootstrap",
+      "weight": 5
+    },
+    {
+      "source": "SQL",
+      "target": "SEM",
+      "weight": 6
+    },
+    {
+      "source": "SQL",
+      "target": "React",
+      "weight": 3
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Project Management",
+      "weight": 46
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Business Analysis",
+      "weight": 68
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "C",
+      "weight": 34
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Excel",
+      "weight": 86
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Tableau",
+      "weight": 6
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "C#",
+      "weight": 19
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Oracle",
+      "weight": 23
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Product Management",
+      "weight": 5
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "SAS",
+      "weight": 24
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Agile",
+      "weight": 10
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "ASP.NET",
+      "weight": 6
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "TypeScript",
+      "weight": 13
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Computer Vision",
+      "weight": 4
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "C++",
+      "weight": 10
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Java",
+      "weight": 9
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Natural Language Processing",
+      "weight": 4
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Data Mining",
+      "weight": 3
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "SQL Server",
+      "weight": 7
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "R",
+      "weight": 23
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Power BI",
+      "weight": 4
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "SEM",
+      "weight": 4
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Data Science",
+      "weight": 9
+    },
+    {
+      "source": "Financial Analysis",
+      "target": "Go",
+      "weight": 5
+    },
+    {
+      "source": "TypeScript",
+      "target": "HTML",
+      "weight": 3
+    },
+    {
+      "source": "TypeScript",
+      "target": "Angular",
+      "weight": 4
+    },
+    {
+      "source": "SAS",
+      "target": "R",
+      "weight": 250
+    },
+    {
+      "source": "SAS",
+      "target": "Apache Spark",
+      "weight": 5
+    },
+    {
+      "source": "SAS",
+      "target": "Java",
+      "weight": 13
+    },
+    {
+      "source": "SAS",
+      "target": "Project Management",
+      "weight": 30
+    },
+    {
+      "source": "SAS",
+      "target": "Excel",
+      "weight": 132
+    },
+    {
+      "source": "SAS",
+      "target": "Business Analysis",
+      "weight": 41
+    },
+    {
+      "source": "SAS",
+      "target": "Hive",
+      "weight": 15
+    },
+    {
+      "source": "SAS",
+      "target": "Algorithms",
+      "weight": 10
+    },
+    {
+      "source": "SAS",
+      "target": "Data Mining",
+      "weight": 43
+    },
+    {
+      "source": "SAS",
+      "target": "Data Science",
+      "weight": 33
+    },
+    {
+      "source": "SAS",
+      "target": "Tableau",
+      "weight": 46
+    },
+    {
+      "source": "SAS",
+      "target": "Deep Learning",
+      "weight": 5
+    },
+    {
+      "source": "SAS",
+      "target": "MySQL",
+      "weight": 5
+    },
+    {
+      "source": "SAS",
+      "target": "Google Analytics",
+      "weight": 3
+    },
+    {
+      "source": "SAS",
+      "target": "NoSQL",
+      "weight": 4
+    },
+    {
+      "source": "SAS",
+      "target": "Linux",
+      "weight": 13
+    },
+    {
+      "source": "SAS",
+      "target": "Oracle",
+      "weight": 8
+    },
+    {
+      "source": "SAS",
+      "target": "SQL Server",
+      "weight": 5
+    },
+    {
+      "source": "SAS",
+      "target": "Azure",
+      "weight": 3
+    },
+    {
+      "source": "SAS",
+      "target": "C",
+      "weight": 12
+    },
+    {
+      "source": "SAS",
+      "target": "SEM",
+      "weight": 6
+    },
+    {
+      "source": "SAS",
+      "target": "Agile",
+      "weight": 3
+    },
+    {
+      "source": "SAS",
+      "target": "Natural Language Processing",
+      "weight": 9
+    },
+    {
+      "source": "SAS",
+      "target": "Scala",
+      "weight": 3
+    },
+    {
+      "source": "R",
+      "target": "Apache Spark",
+      "weight": 39
+    },
+    {
+      "source": "R",
+      "target": "Java",
+      "weight": 43
+    },
+    {
+      "source": "R",
+      "target": "Project Management",
+      "weight": 17
+    },
+    {
+      "source": "R",
+      "target": "Algorithms",
+      "weight": 40
+    },
+    {
+      "source": "R",
+      "target": "Data Mining",
+      "weight": 70
+    },
+    {
+      "source": "R",
+      "target": "C",
+      "weight": 28
+    },
+    {
+      "source": "R",
+      "target": "C++",
+      "weight": 15
+    },
+    {
+      "source": "R",
+      "target": "Data Science",
+      "weight": 106
+    },
+    {
+      "source": "R",
+      "target": "Deep Learning",
+      "weight": 41
+    },
+    {
+      "source": "R",
+      "target": "Excel",
+      "weight": 79
+    },
+    {
+      "source": "R",
+      "target": "Tableau",
+      "weight": 52
+    },
+    {
+      "source": "R",
+      "target": "Business Analysis",
+      "weight": 25
+    },
+    {
+      "source": "R",
+      "target": "SEM",
+      "weight": 3
+    },
+    {
+      "source": "R",
+      "target": "Cassandra",
+      "weight": 12
+    },
+    {
+      "source": "R",
+      "target": "Hive",
+      "weight": 31
+    },
+    {
+      "source": "R",
+      "target": "NoSQL",
+      "weight": 17
+    },
+    {
+      "source": "R",
+      "target": "NumPy",
+      "weight": 11
+    },
+    {
+      "source": "R",
+      "target": "Natural Language Processing",
+      "weight": 29
+    },
+    {
+      "source": "R",
+      "target": "Google Analytics",
+      "weight": 9
+    },
+    {
+      "source": "R",
+      "target": "SQL Server",
+      "weight": 15
+    },
+    {
+      "source": "R",
+      "target": "Scala",
+      "weight": 17
+    },
+    {
+      "source": "R",
+      "target": "HTML",
+      "weight": 5
+    },
+    {
+      "source": "R",
+      "target": "MySQL",
+      "weight": 10
+    },
+    {
+      "source": "R",
+      "target": "Oracle",
+      "weight": 7
+    },
+    {
+      "source": "R",
+      "target": "Azure",
+      "weight": 4
+    },
+    {
+      "source": "R",
+      "target": "Linux",
+      "weight": 5
+    },
+    {
+      "source": "R",
+      "target": "ASP.NET",
+      "weight": 3
+    },
+    {
+      "source": "R",
+      "target": "C#",
+      "weight": 7
+    },
+    {
+      "source": "R",
+      "target": "MongoDB",
+      "weight": 7
+    },
+    {
+      "source": "R",
+      "target": "Power BI",
+      "weight": 13
+    },
+    {
+      "source": "R",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "R",
+      "target": "jQuery",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "C",
+      "weight": 18
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Excel",
+      "weight": 63
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Tableau",
+      "weight": 15
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Project Management",
+      "weight": 58
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Product Management",
+      "weight": 12
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Agile",
+      "weight": 45
+    },
+    {
+      "source": "Business Analysis",
+      "target": "C#",
+      "weight": 8
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Hive",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Data Mining",
+      "weight": 14
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Oracle",
+      "weight": 27
+    },
+    {
+      "source": "Business Analysis",
+      "target": "CSS",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Java",
+      "weight": 9
+    },
+    {
+      "source": "Business Analysis",
+      "target": "MySQL",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "jQuery",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "SQL Server",
+      "weight": 9
+    },
+    {
+      "source": "Business Analysis",
+      "target": "ASP.NET",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Google Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Linux",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Power BI",
+      "weight": 4
+    },
+    {
+      "source": "Business Analysis",
+      "target": "HTML",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Git",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "REST API",
+      "weight": 3
+    },
+    {
+      "source": "Business Analysis",
+      "target": "Go",
+      "weight": 3
+    },
+    {
+      "source": "Data Science",
+      "target": "Natural Language Processing",
+      "weight": 34
+    },
+    {
+      "source": "Data Science",
+      "target": "Deep Learning",
+      "weight": 42
+    },
+    {
+      "source": "Data Science",
+      "target": "Excel",
+      "weight": 12
+    },
+    {
+      "source": "Data Science",
+      "target": "Java",
+      "weight": 18
+    },
+    {
+      "source": "Data Science",
+      "target": "Oracle",
+      "weight": 6
+    },
+    {
+      "source": "Data Science",
+      "target": "Data Mining",
+      "weight": 26
+    },
+    {
+      "source": "Data Science",
+      "target": "Tableau",
+      "weight": 10
+    },
+    {
+      "source": "Data Science",
+      "target": "Computer Vision",
+      "weight": 3
+    },
+    {
+      "source": "Data Science",
+      "target": "Algorithms",
+      "weight": 30
+    },
+    {
+      "source": "Data Science",
+      "target": "Cassandra",
+      "weight": 12
+    },
+    {
+      "source": "Data Science",
+      "target": "Hive",
+      "weight": 22
+    },
+    {
+      "source": "Data Science",
+      "target": "NoSQL",
+      "weight": 16
+    },
+    {
+      "source": "Data Science",
+      "target": "NumPy",
+      "weight": 11
+    },
+    {
+      "source": "Data Science",
+      "target": "Apache Spark",
+      "weight": 27
+    },
+    {
+      "source": "Data Science",
+      "target": "AWS",
+      "weight": 5
+    },
+    {
+      "source": "Data Science",
+      "target": "Scala",
+      "weight": 11
+    },
+    {
+      "source": "Data Science",
+      "target": "Azure",
+      "weight": 6
+    },
+    {
+      "source": "Data Science",
+      "target": "SQL Server",
+      "weight": 3
+    },
+    {
+      "source": "Data Science",
+      "target": "Linux",
+      "weight": 5
+    },
+    {
+      "source": "Data Science",
+      "target": "Project Management",
+      "weight": 7
+    },
+    {
+      "source": "Data Science",
+      "target": "MongoDB",
+      "weight": 6
+    },
+    {
+      "source": "Data Science",
+      "target": "C",
+      "weight": 8
+    },
+    {
+      "source": "Data Science",
+      "target": "C++",
+      "weight": 5
+    },
+    {
+      "source": "Data Science",
+      "target": "MySQL",
+      "weight": 3
+    },
+    {
+      "source": "Data Science",
+      "target": "Git",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Hive",
+      "weight": 103
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Java",
+      "weight": 97
+    },
+    {
+      "source": "Apache Spark",
+      "target": "NoSQL",
+      "weight": 64
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Scala",
+      "weight": 77
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Deep Learning",
+      "weight": 15
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Natural Language Processing",
+      "weight": 8
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Angular",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "REST API",
+      "weight": 15
+    },
+    {
+      "source": "Apache Spark",
+      "target": "AWS",
+      "weight": 19
+    },
+    {
+      "source": "Apache Spark",
+      "target": "C",
+      "weight": 7
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Cassandra",
+      "weight": 33
+    },
+    {
+      "source": "Apache Spark",
+      "target": "MySQL",
+      "weight": 15
+    },
+    {
+      "source": "Apache Spark",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Git",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "MongoDB",
+      "weight": 12
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Algorithms",
+      "weight": 26
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Django",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Pandas",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "SQL Server",
+      "weight": 8
+    },
+    {
+      "source": "Apache Spark",
+      "target": "NumPy",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Redis",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Node.js",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Linux",
+      "weight": 13
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Oracle",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Azure",
+      "weight": 12
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Project Management",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Tableau",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Data Mining",
+      "weight": 11
+    },
+    {
+      "source": "Apache Spark",
+      "target": "C++",
+      "weight": 5
+    },
+    {
+      "source": "Apache Spark",
+      "target": "CI/CD",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "CSS",
+      "weight": 4
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Agile",
+      "weight": 3
+    },
+    {
+      "source": "Apache Spark",
+      "target": "HTML",
+      "weight": 4
+    },
+    {
+      "source": "Java",
+      "target": "Oracle",
+      "weight": 47
+    },
+    {
+      "source": "Java",
+      "target": "C",
+      "weight": 123
+    },
+    {
+      "source": "Java",
+      "target": "Cassandra",
+      "weight": 43
+    },
+    {
+      "source": "Java",
+      "target": "Data Mining",
+      "weight": 18
+    },
+    {
+      "source": "Java",
+      "target": "MySQL",
+      "weight": 80
+    },
+    {
+      "source": "Java",
+      "target": "Hive",
+      "weight": 60
+    },
+    {
+      "source": "Java",
+      "target": "NoSQL",
+      "weight": 84
+    },
+    {
+      "source": "Java",
+      "target": "Scala",
+      "weight": 80
+    },
+    {
+      "source": "Java",
+      "target": "Algorithms",
+      "weight": 102
+    },
+    {
+      "source": "Java",
+      "target": "CSS",
+      "weight": 78
+    },
+    {
+      "source": "Java",
+      "target": "REST API",
+      "weight": 179
+    },
+    {
+      "source": "Java",
+      "target": "Deep Learning",
+      "weight": 16
+    },
+    {
+      "source": "Java",
+      "target": "Natural Language Processing",
+      "weight": 26
+    },
+    {
+      "source": "Java",
+      "target": "HTML",
+      "weight": 124
+    },
+    {
+      "source": "Java",
+      "target": "SQL Server",
+      "weight": 34
+    },
+    {
+      "source": "Java",
+      "target": "AWS",
+      "weight": 34
+    },
+    {
+      "source": "Java",
+      "target": "Git",
+      "weight": 39
+    },
+    {
+      "source": "Java",
+      "target": "MongoDB",
+      "weight": 44
+    },
+    {
+      "source": "Java",
+      "target": "PHP",
+      "weight": 45
+    },
+    {
+      "source": "Java",
+      "target": "Redis",
+      "weight": 23
+    },
+    {
+      "source": "Java",
+      "target": "jQuery",
+      "weight": 67
+    },
+    {
+      "source": "Java",
+      "target": "Bootstrap",
+      "weight": 16
+    },
+    {
+      "source": "Java",
+      "target": "Node.js",
+      "weight": 38
+    },
+    {
+      "source": "Java",
+      "target": "Agile",
+      "weight": 47
+    },
+    {
+      "source": "Java",
+      "target": "Product Management",
+      "weight": 5
+    },
+    {
+      "source": "Java",
+      "target": "C++",
+      "weight": 84
+    },
+    {
+      "source": "Java",
+      "target": "Angular",
+      "weight": 50
+    },
+    {
+      "source": "Java",
+      "target": "Tableau",
+      "weight": 7
+    },
+    {
+      "source": "Java",
+      "target": "CI/CD",
+      "weight": 23
+    },
+    {
+      "source": "Java",
+      "target": "Spring Boot",
+      "weight": 49
+    },
+    {
+      "source": "Java",
+      "target": "Azure",
+      "weight": 18
+    },
+    {
+      "source": "Java",
+      "target": "C#",
+      "weight": 29
+    },
+    {
+      "source": "Java",
+      "target": "ASP.NET",
+      "weight": 13
+    },
+    {
+      "source": "Java",
+      "target": "Computer Vision",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "Project Management",
+      "weight": 20
+    },
+    {
+      "source": "Java",
+      "target": "Linux",
+      "weight": 55
+    },
+    {
+      "source": "Java",
+      "target": "React",
+      "weight": 5
+    },
+    {
+      "source": "Java",
+      "target": "Google Analytics",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "Docker",
+      "weight": 17
+    },
+    {
+      "source": "Java",
+      "target": "Ansible",
+      "weight": 9
+    },
+    {
+      "source": "Java",
+      "target": "PostgreSQL",
+      "weight": 17
+    },
+    {
+      "source": "Java",
+      "target": "Django",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "Excel",
+      "weight": 4
+    },
+    {
+      "source": "Java",
+      "target": "Go",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "PyTorch",
+      "weight": 3
+    },
+    {
+      "source": "Java",
+      "target": "TensorFlow",
+      "weight": 3
+    },
+    {
+      "source": "MySQL",
+      "target": "Angular",
+      "weight": 19
+    },
+    {
+      "source": "MySQL",
+      "target": "Node.js",
+      "weight": 15
+    },
+    {
+      "source": "MySQL",
+      "target": "PHP",
+      "weight": 52
+    },
+    {
+      "source": "MySQL",
+      "target": "C",
+      "weight": 23
+    },
+    {
+      "source": "MySQL",
+      "target": "Cassandra",
+      "weight": 16
+    },
+    {
+      "source": "MySQL",
+      "target": "Data Mining",
+      "weight": 4
+    },
+    {
+      "source": "MySQL",
+      "target": "AWS",
+      "weight": 23
+    },
+    {
+      "source": "MySQL",
+      "target": "Git",
+      "weight": 15
+    },
+    {
+      "source": "MySQL",
+      "target": "MongoDB",
+      "weight": 45
+    },
+    {
+      "source": "MySQL",
+      "target": "REST API",
+      "weight": 36
+    },
+    {
+      "source": "MySQL",
+      "target": "Redis",
+      "weight": 20
+    },
+    {
+      "source": "MySQL",
+      "target": "jQuery",
+      "weight": 33
+    },
+    {
+      "source": "MySQL",
+      "target": "Linux",
+      "weight": 15
+    },
+    {
+      "source": "MySQL",
+      "target": "CSS",
+      "weight": 31
+    },
+    {
+      "source": "MySQL",
+      "target": "HTML",
+      "weight": 53
+    },
+    {
+      "source": "MySQL",
+      "target": "CI/CD",
+      "weight": 4
+    },
+    {
+      "source": "MySQL",
+      "target": "Tableau",
+      "weight": 4
+    },
+    {
+      "source": "MySQL",
+      "target": "SEO",
+      "weight": 3
+    },
+    {
+      "source": "MySQL",
+      "target": "Algorithms",
+      "weight": 8
+    },
+    {
+      "source": "MySQL",
+      "target": "Bootstrap",
+      "weight": 4
+    },
+    {
+      "source": "MySQL",
+      "target": "C#",
+      "weight": 9
+    },
+    {
+      "source": "MySQL",
+      "target": "Ansible",
+      "weight": 8
+    },
+    {
+      "source": "MySQL",
+      "target": "Docker",
+      "weight": 5
+    },
+    {
+      "source": "MySQL",
+      "target": "PostgreSQL",
+      "weight": 20
+    },
+    {
+      "source": "MySQL",
+      "target": "Scala",
+      "weight": 12
+    },
+    {
+      "source": "MySQL",
+      "target": "NoSQL",
+      "weight": 29
+    },
+    {
+      "source": "MySQL",
+      "target": "Azure",
+      "weight": 6
+    },
+    {
+      "source": "MySQL",
+      "target": "SQL Server",
+      "weight": 27
+    },
+    {
+      "source": "MySQL",
+      "target": "Django",
+      "weight": 8
+    },
+    {
+      "source": "MySQL",
+      "target": "Excel",
+      "weight": 6
+    },
+    {
+      "source": "MySQL",
+      "target": "Oracle",
+      "weight": 10
+    },
+    {
+      "source": "MySQL",
+      "target": "Spring Boot",
+      "weight": 5
+    },
+    {
+      "source": "MySQL",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "MySQL",
+      "target": "Hive",
+      "weight": 5
+    },
+    {
+      "source": "MySQL",
+      "target": "Google Analytics",
+      "weight": 4
+    },
+    {
+      "source": "MySQL",
+      "target": "React",
+      "weight": 3
+    },
+    {
+      "source": "MySQL",
+      "target": "C++",
+      "weight": 12
+    },
+    {
+      "source": "MySQL",
+      "target": "ASP.NET",
+      "weight": 8
+    },
+    {
+      "source": "MySQL",
+      "target": "Computer Vision",
+      "weight": 3
+    },
+    {
+      "source": "MySQL",
+      "target": "Agile",
+      "weight": 4
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Deep Learning",
+      "weight": 72
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Computer Vision",
+      "weight": 10
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Algorithms",
+      "weight": 25
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Django",
+      "weight": 5
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Project Management",
+      "weight": 5
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "NoSQL",
+      "weight": 5
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "REST API",
+      "weight": 4
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "C",
+      "weight": 10
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "C++",
+      "weight": 6
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Data Mining",
+      "weight": 19
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "AWS",
+      "weight": 8
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "MongoDB",
+      "weight": 3
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Agile",
+      "weight": 4
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Node.js",
+      "weight": 3
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Excel",
+      "weight": 5
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "PyTorch",
+      "weight": 4
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "TensorFlow",
+      "weight": 5
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "HTML",
+      "weight": 3
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Git",
+      "weight": 3
+    },
+    {
+      "source": "Hive",
+      "target": "NoSQL",
+      "weight": 54
+    },
+    {
+      "source": "Hive",
+      "target": "Scala",
+      "weight": 27
+    },
+    {
+      "source": "Hive",
+      "target": "Angular",
+      "weight": 4
+    },
+    {
+      "source": "Hive",
+      "target": "REST API",
+      "weight": 8
+    },
+    {
+      "source": "Hive",
+      "target": "Cassandra",
+      "weight": 18
+    },
+    {
+      "source": "Hive",
+      "target": "MongoDB",
+      "weight": 6
+    },
+    {
+      "source": "Hive",
+      "target": "Excel",
+      "weight": 9
+    },
+    {
+      "source": "Hive",
+      "target": "Azure",
+      "weight": 8
+    },
+    {
+      "source": "Hive",
+      "target": "NumPy",
+      "weight": 8
+    },
+    {
+      "source": "Hive",
+      "target": "SQL Server",
+      "weight": 12
+    },
+    {
+      "source": "Hive",
+      "target": "Agile",
+      "weight": 5
+    },
+    {
+      "source": "Hive",
+      "target": "Redis",
+      "weight": 4
+    },
+    {
+      "source": "Hive",
+      "target": "C",
+      "weight": 7
+    },
+    {
+      "source": "Hive",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "Hive",
+      "target": "Linux",
+      "weight": 8
+    },
+    {
+      "source": "Hive",
+      "target": "Data Mining",
+      "weight": 7
+    },
+    {
+      "source": "Hive",
+      "target": "Deep Learning",
+      "weight": 4
+    },
+    {
+      "source": "Hive",
+      "target": "Tableau",
+      "weight": 8
+    },
+    {
+      "source": "Hive",
+      "target": "Algorithms",
+      "weight": 5
+    },
+    {
+      "source": "Hive",
+      "target": "CI/CD",
+      "weight": 3
+    },
+    {
+      "source": "Hive",
+      "target": "Project Management",
+      "weight": 3
+    },
+    {
+      "source": "Hive",
+      "target": "CSS",
+      "weight": 3
+    },
+    {
+      "source": "Hive",
+      "target": "Oracle",
+      "weight": 4
+    },
+    {
+      "source": "Linux",
+      "target": "Oracle",
+      "weight": 36
+    },
+    {
+      "source": "Linux",
+      "target": "C",
+      "weight": 48
+    },
+    {
+      "source": "Linux",
+      "target": "C++",
+      "weight": 38
+    },
+    {
+      "source": "Linux",
+      "target": "HTML",
+      "weight": 8
+    },
+    {
+      "source": "Linux",
+      "target": "MongoDB",
+      "weight": 10
+    },
+    {
+      "source": "Linux",
+      "target": "REST API",
+      "weight": 10
+    },
+    {
+      "source": "Linux",
+      "target": "Agile",
+      "weight": 10
+    },
+    {
+      "source": "Linux",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "Linux",
+      "target": "CI/CD",
+      "weight": 9
+    },
+    {
+      "source": "Linux",
+      "target": "Docker",
+      "weight": 15
+    },
+    {
+      "source": "Linux",
+      "target": "Git",
+      "weight": 8
+    },
+    {
+      "source": "Linux",
+      "target": "SQL Server",
+      "weight": 13
+    },
+    {
+      "source": "Linux",
+      "target": "Algorithms",
+      "weight": 11
+    },
+    {
+      "source": "Linux",
+      "target": "AWS",
+      "weight": 23
+    },
+    {
+      "source": "Linux",
+      "target": "Ansible",
+      "weight": 18
+    },
+    {
+      "source": "Linux",
+      "target": "Project Management",
+      "weight": 8
+    },
+    {
+      "source": "Linux",
+      "target": "Django",
+      "weight": 6
+    },
+    {
+      "source": "Linux",
+      "target": "Azure",
+      "weight": 7
+    },
+    {
+      "source": "Linux",
+      "target": "Data Mining",
+      "weight": 3
+    },
+    {
+      "source": "Linux",
+      "target": "Cassandra",
+      "weight": 3
+    },
+    {
+      "source": "Linux",
+      "target": "NoSQL",
+      "weight": 7
+    },
+    {
+      "source": "Linux",
+      "target": "Redis",
+      "weight": 4
+    },
+    {
+      "source": "Linux",
+      "target": "Scala",
+      "weight": 3
+    },
+    {
+      "source": "Linux",
+      "target": "PHP",
+      "weight": 7
+    },
+    {
+      "source": "Linux",
+      "target": "PostgreSQL",
+      "weight": 4
+    },
+    {
+      "source": "Linux",
+      "target": "Go",
+      "weight": 3
+    },
+    {
+      "source": "Oracle",
+      "target": "SQL Server",
+      "weight": 45
+    },
+    {
+      "source": "Oracle",
+      "target": "ASP.NET",
+      "weight": 8
+    },
+    {
+      "source": "Oracle",
+      "target": "C",
+      "weight": 20
+    },
+    {
+      "source": "Oracle",
+      "target": "C#",
+      "weight": 10
+    },
+    {
+      "source": "Oracle",
+      "target": "jQuery",
+      "weight": 6
+    },
+    {
+      "source": "Oracle",
+      "target": "Git",
+      "weight": 3
+    },
+    {
+      "source": "Oracle",
+      "target": "CSS",
+      "weight": 3
+    },
+    {
+      "source": "Oracle",
+      "target": "HTML",
+      "weight": 11
+    },
+    {
+      "source": "Oracle",
+      "target": "Algorithms",
+      "weight": 9
+    },
+    {
+      "source": "Oracle",
+      "target": "Agile",
+      "weight": 13
+    },
+    {
+      "source": "Oracle",
+      "target": "NoSQL",
+      "weight": 6
+    },
+    {
+      "source": "Oracle",
+      "target": "REST API",
+      "weight": 13
+    },
+    {
+      "source": "Oracle",
+      "target": "C++",
+      "weight": 7
+    },
+    {
+      "source": "Oracle",
+      "target": "Project Management",
+      "weight": 5
+    },
+    {
+      "source": "Oracle",
+      "target": "Excel",
+      "weight": 6
+    },
+    {
+      "source": "Oracle",
+      "target": "Data Mining",
+      "weight": 3
+    },
+    {
+      "source": "Oracle",
+      "target": "Power BI",
+      "weight": 3
+    },
+    {
+      "source": "Oracle",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "SEM",
+      "target": "SEO",
+      "weight": 272
+    },
+    {
+      "source": "SEM",
+      "target": "Product Management",
+      "weight": 10
+    },
+    {
+      "source": "SEM",
+      "target": "HTML",
+      "weight": 11
+    },
+    {
+      "source": "SEM",
+      "target": "Google Analytics",
+      "weight": 122
+    },
+    {
+      "source": "SEM",
+      "target": "CSS",
+      "weight": 9
+    },
+    {
+      "source": "SEM",
+      "target": "PHP",
+      "weight": 4
+    },
+    {
+      "source": "SEM",
+      "target": "Excel",
+      "weight": 6
+    },
+    {
+      "source": "SEM",
+      "target": "Project Management",
+      "weight": 6
+    },
+    {
+      "source": "SQL Server",
+      "target": "Power BI",
+      "weight": 16
+    },
+    {
+      "source": "SQL Server",
+      "target": "ASP.NET",
+      "weight": 63
+    },
+    {
+      "source": "SQL Server",
+      "target": "C",
+      "weight": 75
+    },
+    {
+      "source": "SQL Server",
+      "target": "C#",
+      "weight": 63
+    },
+    {
+      "source": "SQL Server",
+      "target": "jQuery",
+      "weight": 20
+    },
+    {
+      "source": "SQL Server",
+      "target": "Azure",
+      "weight": 15
+    },
+    {
+      "source": "SQL Server",
+      "target": "CSS",
+      "weight": 13
+    },
+    {
+      "source": "SQL Server",
+      "target": "HTML",
+      "weight": 25
+    },
+    {
+      "source": "SQL Server",
+      "target": "Git",
+      "weight": 4
+    },
+    {
+      "source": "SQL Server",
+      "target": "Node.js",
+      "weight": 5
+    },
+    {
+      "source": "SQL Server",
+      "target": "Project Management",
+      "weight": 5
+    },
+    {
+      "source": "SQL Server",
+      "target": "REST API",
+      "weight": 17
+    },
+    {
+      "source": "SQL Server",
+      "target": "Cassandra",
+      "weight": 3
+    },
+    {
+      "source": "SQL Server",
+      "target": "MongoDB",
+      "weight": 5
+    },
+    {
+      "source": "SQL Server",
+      "target": "NoSQL",
+      "weight": 9
+    },
+    {
+      "source": "SQL Server",
+      "target": "Angular",
+      "weight": 9
+    },
+    {
+      "source": "SQL Server",
+      "target": "Redis",
+      "weight": 3
+    },
+    {
+      "source": "SQL Server",
+      "target": "Agile",
+      "weight": 5
+    },
+    {
+      "source": "SQL Server",
+      "target": "C++",
+      "weight": 12
+    },
+    {
+      "source": "SQL Server",
+      "target": "Data Mining",
+      "weight": 4
+    },
+    {
+      "source": "SQL Server",
+      "target": "PostgreSQL",
+      "weight": 9
+    },
+    {
+      "source": "SQL Server",
+      "target": "Excel",
+      "weight": 13
+    },
+    {
+      "source": "SQL Server",
+      "target": "Algorithms",
+      "weight": 3
+    },
+    {
+      "source": "SQL Server",
+      "target": "Tableau",
+      "weight": 4
+    },
+    {
+      "source": "SQL Server",
+      "target": "Scala",
+      "weight": 3
+    },
+    {
+      "source": "Scala",
+      "target": "NoSQL",
+      "weight": 37
+    },
+    {
+      "source": "Scala",
+      "target": "Ansible",
+      "weight": 6
+    },
+    {
+      "source": "Scala",
+      "target": "Docker",
+      "weight": 6
+    },
+    {
+      "source": "Scala",
+      "target": "Git",
+      "weight": 5
+    },
+    {
+      "source": "Scala",
+      "target": "MongoDB",
+      "weight": 13
+    },
+    {
+      "source": "Scala",
+      "target": "PostgreSQL",
+      "weight": 6
+    },
+    {
+      "source": "Scala",
+      "target": "Redis",
+      "weight": 9
+    },
+    {
+      "source": "Scala",
+      "target": "Cassandra",
+      "weight": 22
+    },
+    {
+      "source": "Scala",
+      "target": "CI/CD",
+      "weight": 9
+    },
+    {
+      "source": "Scala",
+      "target": "REST API",
+      "weight": 9
+    },
+    {
+      "source": "Scala",
+      "target": "AWS",
+      "weight": 5
+    },
+    {
+      "source": "Scala",
+      "target": "Algorithms",
+      "weight": 19
+    },
+    {
+      "source": "Scala",
+      "target": "Data Mining",
+      "weight": 8
+    },
+    {
+      "source": "Scala",
+      "target": "Node.js",
+      "weight": 5
+    },
+    {
+      "source": "Scala",
+      "target": "Spring Boot",
+      "weight": 3
+    },
+    {
+      "source": "Scala",
+      "target": "Deep Learning",
+      "weight": 4
+    },
+    {
+      "source": "Scala",
+      "target": "C",
+      "weight": 8
+    },
+    {
+      "source": "Scala",
+      "target": "C++",
+      "weight": 7
+    },
+    {
+      "source": "Excel",
+      "target": "Project Management",
+      "weight": 15
+    },
+    {
+      "source": "Excel",
+      "target": "Power BI",
+      "weight": 12
+    },
+    {
+      "source": "Excel",
+      "target": "Tableau",
+      "weight": 42
+    },
+    {
+      "source": "Excel",
+      "target": "Data Mining",
+      "weight": 24
+    },
+    {
+      "source": "Excel",
+      "target": "Google Analytics",
+      "weight": 7
+    },
+    {
+      "source": "Excel",
+      "target": "C",
+      "weight": 11
+    },
+    {
+      "source": "Excel",
+      "target": "SEO",
+      "weight": 5
+    },
+    {
+      "source": "Excel",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "Excel",
+      "target": "Algorithms",
+      "weight": 3
+    },
+    {
+      "source": "Excel",
+      "target": "HTML",
+      "weight": 3
+    },
+    {
+      "source": "Google Analytics",
+      "target": "Product Management",
+      "weight": 3
+    },
+    {
+      "source": "Google Analytics",
+      "target": "Project Management",
+      "weight": 6
+    },
+    {
+      "source": "Google Analytics",
+      "target": "SEO",
+      "weight": 111
+    },
+    {
+      "source": "Google Analytics",
+      "target": "HTML",
+      "weight": 13
+    },
+    {
+      "source": "Google Analytics",
+      "target": "CSS",
+      "weight": 5
+    },
+    {
+      "source": "Google Analytics",
+      "target": "REST API",
+      "weight": 5
+    },
+    {
+      "source": "Google Analytics",
+      "target": "Angular",
+      "weight": 5
+    },
+    {
+      "source": "Google Analytics",
+      "target": "Tableau",
+      "weight": 5
+    },
+    {
+      "source": "Algorithms",
+      "target": "CSS",
+      "weight": 10
+    },
+    {
+      "source": "Algorithms",
+      "target": "REST API",
+      "weight": 12
+    },
+    {
+      "source": "Algorithms",
+      "target": "C",
+      "weight": 85
+    },
+    {
+      "source": "Algorithms",
+      "target": "C++",
+      "weight": 77
+    },
+    {
+      "source": "Algorithms",
+      "target": "Computer Vision",
+      "weight": 11
+    },
+    {
+      "source": "Algorithms",
+      "target": "Deep Learning",
+      "weight": 31
+    },
+    {
+      "source": "Algorithms",
+      "target": "Data Mining",
+      "weight": 14
+    },
+    {
+      "source": "Algorithms",
+      "target": "Django",
+      "weight": 8
+    },
+    {
+      "source": "Algorithms",
+      "target": "Agile",
+      "weight": 6
+    },
+    {
+      "source": "Algorithms",
+      "target": "HTML",
+      "weight": 10
+    },
+    {
+      "source": "Algorithms",
+      "target": "NoSQL",
+      "weight": 16
+    },
+    {
+      "source": "Algorithms",
+      "target": "Node.js",
+      "weight": 4
+    },
+    {
+      "source": "Algorithms",
+      "target": "Angular",
+      "weight": 6
+    },
+    {
+      "source": "Algorithms",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "Algorithms",
+      "target": "TensorFlow",
+      "weight": 3
+    },
+    {
+      "source": "Algorithms",
+      "target": "C#",
+      "weight": 8
+    },
+    {
+      "source": "Algorithms",
+      "target": "Cassandra",
+      "weight": 11
+    },
+    {
+      "source": "Algorithms",
+      "target": "Docker",
+      "weight": 4
+    },
+    {
+      "source": "Algorithms",
+      "target": "CI/CD",
+      "weight": 3
+    },
+    {
+      "source": "Algorithms",
+      "target": "Git",
+      "weight": 6
+    },
+    {
+      "source": "Algorithms",
+      "target": "MongoDB",
+      "weight": 4
+    },
+    {
+      "source": "Algorithms",
+      "target": "Redis",
+      "weight": 6
+    },
+    {
+      "source": "Algorithms",
+      "target": "NumPy",
+      "weight": 3
+    },
+    {
+      "source": "SEO",
+      "target": "Product Management",
+      "weight": 6
+    },
+    {
+      "source": "SEO",
+      "target": "HTML",
+      "weight": 28
+    },
+    {
+      "source": "SEO",
+      "target": "CSS",
+      "weight": 21
+    },
+    {
+      "source": "SEO",
+      "target": "PHP",
+      "weight": 7
+    },
+    {
+      "source": "SEO",
+      "target": "jQuery",
+      "weight": 11
+    },
+    {
+      "source": "Docker",
+      "target": "AWS",
+      "weight": 11
+    },
+    {
+      "source": "Docker",
+      "target": "Ansible",
+      "weight": 15
+    },
+    {
+      "source": "Docker",
+      "target": "CI/CD",
+      "weight": 13
+    },
+    {
+      "source": "Docker",
+      "target": "Kubernetes",
+      "weight": 5
+    },
+    {
+      "source": "Docker",
+      "target": "Agile",
+      "weight": 3
+    },
+    {
+      "source": "Docker",
+      "target": "Git",
+      "weight": 10
+    },
+    {
+      "source": "Docker",
+      "target": "MongoDB",
+      "weight": 7
+    },
+    {
+      "source": "Docker",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "Docker",
+      "target": "Redis",
+      "weight": 6
+    },
+    {
+      "source": "Docker",
+      "target": "REST API",
+      "weight": 6
+    },
+    {
+      "source": "Docker",
+      "target": "Azure",
+      "weight": 5
+    },
+    {
+      "source": "Docker",
+      "target": "NoSQL",
+      "weight": 8
+    },
+    {
+      "source": "Docker",
+      "target": "Cassandra",
+      "weight": 5
+    },
+    {
+      "source": "Docker",
+      "target": "Django",
+      "weight": 4
+    },
+    {
+      "source": "Kubernetes",
+      "target": "AWS",
+      "weight": 3
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Ansible",
+      "weight": 4
+    },
+    {
+      "source": "NoSQL",
+      "target": "Angular",
+      "weight": 16
+    },
+    {
+      "source": "NoSQL",
+      "target": "REST API",
+      "weight": 28
+    },
+    {
+      "source": "NoSQL",
+      "target": "Cassandra",
+      "weight": 44
+    },
+    {
+      "source": "NoSQL",
+      "target": "MongoDB",
+      "weight": 36
+    },
+    {
+      "source": "NoSQL",
+      "target": "Node.js",
+      "weight": 15
+    },
+    {
+      "source": "NoSQL",
+      "target": "PostgreSQL",
+      "weight": 14
+    },
+    {
+      "source": "NoSQL",
+      "target": "Agile",
+      "weight": 4
+    },
+    {
+      "source": "NoSQL",
+      "target": "CSS",
+      "weight": 8
+    },
+    {
+      "source": "NoSQL",
+      "target": "HTML",
+      "weight": 10
+    },
+    {
+      "source": "NoSQL",
+      "target": "C",
+      "weight": 12
+    },
+    {
+      "source": "NoSQL",
+      "target": "Redis",
+      "weight": 10
+    },
+    {
+      "source": "NoSQL",
+      "target": "AWS",
+      "weight": 22
+    },
+    {
+      "source": "NoSQL",
+      "target": "C#",
+      "weight": 4
+    },
+    {
+      "source": "NoSQL",
+      "target": "Django",
+      "weight": 12
+    },
+    {
+      "source": "NoSQL",
+      "target": "Git",
+      "weight": 10
+    },
+    {
+      "source": "NoSQL",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "NoSQL",
+      "target": "NumPy",
+      "weight": 6
+    },
+    {
+      "source": "NoSQL",
+      "target": "Azure",
+      "weight": 11
+    },
+    {
+      "source": "NoSQL",
+      "target": "Deep Learning",
+      "weight": 4
+    },
+    {
+      "source": "NoSQL",
+      "target": "PHP",
+      "weight": 9
+    },
+    {
+      "source": "NoSQL",
+      "target": "Data Mining",
+      "weight": 5
+    },
+    {
+      "source": "NoSQL",
+      "target": "C++",
+      "weight": 5
+    },
+    {
+      "source": "NoSQL",
+      "target": "Ansible",
+      "weight": 7
+    },
+    {
+      "source": "NoSQL",
+      "target": "CI/CD",
+      "weight": 4
+    },
+    {
+      "source": "Redis",
+      "target": "AWS",
+      "weight": 6
+    },
+    {
+      "source": "Redis",
+      "target": "Git",
+      "weight": 5
+    },
+    {
+      "source": "Redis",
+      "target": "MongoDB",
+      "weight": 17
+    },
+    {
+      "source": "Redis",
+      "target": "PHP",
+      "weight": 5
+    },
+    {
+      "source": "Redis",
+      "target": "REST API",
+      "weight": 12
+    },
+    {
+      "source": "Redis",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "Redis",
+      "target": "Angular",
+      "weight": 6
+    },
+    {
+      "source": "Redis",
+      "target": "HTML",
+      "weight": 7
+    },
+    {
+      "source": "Redis",
+      "target": "Cassandra",
+      "weight": 6
+    },
+    {
+      "source": "Redis",
+      "target": "Ansible",
+      "weight": 3
+    },
+    {
+      "source": "Redis",
+      "target": "PostgreSQL",
+      "weight": 4
+    },
+    {
+      "source": "Redis",
+      "target": "Django",
+      "weight": 8
+    },
+    {
+      "source": "Redis",
+      "target": "CSS",
+      "weight": 4
+    },
+    {
+      "source": "Redis",
+      "target": "Node.js",
+      "weight": 7
+    },
+    {
+      "source": "Redis",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "Redis",
+      "target": "Spring Boot",
+      "weight": 4
+    },
+    {
+      "source": "HTML",
+      "target": "Angular",
+      "weight": 57
+    },
+    {
+      "source": "HTML",
+      "target": "CSS",
+      "weight": 200
+    },
+    {
+      "source": "HTML",
+      "target": "jQuery",
+      "weight": 115
+    },
+    {
+      "source": "HTML",
+      "target": "PHP",
+      "weight": 69
+    },
+    {
+      "source": "HTML",
+      "target": "Node.js",
+      "weight": 40
+    },
+    {
+      "source": "HTML",
+      "target": "MongoDB",
+      "weight": 24
+    },
+    {
+      "source": "HTML",
+      "target": "ASP.NET",
+      "weight": 19
+    },
+    {
+      "source": "HTML",
+      "target": "C",
+      "weight": 36
+    },
+    {
+      "source": "HTML",
+      "target": "C#",
+      "weight": 21
+    },
+    {
+      "source": "HTML",
+      "target": "Agile",
+      "weight": 14
+    },
+    {
+      "source": "HTML",
+      "target": "REST API",
+      "weight": 48
+    },
+    {
+      "source": "HTML",
+      "target": "Bootstrap",
+      "weight": 30
+    },
+    {
+      "source": "HTML",
+      "target": "React",
+      "weight": 17
+    },
+    {
+      "source": "HTML",
+      "target": "Spring Boot",
+      "weight": 5
+    },
+    {
+      "source": "HTML",
+      "target": "AWS",
+      "weight": 6
+    },
+    {
+      "source": "HTML",
+      "target": "Git",
+      "weight": 21
+    },
+    {
+      "source": "HTML",
+      "target": "C++",
+      "weight": 10
+    },
+    {
+      "source": "HTML",
+      "target": "Computer Vision",
+      "weight": 4
+    },
+    {
+      "source": "HTML",
+      "target": "Django",
+      "weight": 9
+    },
+    {
+      "source": "HTML",
+      "target": "Azure",
+      "weight": 7
+    },
+    {
+      "source": "HTML",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "HTML",
+      "target": "Project Management",
+      "weight": 4
+    },
+    {
+      "source": "Ansible",
+      "target": "AWS",
+      "weight": 19
+    },
+    {
+      "source": "Ansible",
+      "target": "CI/CD",
+      "weight": 14
+    },
+    {
+      "source": "Ansible",
+      "target": "REST API",
+      "weight": 3
+    },
+    {
+      "source": "Ansible",
+      "target": "Git",
+      "weight": 7
+    },
+    {
+      "source": "Ansible",
+      "target": "MongoDB",
+      "weight": 7
+    },
+    {
+      "source": "Ansible",
+      "target": "Azure",
+      "weight": 6
+    },
+    {
+      "source": "Project Management",
+      "target": "ASP.NET",
+      "weight": 7
+    },
+    {
+      "source": "Project Management",
+      "target": "C",
+      "weight": 16
+    },
+    {
+      "source": "Project Management",
+      "target": "C#",
+      "weight": 5
+    },
+    {
+      "source": "Project Management",
+      "target": "Agile",
+      "weight": 35
+    },
+    {
+      "source": "Project Management",
+      "target": "Product Management",
+      "weight": 8
+    },
+    {
+      "source": "Project Management",
+      "target": "Data Mining",
+      "weight": 4
+    },
+    {
+      "source": "Project Management",
+      "target": "PHP",
+      "weight": 4
+    },
+    {
+      "source": "Project Management",
+      "target": "Tableau",
+      "weight": 9
+    },
+    {
+      "source": "Project Management",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "Project Management",
+      "target": "REST API",
+      "weight": 4
+    },
+    {
+      "source": "CI/CD",
+      "target": "AWS",
+      "weight": 11
+    },
+    {
+      "source": "CI/CD",
+      "target": "REST API",
+      "weight": 3
+    },
+    {
+      "source": "CI/CD",
+      "target": "Git",
+      "weight": 10
+    },
+    {
+      "source": "CI/CD",
+      "target": "C",
+      "weight": 4
+    },
+    {
+      "source": "CI/CD",
+      "target": "Agile",
+      "weight": 3
+    },
+    {
+      "source": "CI/CD",
+      "target": "MongoDB",
+      "weight": 3
+    },
+    {
+      "source": "Git",
+      "target": "AWS",
+      "weight": 10
+    },
+    {
+      "source": "Git",
+      "target": "MongoDB",
+      "weight": 12
+    },
+    {
+      "source": "Git",
+      "target": "PHP",
+      "weight": 6
+    },
+    {
+      "source": "Git",
+      "target": "REST API",
+      "weight": 19
+    },
+    {
+      "source": "Git",
+      "target": "jQuery",
+      "weight": 13
+    },
+    {
+      "source": "Git",
+      "target": "Node.js",
+      "weight": 8
+    },
+    {
+      "source": "Git",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "Git",
+      "target": "Cassandra",
+      "weight": 6
+    },
+    {
+      "source": "Git",
+      "target": "Azure",
+      "weight": 6
+    },
+    {
+      "source": "Git",
+      "target": "Angular",
+      "weight": 13
+    },
+    {
+      "source": "Git",
+      "target": "Agile",
+      "weight": 7
+    },
+    {
+      "source": "Git",
+      "target": "CSS",
+      "weight": 18
+    },
+    {
+      "source": "Git",
+      "target": "C",
+      "weight": 4
+    },
+    {
+      "source": "Git",
+      "target": "React",
+      "weight": 4
+    },
+    {
+      "source": "C",
+      "target": "Cassandra",
+      "weight": 11
+    },
+    {
+      "source": "C",
+      "target": "Data Mining",
+      "weight": 4
+    },
+    {
+      "source": "C",
+      "target": "ASP.NET",
+      "weight": 108
+    },
+    {
+      "source": "C",
+      "target": "C#",
+      "weight": 181
+    },
+    {
+      "source": "C",
+      "target": "C++",
+      "weight": 215
+    },
+    {
+      "source": "C",
+      "target": "Computer Vision",
+      "weight": 17
+    },
+    {
+      "source": "C",
+      "target": "Deep Learning",
+      "weight": 18
+    },
+    {
+      "source": "C",
+      "target": "jQuery",
+      "weight": 37
+    },
+    {
+      "source": "C",
+      "target": "Agile",
+      "weight": 15
+    },
+    {
+      "source": "C",
+      "target": "Azure",
+      "weight": 18
+    },
+    {
+      "source": "C",
+      "target": "Swift",
+      "weight": 24
+    },
+    {
+      "source": "C",
+      "target": "PHP",
+      "weight": 13
+    },
+    {
+      "source": "C",
+      "target": "CSS",
+      "weight": 28
+    },
+    {
+      "source": "C",
+      "target": "Angular",
+      "weight": 12
+    },
+    {
+      "source": "C",
+      "target": "Bootstrap",
+      "weight": 6
+    },
+    {
+      "source": "C",
+      "target": "AWS",
+      "weight": 4
+    },
+    {
+      "source": "C",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "C",
+      "target": "REST API",
+      "weight": 31
+    },
+    {
+      "source": "C",
+      "target": "Node.js",
+      "weight": 7
+    },
+    {
+      "source": "C",
+      "target": "Tableau",
+      "weight": 6
+    },
+    {
+      "source": "C",
+      "target": "Go",
+      "weight": 4
+    },
+    {
+      "source": "C#",
+      "target": "ASP.NET",
+      "weight": 104
+    },
+    {
+      "source": "C#",
+      "target": "jQuery",
+      "weight": 34
+    },
+    {
+      "source": "C#",
+      "target": "Agile",
+      "weight": 3
+    },
+    {
+      "source": "C#",
+      "target": "Azure",
+      "weight": 15
+    },
+    {
+      "source": "C#",
+      "target": "PHP",
+      "weight": 7
+    },
+    {
+      "source": "C#",
+      "target": "CSS",
+      "weight": 19
+    },
+    {
+      "source": "C#",
+      "target": "Angular",
+      "weight": 8
+    },
+    {
+      "source": "C#",
+      "target": "C++",
+      "weight": 31
+    },
+    {
+      "source": "C#",
+      "target": "Bootstrap",
+      "weight": 5
+    },
+    {
+      "source": "C#",
+      "target": "Cassandra",
+      "weight": 3
+    },
+    {
+      "source": "C#",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "C#",
+      "target": "REST API",
+      "weight": 21
+    },
+    {
+      "source": "C#",
+      "target": "Node.js",
+      "weight": 6
+    },
+    {
+      "source": "C++",
+      "target": "Computer Vision",
+      "weight": 16
+    },
+    {
+      "source": "C++",
+      "target": "Deep Learning",
+      "weight": 15
+    },
+    {
+      "source": "C++",
+      "target": "PHP",
+      "weight": 8
+    },
+    {
+      "source": "C++",
+      "target": "ASP.NET",
+      "weight": 8
+    },
+    {
+      "source": "C++",
+      "target": "Agile",
+      "weight": 6
+    },
+    {
+      "source": "C++",
+      "target": "CSS",
+      "weight": 6
+    },
+    {
+      "source": "C++",
+      "target": "REST API",
+      "weight": 6
+    },
+    {
+      "source": "C++",
+      "target": "Cassandra",
+      "weight": 3
+    },
+    {
+      "source": "C++",
+      "target": "Go",
+      "weight": 3
+    },
+    {
+      "source": "AWS",
+      "target": "MongoDB",
+      "weight": 19
+    },
+    {
+      "source": "AWS",
+      "target": "PHP",
+      "weight": 9
+    },
+    {
+      "source": "AWS",
+      "target": "REST API",
+      "weight": 26
+    },
+    {
+      "source": "AWS",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "AWS",
+      "target": "Node.js",
+      "weight": 13
+    },
+    {
+      "source": "AWS",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "AWS",
+      "target": "Cassandra",
+      "weight": 3
+    },
+    {
+      "source": "AWS",
+      "target": "Angular",
+      "weight": 7
+    },
+    {
+      "source": "AWS",
+      "target": "Azure",
+      "weight": 21
+    },
+    {
+      "source": "AWS",
+      "target": "Google Cloud Platform",
+      "weight": 4
+    },
+    {
+      "source": "AWS",
+      "target": "Agile",
+      "weight": 8
+    },
+    {
+      "source": "AWS",
+      "target": "Django",
+      "weight": 5
+    },
+    {
+      "source": "AWS",
+      "target": "React",
+      "weight": 3
+    },
+    {
+      "source": "AWS",
+      "target": "Elasticsearch",
+      "weight": 3
+    },
+    {
+      "source": "Azure",
+      "target": "Power BI",
+      "weight": 3
+    },
+    {
+      "source": "Azure",
+      "target": "PHP",
+      "weight": 5
+    },
+    {
+      "source": "Azure",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "Azure",
+      "target": "Agile",
+      "weight": 4
+    },
+    {
+      "source": "Azure",
+      "target": "Cassandra",
+      "weight": 4
+    },
+    {
+      "source": "Azure",
+      "target": "MongoDB",
+      "weight": 9
+    },
+    {
+      "source": "Azure",
+      "target": "REST API",
+      "weight": 16
+    },
+    {
+      "source": "Azure",
+      "target": "Google Cloud Platform",
+      "weight": 4
+    },
+    {
+      "source": "Azure",
+      "target": "ASP.NET",
+      "weight": 12
+    },
+    {
+      "source": "Azure",
+      "target": "Angular",
+      "weight": 4
+    },
+    {
+      "source": "Azure",
+      "target": "CSS",
+      "weight": 7
+    },
+    {
+      "source": "Azure",
+      "target": "Node.js",
+      "weight": 4
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Computer Vision",
+      "weight": 23
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Data Mining",
+      "weight": 8
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Keras",
+      "weight": 3
+    },
+    {
+      "source": "Deep Learning",
+      "target": "TensorFlow",
+      "weight": 6
+    },
+    {
+      "source": "Deep Learning",
+      "target": "PyTorch",
+      "weight": 3
+    },
+    {
+      "source": "Agile",
+      "target": "Product Management",
+      "weight": 8
+    },
+    {
+      "source": "Agile",
+      "target": "REST API",
+      "weight": 14
+    },
+    {
+      "source": "Agile",
+      "target": "CSS",
+      "weight": 8
+    },
+    {
+      "source": "Agile",
+      "target": "Node.js",
+      "weight": 5
+    },
+    {
+      "source": "Agile",
+      "target": "Spring Boot",
+      "weight": 6
+    },
+    {
+      "source": "Agile",
+      "target": "ASP.NET",
+      "weight": 3
+    },
+    {
+      "source": "Agile",
+      "target": "React",
+      "weight": 4
+    },
+    {
+      "source": "Agile",
+      "target": "MongoDB",
+      "weight": 3
+    },
+    {
+      "source": "Agile",
+      "target": "jQuery",
+      "weight": 4
+    },
+    {
+      "source": "Agile",
+      "target": "Angular",
+      "weight": 9
+    },
+    {
+      "source": "Product Management",
+      "target": "Tableau",
+      "weight": 3
+    },
+    {
+      "source": "Angular",
+      "target": "Node.js",
+      "weight": 26
+    },
+    {
+      "source": "Angular",
+      "target": "PHP",
+      "weight": 16
+    },
+    {
+      "source": "Angular",
+      "target": "CSS",
+      "weight": 45
+    },
+    {
+      "source": "Angular",
+      "target": "jQuery",
+      "weight": 35
+    },
+    {
+      "source": "Angular",
+      "target": "REST API",
+      "weight": 24
+    },
+    {
+      "source": "Angular",
+      "target": "MongoDB",
+      "weight": 16
+    },
+    {
+      "source": "Angular",
+      "target": "Bootstrap",
+      "weight": 17
+    },
+    {
+      "source": "Angular",
+      "target": "ASP.NET",
+      "weight": 12
+    },
+    {
+      "source": "Angular",
+      "target": "Spring Boot",
+      "weight": 5
+    },
+    {
+      "source": "Angular",
+      "target": "Django",
+      "weight": 10
+    },
+    {
+      "source": "Angular",
+      "target": "React",
+      "weight": 10
+    },
+    {
+      "source": "Angular",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "CSS",
+      "target": "jQuery",
+      "weight": 105
+    },
+    {
+      "source": "CSS",
+      "target": "REST API",
+      "weight": 34
+    },
+    {
+      "source": "CSS",
+      "target": "PHP",
+      "weight": 41
+    },
+    {
+      "source": "CSS",
+      "target": "Bootstrap",
+      "weight": 29
+    },
+    {
+      "source": "CSS",
+      "target": "MongoDB",
+      "weight": 9
+    },
+    {
+      "source": "CSS",
+      "target": "Node.js",
+      "weight": 28
+    },
+    {
+      "source": "CSS",
+      "target": "ASP.NET",
+      "weight": 20
+    },
+    {
+      "source": "CSS",
+      "target": "React",
+      "weight": 13
+    },
+    {
+      "source": "CSS",
+      "target": "Spring Boot",
+      "weight": 4
+    },
+    {
+      "source": "CSS",
+      "target": "Computer Vision",
+      "weight": 4
+    },
+    {
+      "source": "CSS",
+      "target": "Django",
+      "weight": 4
+    },
+    {
+      "source": "CSS",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "React",
+      "target": "Node.js",
+      "weight": 13
+    },
+    {
+      "source": "React",
+      "target": "REST API",
+      "weight": 9
+    },
+    {
+      "source": "REST API",
+      "target": "MongoDB",
+      "weight": 29
+    },
+    {
+      "source": "REST API",
+      "target": "PHP",
+      "weight": 18
+    },
+    {
+      "source": "REST API",
+      "target": "jQuery",
+      "weight": 31
+    },
+    {
+      "source": "REST API",
+      "target": "Node.js",
+      "weight": 26
+    },
+    {
+      "source": "REST API",
+      "target": "Spring Boot",
+      "weight": 25
+    },
+    {
+      "source": "REST API",
+      "target": "Django",
+      "weight": 7
+    },
+    {
+      "source": "REST API",
+      "target": "ASP.NET",
+      "weight": 17
+    },
+    {
+      "source": "REST API",
+      "target": "Cassandra",
+      "weight": 6
+    },
+    {
+      "source": "REST API",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "REST API",
+      "target": "Bootstrap",
+      "weight": 5
+    },
+    {
+      "source": "REST API",
+      "target": "Swift",
+      "weight": 3
+    },
+    {
+      "source": "Computer Vision",
+      "target": "PHP",
+      "weight": 3
+    },
+    {
+      "source": "Data Mining",
+      "target": "Cassandra",
+      "weight": 4
+    },
+    {
+      "source": "Data Mining",
+      "target": "Tableau",
+      "weight": 8
+    },
+    {
+      "source": "Data Mining",
+      "target": "NumPy",
+      "weight": 3
+    },
+    {
+      "source": "Tableau",
+      "target": "Power BI",
+      "weight": 33
+    },
+    {
+      "source": "Tableau",
+      "target": "MongoDB",
+      "weight": 3
+    },
+    {
+      "source": "ASP.NET",
+      "target": "jQuery",
+      "weight": 44
+    },
+    {
+      "source": "ASP.NET",
+      "target": "Bootstrap",
+      "weight": 5
+    },
+    {
+      "source": "ASP.NET",
+      "target": "Node.js",
+      "weight": 4
+    },
+    {
+      "source": "Django",
+      "target": "Flask",
+      "weight": 5
+    },
+    {
+      "source": "Django",
+      "target": "MongoDB",
+      "weight": 19
+    },
+    {
+      "source": "Django",
+      "target": "jQuery",
+      "weight": 3
+    },
+    {
+      "source": "Django",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "Django",
+      "target": "PHP",
+      "weight": 4
+    },
+    {
+      "source": "MongoDB",
+      "target": "PHP",
+      "weight": 18
+    },
+    {
+      "source": "MongoDB",
+      "target": "jQuery",
+      "weight": 5
+    },
+    {
+      "source": "MongoDB",
+      "target": "Cassandra",
+      "weight": 24
+    },
+    {
+      "source": "MongoDB",
+      "target": "Node.js",
+      "weight": 21
+    },
+    {
+      "source": "MongoDB",
+      "target": "PostgreSQL",
+      "weight": 8
+    },
+    {
+      "source": "MongoDB",
+      "target": "Spring Boot",
+      "weight": 4
+    },
+    {
+      "source": "Cassandra",
+      "target": "PostgreSQL",
+      "weight": 5
+    },
+    {
+      "source": "Cassandra",
+      "target": "NumPy",
+      "weight": 7
+    },
+    {
+      "source": "Spring Boot",
+      "target": "jQuery",
+      "weight": 4
+    },
+    {
+      "source": "jQuery",
+      "target": "PHP",
+      "weight": 35
+    },
+    {
+      "source": "jQuery",
+      "target": "Bootstrap",
+      "weight": 22
+    },
+    {
+      "source": "jQuery",
+      "target": "Node.js",
+      "weight": 13
+    },
+    {
+      "source": "Node.js",
+      "target": "PHP",
+      "weight": 18
+    },
+    {
+      "source": "Node.js",
+      "target": "PostgreSQL",
+      "weight": 9
+    },
+    {
+      "source": "Node.js",
+      "target": "Bootstrap",
+      "weight": 3
+    },
+    {
+      "source": "Bootstrap",
+      "target": "PHP",
+      "weight": 5
+    },
+    {
+      "source": "PHP",
+      "target": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "source": "PyTorch",
+      "target": "TensorFlow",
+      "weight": 9
+    },
+    {
+      "source": "PyTorch",
+      "target": "Keras",
+      "weight": 3
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Keras",
+      "weight": 6
+    },
+    {
+      "source": "NumPy",
+      "target": "Pandas",
+      "weight": 4
+    }
+  ]
+}
