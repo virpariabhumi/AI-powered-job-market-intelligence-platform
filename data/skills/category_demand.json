@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Data Science & AI",
+    "total_mentions": 5724,
+    "share_pct": 26.27
+  },
+  {
+    "category": "Management & Soft Skills",
+    "total_mentions": 4646,
+    "share_pct": 21.32
+  },
+  {
+    "category": "Programming Languages",
+    "total_mentions": 4259,
+    "share_pct": 19.55
+  },
+  {
+    "category": "Databases & Storage",
+    "total_mentions": 2626,
+    "share_pct": 12.05
+  },
+  {
+    "category": "BI & Analytics Tools",
+    "total_mentions": 2045,
+    "share_pct": 9.39
+  },
+  {
+    "category": "Web & Frameworks",
+    "total_mentions": 1727,
+    "share_pct": 7.93
+  },
+  {
+    "category": "Cloud & DevOps",
+    "total_mentions": 761,
+    "share_pct": 3.49
+  }
+]

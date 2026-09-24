@@ -1,0 +1,1186 @@
+{
+  "Cybersecurity Analyst": [
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 4,
+      "role_demand_pct": 28.57
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 3,
+      "role_demand_pct": 21.43
+    },
+    {
+      "skill": "Communication",
+      "category": "Management & Soft Skills",
+      "postings_count": 2,
+      "role_demand_pct": 14.29
+    },
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 2,
+      "role_demand_pct": 14.29
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 2,
+      "role_demand_pct": 14.29
+    },
+    {
+      "skill": "Apache Spark",
+      "category": "Data Science & AI",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "Algorithms",
+      "category": "Data Science & AI",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "AWS",
+      "category": "Cloud & DevOps",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "Azure",
+      "category": "Cloud & DevOps",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "Data Science",
+      "category": "Data Science & AI",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "Hive",
+      "category": "Databases & Storage",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 1,
+      "role_demand_pct": 7.14
+    }
+  ],
+  "Business Analyst": [
+    {
+      "skill": "Business Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 419,
+      "role_demand_pct": 71.14
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 125,
+      "role_demand_pct": 21.22
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 93,
+      "role_demand_pct": 15.79
+    },
+    {
+      "skill": "Excel",
+      "category": "BI & Analytics Tools",
+      "postings_count": 73,
+      "role_demand_pct": 12.39
+    },
+    {
+      "skill": "Financial Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 71,
+      "role_demand_pct": 12.05
+    },
+    {
+      "skill": "Project Management",
+      "category": "Management & Soft Skills",
+      "postings_count": 52,
+      "role_demand_pct": 8.83
+    },
+    {
+      "skill": "SAS",
+      "category": "Data Science & AI",
+      "postings_count": 44,
+      "role_demand_pct": 7.47
+    },
+    {
+      "skill": "Agile",
+      "category": "Management & Soft Skills",
+      "postings_count": 43,
+      "role_demand_pct": 7.3
+    },
+    {
+      "skill": "Communication",
+      "category": "Management & Soft Skills",
+      "postings_count": 41,
+      "role_demand_pct": 6.96
+    },
+    {
+      "skill": "R",
+      "category": "Programming Languages",
+      "postings_count": 36,
+      "role_demand_pct": 6.11
+    },
+    {
+      "skill": "Problem Solving",
+      "category": "Management & Soft Skills",
+      "postings_count": 32,
+      "role_demand_pct": 5.43
+    },
+    {
+      "skill": "Oracle",
+      "category": "Databases & Storage",
+      "postings_count": 28,
+      "role_demand_pct": 4.75
+    }
+  ],
+  "Data Analyst": [
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 176,
+      "role_demand_pct": 70.4
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 105,
+      "role_demand_pct": 42.0
+    },
+    {
+      "skill": "Excel",
+      "category": "BI & Analytics Tools",
+      "postings_count": 68,
+      "role_demand_pct": 27.2
+    },
+    {
+      "skill": "Tableau",
+      "category": "BI & Analytics Tools",
+      "postings_count": 40,
+      "role_demand_pct": 16.0
+    },
+    {
+      "skill": "R",
+      "category": "Programming Languages",
+      "postings_count": 35,
+      "role_demand_pct": 14.0
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 33,
+      "role_demand_pct": 13.2
+    },
+    {
+      "skill": "SAS",
+      "category": "Data Science & AI",
+      "postings_count": 29,
+      "role_demand_pct": 11.6
+    },
+    {
+      "skill": "Data Mining",
+      "category": "Data Science & AI",
+      "postings_count": 21,
+      "role_demand_pct": 8.4
+    },
+    {
+      "skill": "Power BI",
+      "category": "BI & Analytics Tools",
+      "postings_count": 21,
+      "role_demand_pct": 8.4
+    },
+    {
+      "skill": "Business Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 14,
+      "role_demand_pct": 5.6
+    },
+    {
+      "skill": "Communication",
+      "category": "Management & Soft Skills",
+      "postings_count": 14,
+      "role_demand_pct": 5.6
+    },
+    {
+      "skill": "MySQL",
+      "category": "Databases & Storage",
+      "postings_count": 12,
+      "role_demand_pct": 4.8
+    }
+  ],
+  "Data Scientist": [
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 176,
+      "role_demand_pct": 54.66
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 174,
+      "role_demand_pct": 54.04
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 156,
+      "role_demand_pct": 48.45
+    },
+    {
+      "skill": "R",
+      "category": "Programming Languages",
+      "postings_count": 149,
+      "role_demand_pct": 46.27
+    },
+    {
+      "skill": "Data Science",
+      "category": "Data Science & AI",
+      "postings_count": 146,
+      "role_demand_pct": 45.34
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 77,
+      "role_demand_pct": 23.91
+    },
+    {
+      "skill": "Deep Learning",
+      "category": "Data Science & AI",
+      "postings_count": 62,
+      "role_demand_pct": 19.25
+    },
+    {
+      "skill": "SAS",
+      "category": "Data Science & AI",
+      "postings_count": 60,
+      "role_demand_pct": 18.63
+    },
+    {
+      "skill": "Natural Language Processing",
+      "category": "Data Science & AI",
+      "postings_count": 51,
+      "role_demand_pct": 15.84
+    },
+    {
+      "skill": "Hadoop",
+      "category": "Data Science & AI",
+      "postings_count": 47,
+      "role_demand_pct": 14.6
+    },
+    {
+      "skill": "Data Mining",
+      "category": "Data Science & AI",
+      "postings_count": 45,
+      "role_demand_pct": 13.98
+    },
+    {
+      "skill": "Algorithms",
+      "category": "Data Science & AI",
+      "postings_count": 43,
+      "role_demand_pct": 13.35
+    }
+  ],
+  "Digital Marketing Specialist": [
+    {
+      "skill": "SEM",
+      "category": "BI & Analytics Tools",
+      "postings_count": 319,
+      "role_demand_pct": 77.62
+    },
+    {
+      "skill": "SEO",
+      "category": "BI & Analytics Tools",
+      "postings_count": 294,
+      "role_demand_pct": 71.53
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 152,
+      "role_demand_pct": 36.98
+    },
+    {
+      "skill": "Google Analytics",
+      "category": "BI & Analytics Tools",
+      "postings_count": 114,
+      "role_demand_pct": 27.74
+    },
+    {
+      "skill": "Communication",
+      "category": "Management & Soft Skills",
+      "postings_count": 16,
+      "role_demand_pct": 3.89
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 15,
+      "role_demand_pct": 3.65
+    },
+    {
+      "skill": "CSS",
+      "category": "Web & Frameworks",
+      "postings_count": 9,
+      "role_demand_pct": 2.19
+    },
+    {
+      "skill": "Project Management",
+      "category": "Management & Soft Skills",
+      "postings_count": 4,
+      "role_demand_pct": 0.97
+    },
+    {
+      "skill": "Problem Solving",
+      "category": "Management & Soft Skills",
+      "postings_count": 4,
+      "role_demand_pct": 0.97
+    },
+    {
+      "skill": "PHP",
+      "category": "Programming Languages",
+      "postings_count": 4,
+      "role_demand_pct": 0.97
+    },
+    {
+      "skill": "Excel",
+      "category": "BI & Analytics Tools",
+      "postings_count": 3,
+      "role_demand_pct": 0.73
+    },
+    {
+      "skill": "Leadership",
+      "category": "Management & Soft Skills",
+      "postings_count": 3,
+      "role_demand_pct": 0.73
+    }
+  ],
+  "Project Manager": [
+    {
+      "skill": "Project Management",
+      "category": "Management & Soft Skills",
+      "postings_count": 85,
+      "role_demand_pct": 62.5
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 37,
+      "role_demand_pct": 27.21
+    },
+    {
+      "skill": "Agile",
+      "category": "Management & Soft Skills",
+      "postings_count": 17,
+      "role_demand_pct": 12.5
+    },
+    {
+      "skill": "SAS",
+      "category": "Data Science & AI",
+      "postings_count": 14,
+      "role_demand_pct": 10.29
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 11,
+      "role_demand_pct": 8.09
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 9,
+      "role_demand_pct": 6.62
+    },
+    {
+      "skill": "Business Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 8,
+      "role_demand_pct": 5.88
+    },
+    {
+      "skill": "Financial Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 8,
+      "role_demand_pct": 5.88
+    },
+    {
+      "skill": "Excel",
+      "category": "BI & Analytics Tools",
+      "postings_count": 7,
+      "role_demand_pct": 5.15
+    },
+    {
+      "skill": "Leadership",
+      "category": "Management & Soft Skills",
+      "postings_count": 5,
+      "role_demand_pct": 3.68
+    },
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 5,
+      "role_demand_pct": 3.68
+    },
+    {
+      "skill": "ASP.NET",
+      "category": "Web & Frameworks",
+      "postings_count": 5,
+      "role_demand_pct": 3.68
+    }
+  ],
+  "Machine Learning Engineer": [
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 207,
+      "role_demand_pct": 97.18
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 114,
+      "role_demand_pct": 53.52
+    },
+    {
+      "skill": "Natural Language Processing",
+      "category": "Data Science & AI",
+      "postings_count": 68,
+      "role_demand_pct": 31.92
+    },
+    {
+      "skill": "R",
+      "category": "Programming Languages",
+      "postings_count": 66,
+      "role_demand_pct": 30.99
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 64,
+      "role_demand_pct": 30.05
+    },
+    {
+      "skill": "Deep Learning",
+      "category": "Data Science & AI",
+      "postings_count": 61,
+      "role_demand_pct": 28.64
+    },
+    {
+      "skill": "Algorithms",
+      "category": "Data Science & AI",
+      "postings_count": 47,
+      "role_demand_pct": 22.07
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 42,
+      "role_demand_pct": 19.72
+    },
+    {
+      "skill": "Data Science",
+      "category": "Data Science & AI",
+      "postings_count": 41,
+      "role_demand_pct": 19.25
+    },
+    {
+      "skill": "Data Mining",
+      "category": "Data Science & AI",
+      "postings_count": 32,
+      "role_demand_pct": 15.02
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 30,
+      "role_demand_pct": 14.08
+    },
+    {
+      "skill": "C++",
+      "category": "Programming Languages",
+      "postings_count": 28,
+      "role_demand_pct": 13.15
+    }
+  ],
+  "Data Engineer": [
+    {
+      "skill": "Hadoop",
+      "category": "Data Science & AI",
+      "postings_count": 220,
+      "role_demand_pct": 85.27
+    },
+    {
+      "skill": "Apache Spark",
+      "category": "Data Science & AI",
+      "postings_count": 102,
+      "role_demand_pct": 39.53
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 85,
+      "role_demand_pct": 32.95
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 83,
+      "role_demand_pct": 32.17
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 77,
+      "role_demand_pct": 29.84
+    },
+    {
+      "skill": "Hive",
+      "category": "Databases & Storage",
+      "postings_count": 69,
+      "role_demand_pct": 26.74
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 68,
+      "role_demand_pct": 26.36
+    },
+    {
+      "skill": "NoSQL",
+      "category": "Databases & Storage",
+      "postings_count": 42,
+      "role_demand_pct": 16.28
+    },
+    {
+      "skill": "Scala",
+      "category": "Programming Languages",
+      "postings_count": 36,
+      "role_demand_pct": 13.95
+    },
+    {
+      "skill": "R",
+      "category": "Programming Languages",
+      "postings_count": 26,
+      "role_demand_pct": 10.08
+    },
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 24,
+      "role_demand_pct": 9.3
+    },
+    {
+      "skill": "Cassandra",
+      "category": "Databases & Storage",
+      "postings_count": 22,
+      "role_demand_pct": 8.53
+    }
+  ],
+  "Software Engineer": [
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 84,
+      "role_demand_pct": 34.01
+    },
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 67,
+      "role_demand_pct": 27.13
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 62,
+      "role_demand_pct": 25.1
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 49,
+      "role_demand_pct": 19.84
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 36,
+      "role_demand_pct": 14.57
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 34,
+      "role_demand_pct": 13.77
+    },
+    {
+      "skill": "ASP.NET",
+      "category": "Web & Frameworks",
+      "postings_count": 30,
+      "role_demand_pct": 12.15
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 27,
+      "role_demand_pct": 10.93
+    },
+    {
+      "skill": "jQuery",
+      "category": "Web & Frameworks",
+      "postings_count": 26,
+      "role_demand_pct": 10.53
+    },
+    {
+      "skill": "SQL Server",
+      "category": "Databases & Storage",
+      "postings_count": 25,
+      "role_demand_pct": 10.12
+    },
+    {
+      "skill": "C#",
+      "category": "Programming Languages",
+      "postings_count": 24,
+      "role_demand_pct": 9.72
+    },
+    {
+      "skill": "Linux",
+      "category": "Cloud & DevOps",
+      "postings_count": 22,
+      "role_demand_pct": 8.91
+    }
+  ],
+  "DevOps / Cloud Engineer": [
+    {
+      "skill": "Ansible",
+      "category": "Cloud & DevOps",
+      "postings_count": 28,
+      "role_demand_pct": 42.42
+    },
+    {
+      "skill": "Linux",
+      "category": "Cloud & DevOps",
+      "postings_count": 27,
+      "role_demand_pct": 40.91
+    },
+    {
+      "skill": "AWS",
+      "category": "Cloud & DevOps",
+      "postings_count": 23,
+      "role_demand_pct": 34.85
+    },
+    {
+      "skill": "Docker",
+      "category": "Cloud & DevOps",
+      "postings_count": 20,
+      "role_demand_pct": 30.3
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 19,
+      "role_demand_pct": 28.79
+    },
+    {
+      "skill": "CI/CD",
+      "category": "Cloud & DevOps",
+      "postings_count": 18,
+      "role_demand_pct": 27.27
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 16,
+      "role_demand_pct": 24.24
+    },
+    {
+      "skill": "Azure",
+      "category": "Cloud & DevOps",
+      "postings_count": 15,
+      "role_demand_pct": 22.73
+    },
+    {
+      "skill": "MongoDB",
+      "category": "Databases & Storage",
+      "postings_count": 10,
+      "role_demand_pct": 15.15
+    },
+    {
+      "skill": "MySQL",
+      "category": "Databases & Storage",
+      "postings_count": 10,
+      "role_demand_pct": 15.15
+    },
+    {
+      "skill": "Ruby",
+      "category": "Programming Languages",
+      "postings_count": 9,
+      "role_demand_pct": 13.64
+    },
+    {
+      "skill": "Git",
+      "category": "Cloud & DevOps",
+      "postings_count": 9,
+      "role_demand_pct": 13.64
+    }
+  ],
+  "Product Manager": [
+    {
+      "skill": "Product Management",
+      "category": "Management & Soft Skills",
+      "postings_count": 124,
+      "role_demand_pct": 81.58
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 33,
+      "role_demand_pct": 21.71
+    },
+    {
+      "skill": "Project Management",
+      "category": "Management & Soft Skills",
+      "postings_count": 8,
+      "role_demand_pct": 5.26
+    },
+    {
+      "skill": "Agile",
+      "category": "Management & Soft Skills",
+      "postings_count": 8,
+      "role_demand_pct": 5.26
+    },
+    {
+      "skill": "Financial Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 8,
+      "role_demand_pct": 5.26
+    },
+    {
+      "skill": "Machine Learning",
+      "category": "Data Science & AI",
+      "postings_count": 6,
+      "role_demand_pct": 3.95
+    },
+    {
+      "skill": "Business Analysis",
+      "category": "Management & Soft Skills",
+      "postings_count": 5,
+      "role_demand_pct": 3.29
+    },
+    {
+      "skill": "Natural Language Processing",
+      "category": "Data Science & AI",
+      "postings_count": 5,
+      "role_demand_pct": 3.29
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 5,
+      "role_demand_pct": 3.29
+    },
+    {
+      "skill": "Leadership",
+      "category": "Management & Soft Skills",
+      "postings_count": 4,
+      "role_demand_pct": 2.63
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 4,
+      "role_demand_pct": 2.63
+    },
+    {
+      "skill": "Excel",
+      "category": "BI & Analytics Tools",
+      "postings_count": 3,
+      "role_demand_pct": 1.97
+    }
+  ],
+  "Mobile App Developer": [
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 40,
+      "role_demand_pct": 51.28
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 24,
+      "role_demand_pct": 30.77
+    },
+    {
+      "skill": "Swift",
+      "category": "Programming Languages",
+      "postings_count": 18,
+      "role_demand_pct": 23.08
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 17,
+      "role_demand_pct": 21.79
+    },
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 13,
+      "role_demand_pct": 16.67
+    },
+    {
+      "skill": "Algorithms",
+      "category": "Data Science & AI",
+      "postings_count": 9,
+      "role_demand_pct": 11.54
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 8,
+      "role_demand_pct": 10.26
+    },
+    {
+      "skill": "Problem Solving",
+      "category": "Management & Soft Skills",
+      "postings_count": 7,
+      "role_demand_pct": 8.97
+    },
+    {
+      "skill": "PHP",
+      "category": "Programming Languages",
+      "postings_count": 6,
+      "role_demand_pct": 7.69
+    },
+    {
+      "skill": "Node.js",
+      "category": "Web & Frameworks",
+      "postings_count": 6,
+      "role_demand_pct": 7.69
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 6,
+      "role_demand_pct": 7.69
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 6,
+      "role_demand_pct": 7.69
+    }
+  ],
+  "Backend Developer": [
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 90,
+      "role_demand_pct": 60.4
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 38,
+      "role_demand_pct": 25.5
+    },
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 32,
+      "role_demand_pct": 21.48
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 31,
+      "role_demand_pct": 20.81
+    },
+    {
+      "skill": "Algorithms",
+      "category": "Data Science & AI",
+      "postings_count": 26,
+      "role_demand_pct": 17.45
+    },
+    {
+      "skill": "MySQL",
+      "category": "Databases & Storage",
+      "postings_count": 23,
+      "role_demand_pct": 15.44
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 20,
+      "role_demand_pct": 13.42
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 17,
+      "role_demand_pct": 11.41
+    },
+    {
+      "skill": "Oracle",
+      "category": "Databases & Storage",
+      "postings_count": 14,
+      "role_demand_pct": 9.4
+    },
+    {
+      "skill": "Redis",
+      "category": "Databases & Storage",
+      "postings_count": 14,
+      "role_demand_pct": 9.4
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 14,
+      "role_demand_pct": 9.4
+    },
+    {
+      "skill": "jQuery",
+      "category": "Web & Frameworks",
+      "postings_count": 14,
+      "role_demand_pct": 9.4
+    }
+  ],
+  "Full Stack Developer": [
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 65,
+      "role_demand_pct": 68.42
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 51,
+      "role_demand_pct": 53.68
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 32,
+      "role_demand_pct": 33.68
+    },
+    {
+      "skill": "Angular",
+      "category": "Web & Frameworks",
+      "postings_count": 30,
+      "role_demand_pct": 31.58
+    },
+    {
+      "skill": "Node.js",
+      "category": "Web & Frameworks",
+      "postings_count": 26,
+      "role_demand_pct": 27.37
+    },
+    {
+      "skill": "CSS",
+      "category": "Web & Frameworks",
+      "postings_count": 24,
+      "role_demand_pct": 25.26
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 23,
+      "role_demand_pct": 24.21
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 21,
+      "role_demand_pct": 22.11
+    },
+    {
+      "skill": "jQuery",
+      "category": "Web & Frameworks",
+      "postings_count": 21,
+      "role_demand_pct": 22.11
+    },
+    {
+      "skill": "PHP",
+      "category": "Programming Languages",
+      "postings_count": 16,
+      "role_demand_pct": 16.84
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 15,
+      "role_demand_pct": 15.79
+    },
+    {
+      "skill": "MySQL",
+      "category": "Databases & Storage",
+      "postings_count": 14,
+      "role_demand_pct": 14.74
+    }
+  ],
+  "QA / Test Engineer": [
+    {
+      "skill": "Communication",
+      "category": "Management & Soft Skills",
+      "postings_count": 24,
+      "role_demand_pct": 21.24
+    },
+    {
+      "skill": "SQL",
+      "category": "Databases & Storage",
+      "postings_count": 19,
+      "role_demand_pct": 16.81
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 16,
+      "role_demand_pct": 14.16
+    },
+    {
+      "skill": "Linux",
+      "category": "Cloud & DevOps",
+      "postings_count": 13,
+      "role_demand_pct": 11.5
+    },
+    {
+      "skill": "Agile",
+      "category": "Management & Soft Skills",
+      "postings_count": 13,
+      "role_demand_pct": 11.5
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 12,
+      "role_demand_pct": 10.62
+    },
+    {
+      "skill": "Problem Solving",
+      "category": "Management & Soft Skills",
+      "postings_count": 11,
+      "role_demand_pct": 9.73
+    },
+    {
+      "skill": "Python",
+      "category": "Programming Languages",
+      "postings_count": 10,
+      "role_demand_pct": 8.85
+    },
+    {
+      "skill": "C",
+      "category": "Programming Languages",
+      "postings_count": 8,
+      "role_demand_pct": 7.08
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 7,
+      "role_demand_pct": 6.19
+    },
+    {
+      "skill": "Data Analysis",
+      "category": "Data Science & AI",
+      "postings_count": 7,
+      "role_demand_pct": 6.19
+    },
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 5,
+      "role_demand_pct": 4.42
+    }
+  ],
+  "Frontend Developer": [
+    {
+      "skill": "JavaScript",
+      "category": "Programming Languages",
+      "postings_count": 39,
+      "role_demand_pct": 76.47
+    },
+    {
+      "skill": "HTML",
+      "category": "Web & Frameworks",
+      "postings_count": 35,
+      "role_demand_pct": 68.63
+    },
+    {
+      "skill": "CSS",
+      "category": "Web & Frameworks",
+      "postings_count": 30,
+      "role_demand_pct": 58.82
+    },
+    {
+      "skill": "jQuery",
+      "category": "Web & Frameworks",
+      "postings_count": 17,
+      "role_demand_pct": 33.33
+    },
+    {
+      "skill": "Angular",
+      "category": "Web & Frameworks",
+      "postings_count": 17,
+      "role_demand_pct": 33.33
+    },
+    {
+      "skill": "React",
+      "category": "Web & Frameworks",
+      "postings_count": 8,
+      "role_demand_pct": 15.69
+    },
+    {
+      "skill": "Git",
+      "category": "Cloud & DevOps",
+      "postings_count": 8,
+      "role_demand_pct": 15.69
+    },
+    {
+      "skill": "REST API",
+      "category": "Web & Frameworks",
+      "postings_count": 6,
+      "role_demand_pct": 11.76
+    },
+    {
+      "skill": "Bootstrap",
+      "category": "Web & Frameworks",
+      "postings_count": 6,
+      "role_demand_pct": 11.76
+    },
+    {
+      "skill": "PHP",
+      "category": "Programming Languages",
+      "postings_count": 5,
+      "role_demand_pct": 9.8
+    },
+    {
+      "skill": "Node.js",
+      "category": "Web & Frameworks",
+      "postings_count": 5,
+      "role_demand_pct": 9.8
+    },
+    {
+      "skill": "Java",
+      "category": "Programming Languages",
+      "postings_count": 4,
+      "role_demand_pct": 7.84
+    }
+  ]
+}

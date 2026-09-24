@@ -1,0 +1,127 @@
+[
+  {
+    "skill": "Data Analysis",
+    "postings_count": 2534,
+    "market_share_pct": 20.79
+  },
+  {
+    "skill": "Financial Analysis",
+    "postings_count": 1495,
+    "market_share_pct": 12.27
+  },
+  {
+    "skill": "SQL",
+    "postings_count": 1281,
+    "market_share_pct": 10.51
+  },
+  {
+    "skill": "Java",
+    "postings_count": 922,
+    "market_share_pct": 7.57
+  },
+  {
+    "skill": "Python",
+    "postings_count": 835,
+    "market_share_pct": 6.85
+  },
+  {
+    "skill": "Communication",
+    "postings_count": 745,
+    "market_share_pct": 6.11
+  },
+  {
+    "skill": "SAS",
+    "postings_count": 641,
+    "market_share_pct": 5.26
+  },
+  {
+    "skill": "Business Analysis",
+    "postings_count": 641,
+    "market_share_pct": 5.26
+  },
+  {
+    "skill": "Machine Learning",
+    "postings_count": 619,
+    "market_share_pct": 5.08
+  },
+  {
+    "skill": "R",
+    "postings_count": 617,
+    "market_share_pct": 5.06
+  },
+  {
+    "skill": "Excel",
+    "postings_count": 612,
+    "market_share_pct": 5.02
+  },
+  {
+    "skill": "JavaScript",
+    "postings_count": 559,
+    "market_share_pct": 4.59
+  },
+  {
+    "skill": "Project Management",
+    "postings_count": 532,
+    "market_share_pct": 4.37
+  },
+  {
+    "skill": "SEM",
+    "postings_count": 528,
+    "market_share_pct": 4.33
+  },
+  {
+    "skill": "C",
+    "postings_count": 519,
+    "market_share_pct": 4.26
+  },
+  {
+    "skill": "Hadoop",
+    "postings_count": 517,
+    "market_share_pct": 4.24
+  },
+  {
+    "skill": "Problem Solving",
+    "postings_count": 460,
+    "market_share_pct": 3.77
+  },
+  {
+    "skill": "SEO",
+    "postings_count": 420,
+    "market_share_pct": 3.45
+  },
+  {
+    "skill": "HTML",
+    "postings_count": 366,
+    "market_share_pct": 3.0
+  },
+  {
+    "skill": "REST API",
+    "postings_count": 305,
+    "market_share_pct": 2.5
+  },
+  {
+    "skill": "Leadership",
+    "postings_count": 271,
+    "market_share_pct": 2.22
+  },
+  {
+    "skill": "Agile",
+    "postings_count": 271,
+    "market_share_pct": 2.22
+  },
+  {
+    "skill": "Data Science",
+    "postings_count": 270,
+    "market_share_pct": 2.22
+  },
+  {
+    "skill": "Oracle",
+    "postings_count": 269,
+    "market_share_pct": 2.21
+  },
+  {
+    "skill": "Linux",
+    "postings_count": 268,
+    "market_share_pct": 2.2
+  }
+]
