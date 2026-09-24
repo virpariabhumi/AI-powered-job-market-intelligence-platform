@@ -1,0 +1,802 @@
+{
+  "ASP.NET": {
+    "skill": "ASP.NET",
+    "category": "Web & Frameworks",
+    "postings_count": 166,
+    "roles_covered": 10,
+    "saturation_score": 27.5,
+    "level": "Low",
+    "explanation": "'ASP.NET' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'ASP.NET' can significantly boost your profile visibility for specialized positions."
+  },
+  "AWS": {
+    "skill": "AWS",
+    "category": "Cloud & DevOps",
+    "postings_count": 119,
+    "roles_covered": 12,
+    "saturation_score": 31.1,
+    "level": "Low",
+    "explanation": "'AWS' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'AWS' can significantly boost your profile visibility for specialized positions."
+  },
+  "Agile": {
+    "skill": "Agile",
+    "category": "Management & Soft Skills",
+    "postings_count": 271,
+    "roles_covered": 15,
+    "saturation_score": 41.7,
+    "level": "Medium",
+    "explanation": "'Agile' has healthy, steady demand across 15 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Agile' to prove competency."
+  },
+  "Algorithms": {
+    "skill": "Algorithms",
+    "category": "Data Science & AI",
+    "postings_count": 264,
+    "roles_covered": 14,
+    "saturation_score": 39.2,
+    "level": "Medium",
+    "explanation": "'Algorithms' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Algorithms' to prove competency."
+  },
+  "Angular": {
+    "skill": "Angular",
+    "category": "Web & Frameworks",
+    "postings_count": 143,
+    "roles_covered": 11,
+    "saturation_score": 29.3,
+    "level": "Low",
+    "explanation": "'Angular' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Angular' can significantly boost your profile visibility for specialized positions."
+  },
+  "Ansible": {
+    "skill": "Ansible",
+    "category": "Cloud & DevOps",
+    "postings_count": 41,
+    "roles_covered": 5,
+    "saturation_score": 12.7,
+    "level": "Low",
+    "explanation": "'Ansible' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Ansible' can significantly boost your profile visibility for specialized positions."
+  },
+  "Apache Spark": {
+    "skill": "Apache Spark",
+    "category": "Data Science & AI",
+    "postings_count": 241,
+    "roles_covered": 9,
+    "saturation_score": 26.9,
+    "level": "Low",
+    "explanation": "'Apache Spark' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Apache Spark' can significantly boost your profile visibility for specialized positions."
+  },
+  "Azure": {
+    "skill": "Azure",
+    "category": "Cloud & DevOps",
+    "postings_count": 115,
+    "roles_covered": 11,
+    "saturation_score": 28.6,
+    "level": "Low",
+    "explanation": "'Azure' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Azure' can significantly boost your profile visibility for specialized positions."
+  },
+  "Bootstrap": {
+    "skill": "Bootstrap",
+    "category": "Web & Frameworks",
+    "postings_count": 43,
+    "roles_covered": 6,
+    "saturation_score": 15.1,
+    "level": "Low",
+    "explanation": "'Bootstrap' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Bootstrap' can significantly boost your profile visibility for specialized positions."
+  },
+  "Business Analysis": {
+    "skill": "Business Analysis",
+    "category": "Management & Soft Skills",
+    "postings_count": 641,
+    "roles_covered": 12,
+    "saturation_score": 43.4,
+    "level": "Medium",
+    "explanation": "'Business Analysis' has healthy, steady demand across 12 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Business Analysis' to prove competency."
+  },
+  "C": {
+    "skill": "C",
+    "category": "Programming Languages",
+    "postings_count": 519,
+    "roles_covered": 16,
+    "saturation_score": 49.9,
+    "level": "Medium",
+    "explanation": "'C' has healthy, steady demand across 16 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'C' to prove competency."
+  },
+  "C#": {
+    "skill": "C#",
+    "category": "Programming Languages",
+    "postings_count": 181,
+    "roles_covered": 14,
+    "saturation_score": 37.2,
+    "level": "Medium",
+    "explanation": "'C#' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'C#' to prove competency."
+  },
+  "C++": {
+    "skill": "C++",
+    "category": "Programming Languages",
+    "postings_count": 215,
+    "roles_covered": 10,
+    "saturation_score": 28.6,
+    "level": "Low",
+    "explanation": "'C++' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'C++' can significantly boost your profile visibility for specialized positions."
+  },
+  "CI/CD": {
+    "skill": "CI/CD",
+    "category": "Cloud & DevOps",
+    "postings_count": 58,
+    "roles_covered": 8,
+    "saturation_score": 20.2,
+    "level": "Low",
+    "explanation": "'CI/CD' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'CI/CD' can significantly boost your profile visibility for specialized positions."
+  },
+  "CSS": {
+    "skill": "CSS",
+    "category": "Web & Frameworks",
+    "postings_count": 255,
+    "roles_covered": 14,
+    "saturation_score": 39.0,
+    "level": "Medium",
+    "explanation": "'CSS' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'CSS' to prove competency."
+  },
+  "Cassandra": {
+    "skill": "Cassandra",
+    "category": "Databases & Storage",
+    "postings_count": 76,
+    "roles_covered": 9,
+    "saturation_score": 23.0,
+    "level": "Low",
+    "explanation": "'Cassandra' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Cassandra' can significantly boost your profile visibility for specialized positions."
+  },
+  "Communication": {
+    "skill": "Communication",
+    "category": "Management & Soft Skills",
+    "postings_count": 745,
+    "roles_covered": 15,
+    "saturation_score": 52.9,
+    "level": "Medium",
+    "explanation": "'Communication' has healthy, steady demand across 15 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Communication' to prove competency."
+  },
+  "Computer Vision": {
+    "skill": "Computer Vision",
+    "category": "Data Science & AI",
+    "postings_count": 41,
+    "roles_covered": 3,
+    "saturation_score": 8.0,
+    "level": "Low",
+    "explanation": "'Computer Vision' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Computer Vision' can significantly boost your profile visibility for specialized positions."
+  },
+  "Data Analysis": {
+    "skill": "Data Analysis",
+    "category": "Data Science & AI",
+    "postings_count": 2534,
+    "roles_covered": 17,
+    "saturation_score": 100.0,
+    "level": "High",
+    "explanation": "'Data Analysis' appears ubiquitously across 17 different roles. Because a vast majority of candidates know this skill, it has high market saturation.",
+    "recommendation": "Do not rely solely on 'Data Analysis'. Pair it with complementary specialized skills from your skill graph to stand out."
+  },
+  "Data Mining": {
+    "skill": "Data Mining",
+    "category": "Data Science & AI",
+    "postings_count": 215,
+    "roles_covered": 8,
+    "saturation_score": 23.9,
+    "level": "Low",
+    "explanation": "'Data Mining' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Data Mining' can significantly boost your profile visibility for specialized positions."
+  },
+  "Data Science": {
+    "skill": "Data Science",
+    "category": "Data Science & AI",
+    "postings_count": 270,
+    "roles_covered": 12,
+    "saturation_score": 34.6,
+    "level": "Low",
+    "explanation": "'Data Science' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Data Science' can significantly boost your profile visibility for specialized positions."
+  },
+  "Deep Learning": {
+    "skill": "Deep Learning",
+    "category": "Data Science & AI",
+    "postings_count": 150,
+    "roles_covered": 6,
+    "saturation_score": 17.7,
+    "level": "Low",
+    "explanation": "'Deep Learning' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Deep Learning' can significantly boost your profile visibility for specialized positions."
+  },
+  "Django": {
+    "skill": "Django",
+    "category": "Web & Frameworks",
+    "postings_count": 49,
+    "roles_covered": 9,
+    "saturation_score": 22.3,
+    "level": "Low",
+    "explanation": "'Django' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Django' can significantly boost your profile visibility for specialized positions."
+  },
+  "Docker": {
+    "skill": "Docker",
+    "category": "Cloud & DevOps",
+    "postings_count": 46,
+    "roles_covered": 8,
+    "saturation_score": 19.9,
+    "level": "Low",
+    "explanation": "'Docker' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Docker' can significantly boost your profile visibility for specialized positions."
+  },
+  "Elasticsearch": {
+    "skill": "Elasticsearch",
+    "category": "Databases & Storage",
+    "postings_count": 11,
+    "roles_covered": 7,
+    "saturation_score": 16.7,
+    "level": "Low",
+    "explanation": "'Elasticsearch' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Elasticsearch' can significantly boost your profile visibility for specialized positions."
+  },
+  "Excel": {
+    "skill": "Excel",
+    "category": "BI & Analytics Tools",
+    "postings_count": 612,
+    "roles_covered": 12,
+    "saturation_score": 42.7,
+    "level": "Medium",
+    "explanation": "'Excel' has healthy, steady demand across 12 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Excel' to prove competency."
+  },
+  "Express.js": {
+    "skill": "Express.js",
+    "category": "Web & Frameworks",
+    "postings_count": 5,
+    "roles_covered": 1,
+    "saturation_score": 2.5,
+    "level": "Low",
+    "explanation": "'Express.js' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Express.js' can significantly boost your profile visibility for specialized positions."
+  },
+  "Financial Analysis": {
+    "skill": "Financial Analysis",
+    "category": "Management & Soft Skills",
+    "postings_count": 1495,
+    "roles_covered": 12,
+    "saturation_score": 63.6,
+    "level": "Medium",
+    "explanation": "'Financial Analysis' has healthy, steady demand across 12 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Financial Analysis' to prove competency."
+  },
+  "Firebase": {
+    "skill": "Firebase",
+    "category": "Databases & Storage",
+    "postings_count": 3,
+    "roles_covered": 3,
+    "saturation_score": 7.1,
+    "level": "Low",
+    "explanation": "'Firebase' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Firebase' can significantly boost your profile visibility for specialized positions."
+  },
+  "Flask": {
+    "skill": "Flask",
+    "category": "Web & Frameworks",
+    "postings_count": 5,
+    "roles_covered": 3,
+    "saturation_score": 7.2,
+    "level": "Low",
+    "explanation": "'Flask' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Flask' can significantly boost your profile visibility for specialized positions."
+  },
+  "Git": {
+    "skill": "Git",
+    "category": "Cloud & DevOps",
+    "postings_count": 95,
+    "roles_covered": 11,
+    "saturation_score": 28.1,
+    "level": "Low",
+    "explanation": "'Git' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Git' can significantly boost your profile visibility for specialized positions."
+  },
+  "Go": {
+    "skill": "Go",
+    "category": "Programming Languages",
+    "postings_count": 52,
+    "roles_covered": 6,
+    "saturation_score": 15.3,
+    "level": "Low",
+    "explanation": "'Go' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Go' can significantly boost your profile visibility for specialized positions."
+  },
+  "Google Analytics": {
+    "skill": "Google Analytics",
+    "category": "BI & Analytics Tools",
+    "postings_count": 223,
+    "roles_covered": 10,
+    "saturation_score": 28.8,
+    "level": "Low",
+    "explanation": "'Google Analytics' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Google Analytics' can significantly boost your profile visibility for specialized positions."
+  },
+  "Google Cloud Platform": {
+    "skill": "Google Cloud Platform",
+    "category": "Cloud & DevOps",
+    "postings_count": 13,
+    "roles_covered": 4,
+    "saturation_score": 9.7,
+    "level": "Low",
+    "explanation": "'Google Cloud Platform' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Google Cloud Platform' can significantly boost your profile visibility for specialized positions."
+  },
+  "GraphQL": {
+    "skill": "GraphQL",
+    "category": "Web & Frameworks",
+    "postings_count": 1,
+    "roles_covered": 1,
+    "saturation_score": 2.4,
+    "level": "Low",
+    "explanation": "'GraphQL' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'GraphQL' can significantly boost your profile visibility for specialized positions."
+  },
+  "HTML": {
+    "skill": "HTML",
+    "category": "Web & Frameworks",
+    "postings_count": 366,
+    "roles_covered": 15,
+    "saturation_score": 44.0,
+    "level": "Medium",
+    "explanation": "'HTML' has healthy, steady demand across 15 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'HTML' to prove competency."
+  },
+  "Hadoop": {
+    "skill": "Hadoop",
+    "category": "Data Science & AI",
+    "postings_count": 517,
+    "roles_covered": 14,
+    "saturation_score": 45.2,
+    "level": "Medium",
+    "explanation": "'Hadoop' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Hadoop' to prove competency."
+  },
+  "Hive": {
+    "skill": "Hive",
+    "category": "Databases & Storage",
+    "postings_count": 169,
+    "roles_covered": 10,
+    "saturation_score": 27.5,
+    "level": "Low",
+    "explanation": "'Hive' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Hive' can significantly boost your profile visibility for specialized positions."
+  },
+  "Java": {
+    "skill": "Java",
+    "category": "Programming Languages",
+    "postings_count": 922,
+    "roles_covered": 16,
+    "saturation_score": 59.5,
+    "level": "Medium",
+    "explanation": "'Java' has healthy, steady demand across 16 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Java' to prove competency."
+  },
+  "JavaScript": {
+    "skill": "JavaScript",
+    "category": "Programming Languages",
+    "postings_count": 559,
+    "roles_covered": 16,
+    "saturation_score": 50.9,
+    "level": "Medium",
+    "explanation": "'JavaScript' has healthy, steady demand across 16 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'JavaScript' to prove competency."
+  },
+  "Keras": {
+    "skill": "Keras",
+    "category": "Data Science & AI",
+    "postings_count": 7,
+    "roles_covered": 3,
+    "saturation_score": 7.2,
+    "level": "Low",
+    "explanation": "'Keras' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Keras' can significantly boost your profile visibility for specialized positions."
+  },
+  "Kotlin": {
+    "skill": "Kotlin",
+    "category": "Programming Languages",
+    "postings_count": 2,
+    "roles_covered": 2,
+    "saturation_score": 4.8,
+    "level": "Low",
+    "explanation": "'Kotlin' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Kotlin' can significantly boost your profile visibility for specialized positions."
+  },
+  "Kubernetes": {
+    "skill": "Kubernetes",
+    "category": "Cloud & DevOps",
+    "postings_count": 6,
+    "roles_covered": 2,
+    "saturation_score": 4.8,
+    "level": "Low",
+    "explanation": "'Kubernetes' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Kubernetes' can significantly boost your profile visibility for specialized positions."
+  },
+  "Leadership": {
+    "skill": "Leadership",
+    "category": "Management & Soft Skills",
+    "postings_count": 271,
+    "roles_covered": 14,
+    "saturation_score": 39.4,
+    "level": "Medium",
+    "explanation": "'Leadership' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Leadership' to prove competency."
+  },
+  "Linux": {
+    "skill": "Linux",
+    "category": "Cloud & DevOps",
+    "postings_count": 268,
+    "roles_covered": 13,
+    "saturation_score": 36.9,
+    "level": "Medium",
+    "explanation": "'Linux' has healthy, steady demand across 13 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Linux' to prove competency."
+  },
+  "Machine Learning": {
+    "skill": "Machine Learning",
+    "category": "Data Science & AI",
+    "postings_count": 619,
+    "roles_covered": 14,
+    "saturation_score": 47.6,
+    "level": "Medium",
+    "explanation": "'Machine Learning' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Machine Learning' to prove competency."
+  },
+  "MongoDB": {
+    "skill": "MongoDB",
+    "category": "Databases & Storage",
+    "postings_count": 105,
+    "roles_covered": 13,
+    "saturation_score": 33.1,
+    "level": "Low",
+    "explanation": "'MongoDB' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'MongoDB' can significantly boost your profile visibility for specialized positions."
+  },
+  "MySQL": {
+    "skill": "MySQL",
+    "category": "Databases & Storage",
+    "postings_count": 198,
+    "roles_covered": 14,
+    "saturation_score": 37.6,
+    "level": "Medium",
+    "explanation": "'MySQL' has healthy, steady demand across 14 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'MySQL' to prove competency."
+  },
+  "Natural Language Processing": {
+    "skill": "Natural Language Processing",
+    "category": "Data Science & AI",
+    "postings_count": 178,
+    "roles_covered": 12,
+    "saturation_score": 32.4,
+    "level": "Low",
+    "explanation": "'Natural Language Processing' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Natural Language Processing' can significantly boost your profile visibility for specialized positions."
+  },
+  "NoSQL": {
+    "skill": "NoSQL",
+    "category": "Databases & Storage",
+    "postings_count": 170,
+    "roles_covered": 11,
+    "saturation_score": 29.9,
+    "level": "Low",
+    "explanation": "'NoSQL' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'NoSQL' can significantly boost your profile visibility for specialized positions."
+  },
+  "Node.js": {
+    "skill": "Node.js",
+    "category": "Web & Frameworks",
+    "postings_count": 93,
+    "roles_covered": 9,
+    "saturation_score": 23.4,
+    "level": "Low",
+    "explanation": "'Node.js' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Node.js' can significantly boost your profile visibility for specialized positions."
+  },
+  "NumPy": {
+    "skill": "NumPy",
+    "category": "Data Science & AI",
+    "postings_count": 18,
+    "roles_covered": 5,
+    "saturation_score": 12.2,
+    "level": "Low",
+    "explanation": "'NumPy' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'NumPy' can significantly boost your profile visibility for specialized positions."
+  },
+  "Oracle": {
+    "skill": "Oracle",
+    "category": "Databases & Storage",
+    "postings_count": 269,
+    "roles_covered": 11,
+    "saturation_score": 32.3,
+    "level": "Low",
+    "explanation": "'Oracle' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Oracle' can significantly boost your profile visibility for specialized positions."
+  },
+  "PHP": {
+    "skill": "PHP",
+    "category": "Programming Languages",
+    "postings_count": 130,
+    "roles_covered": 15,
+    "saturation_score": 38.4,
+    "level": "Medium",
+    "explanation": "'PHP' has healthy, steady demand across 15 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'PHP' to prove competency."
+  },
+  "Pandas": {
+    "skill": "Pandas",
+    "category": "Data Science & AI",
+    "postings_count": 6,
+    "roles_covered": 4,
+    "saturation_score": 9.6,
+    "level": "Low",
+    "explanation": "'Pandas' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Pandas' can significantly boost your profile visibility for specialized positions."
+  },
+  "PostgreSQL": {
+    "skill": "PostgreSQL",
+    "category": "Databases & Storage",
+    "postings_count": 43,
+    "roles_covered": 8,
+    "saturation_score": 19.8,
+    "level": "Low",
+    "explanation": "'PostgreSQL' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'PostgreSQL' can significantly boost your profile visibility for specialized positions."
+  },
+  "Power BI": {
+    "skill": "Power BI",
+    "category": "BI & Analytics Tools",
+    "postings_count": 82,
+    "roles_covered": 7,
+    "saturation_score": 18.4,
+    "level": "Low",
+    "explanation": "'Power BI' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Power BI' can significantly boost your profile visibility for specialized positions."
+  },
+  "Problem Solving": {
+    "skill": "Problem Solving",
+    "category": "Management & Soft Skills",
+    "postings_count": 460,
+    "roles_covered": 17,
+    "saturation_score": 50.9,
+    "level": "Medium",
+    "explanation": "'Problem Solving' has healthy, steady demand across 17 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Problem Solving' to prove competency."
+  },
+  "Product Management": {
+    "skill": "Product Management",
+    "category": "Management & Soft Skills",
+    "postings_count": 231,
+    "roles_covered": 8,
+    "saturation_score": 24.3,
+    "level": "Low",
+    "explanation": "'Product Management' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Product Management' can significantly boost your profile visibility for specialized positions."
+  },
+  "Project Management": {
+    "skill": "Project Management",
+    "category": "Management & Soft Skills",
+    "postings_count": 532,
+    "roles_covered": 16,
+    "saturation_score": 50.2,
+    "level": "Medium",
+    "explanation": "'Project Management' has healthy, steady demand across 16 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Project Management' to prove competency."
+  },
+  "PyTorch": {
+    "skill": "PyTorch",
+    "category": "Data Science & AI",
+    "postings_count": 9,
+    "roles_covered": 3,
+    "saturation_score": 7.3,
+    "level": "Low",
+    "explanation": "'PyTorch' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'PyTorch' can significantly boost your profile visibility for specialized positions."
+  },
+  "Python": {
+    "skill": "Python",
+    "category": "Programming Languages",
+    "postings_count": 835,
+    "roles_covered": 15,
+    "saturation_score": 55.1,
+    "level": "Medium",
+    "explanation": "'Python' has healthy, steady demand across 15 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'Python' to prove competency."
+  },
+  "R": {
+    "skill": "R",
+    "category": "Programming Languages",
+    "postings_count": 617,
+    "roles_covered": 10,
+    "saturation_score": 38.1,
+    "level": "Medium",
+    "explanation": "'R' has healthy, steady demand across 10 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'R' to prove competency."
+  },
+  "REST API": {
+    "skill": "REST API",
+    "category": "Web & Frameworks",
+    "postings_count": 305,
+    "roles_covered": 16,
+    "saturation_score": 44.9,
+    "level": "Medium",
+    "explanation": "'REST API' has healthy, steady demand across 16 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'REST API' to prove competency."
+  },
+  "React": {
+    "skill": "React",
+    "category": "Web & Frameworks",
+    "postings_count": 37,
+    "roles_covered": 6,
+    "saturation_score": 15.0,
+    "level": "Low",
+    "explanation": "'React' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'React' can significantly boost your profile visibility for specialized positions."
+  },
+  "Redis": {
+    "skill": "Redis",
+    "category": "Databases & Storage",
+    "postings_count": 46,
+    "roles_covered": 11,
+    "saturation_score": 27.0,
+    "level": "Low",
+    "explanation": "'Redis' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Redis' can significantly boost your profile visibility for specialized positions."
+  },
+  "Ruby": {
+    "skill": "Ruby",
+    "category": "Programming Languages",
+    "postings_count": 44,
+    "roles_covered": 9,
+    "saturation_score": 22.2,
+    "level": "Low",
+    "explanation": "'Ruby' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Ruby' can significantly boost your profile visibility for specialized positions."
+  },
+  "SAS": {
+    "skill": "SAS",
+    "category": "Data Science & AI",
+    "postings_count": 641,
+    "roles_covered": 10,
+    "saturation_score": 38.7,
+    "level": "Medium",
+    "explanation": "'SAS' has healthy, steady demand across 10 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'SAS' to prove competency."
+  },
+  "SEM": {
+    "skill": "SEM",
+    "category": "BI & Analytics Tools",
+    "postings_count": 528,
+    "roles_covered": 8,
+    "saturation_score": 31.3,
+    "level": "Low",
+    "explanation": "'SEM' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'SEM' can significantly boost your profile visibility for specialized positions."
+  },
+  "SEO": {
+    "skill": "SEO",
+    "category": "BI & Analytics Tools",
+    "postings_count": 420,
+    "roles_covered": 10,
+    "saturation_score": 33.5,
+    "level": "Low",
+    "explanation": "'SEO' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'SEO' can significantly boost your profile visibility for specialized positions."
+  },
+  "SQL": {
+    "skill": "SQL",
+    "category": "Databases & Storage",
+    "postings_count": 1281,
+    "roles_covered": 17,
+    "saturation_score": 70.3,
+    "level": "High",
+    "explanation": "'SQL' appears ubiquitously across 17 different roles. Because a vast majority of candidates know this skill, it has high market saturation.",
+    "recommendation": "Do not rely solely on 'SQL'. Pair it with complementary specialized skills from your skill graph to stand out."
+  },
+  "SQL Server": {
+    "skill": "SQL Server",
+    "category": "Databases & Storage",
+    "postings_count": 255,
+    "roles_covered": 13,
+    "saturation_score": 36.6,
+    "level": "Medium",
+    "explanation": "'SQL Server' has healthy, steady demand across 13 roles with moderate candidate supply.",
+    "recommendation": "Valuable core skill. Build practical end-to-end projects demonstrating 'SQL Server' to prove competency."
+  },
+  "Scala": {
+    "skill": "Scala",
+    "category": "Programming Languages",
+    "postings_count": 118,
+    "roles_covered": 10,
+    "saturation_score": 26.3,
+    "level": "Low",
+    "explanation": "'Scala' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Scala' can significantly boost your profile visibility for specialized positions."
+  },
+  "Spring Boot": {
+    "skill": "Spring Boot",
+    "category": "Web & Frameworks",
+    "postings_count": 49,
+    "roles_covered": 7,
+    "saturation_score": 17.6,
+    "level": "Low",
+    "explanation": "'Spring Boot' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Spring Boot' can significantly boost your profile visibility for specialized positions."
+  },
+  "Swift": {
+    "skill": "Swift",
+    "category": "Programming Languages",
+    "postings_count": 32,
+    "roles_covered": 4,
+    "saturation_score": 10.2,
+    "level": "Low",
+    "explanation": "'Swift' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Swift' can significantly boost your profile visibility for specialized positions."
+  },
+  "Tableau": {
+    "skill": "Tableau",
+    "category": "BI & Analytics Tools",
+    "postings_count": 180,
+    "roles_covered": 9,
+    "saturation_score": 25.4,
+    "level": "Low",
+    "explanation": "'Tableau' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Tableau' can significantly boost your profile visibility for specialized positions."
+  },
+  "TensorFlow": {
+    "skill": "TensorFlow",
+    "category": "Data Science & AI",
+    "postings_count": 14,
+    "roles_covered": 3,
+    "saturation_score": 7.4,
+    "level": "Low",
+    "explanation": "'TensorFlow' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'TensorFlow' can significantly boost your profile visibility for specialized positions."
+  },
+  "TypeScript": {
+    "skill": "TypeScript",
+    "category": "Programming Languages",
+    "postings_count": 33,
+    "roles_covered": 6,
+    "saturation_score": 14.9,
+    "level": "Low",
+    "explanation": "'TypeScript' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'TypeScript' can significantly boost your profile visibility for specialized positions."
+  },
+  "Vue.js": {
+    "skill": "Vue.js",
+    "category": "Web & Frameworks",
+    "postings_count": 2,
+    "roles_covered": 2,
+    "saturation_score": 4.8,
+    "level": "Low",
+    "explanation": "'Vue.js' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'Vue.js' can significantly boost your profile visibility for specialized positions."
+  },
+  "jQuery": {
+    "skill": "jQuery",
+    "category": "Web & Frameworks",
+    "postings_count": 208,
+    "roles_covered": 12,
+    "saturation_score": 33.2,
+    "level": "Low",
+    "explanation": "'jQuery' is a specialized or emerging technology with lower candidate saturation and focused role demand.",
+    "recommendation": "Excellent differentiator! Mastering 'jQuery' can significantly boost your profile visibility for specialized positions."
+  }
+}
